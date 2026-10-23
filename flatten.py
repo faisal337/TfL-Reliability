@@ -7,14 +7,6 @@ RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/processed")
 OUT_FILE = OUT_DIR / "line_status.csv"
 
-# Severity code -> label, taken from the sample data.
-# Other codes will be added as they appear. Check the full list against TfL's documentation.
-KNOWN_SEVERITIES = {
-    10: "Good Service",
-    7: "Reduced Service",
-}
-
-
 def iter_rows():
     """Yield one dict per line per status per snapshot."""
     for path in sorted(RAW_DIR.glob("*/*.json")):

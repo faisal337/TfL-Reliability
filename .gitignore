@@ -1,4 +1,9 @@
-.venv/
+data/raw/
+data/processed/line_status.csv
+infra/.terraform/
+infra/*.tfstate*
+infra/poller.zip
+out.json
 .env
-data/
+.venv/
 __pycache__/
