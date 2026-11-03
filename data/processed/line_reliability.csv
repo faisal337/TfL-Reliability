@@ -1,20 +1,20 @@
 line_id,line_name,mode,polls,good_service_pct,reliable_pct,episodes,disrupted_minutes,worst_hour,worst_hour_disrupted_pct,worst_weekday,worst_weekday_disrupted_pct
-bakerloo,Bakerloo,tube,1657,79.5,79.5,6,1700.0,16.0,48.6,Sunday,82.0
-central,Central,tube,1729,55.9,55.9,10,3815.0,16.0,66.7,Tuesday,75.2
-circle,Circle,tube,1658,86.3,86.3,3,1135.0,10.0,27.4,Tuesday,40.8
-district,District,tube,1702,47.2,63.7,18,3090.0,7.0,53.6,Tuesday,92.4
-dlr,DLR,dlr,1667,83.3,98.3,3,140.0,9.0,14.3,Wednesday,6.0
-elizabeth,Elizabeth line,elizabeth-line,1668,66.5,66.5,15,2788.9,23.0,78.4,Sunday,100.0
-hammersmith-city,Hammersmith & City,tube,1658,82.5,82.5,8,1450.0,11.0,35.7,Saturday,61.3
-jubilee,Jubilee,tube,1731,90.2,90.2,5,845.0,18.0,48.6,Wednesday,42.1
-liberty,Liberty,overground,1660,100.0,100.0,0,0.0,,,,
-lioness,Lioness,overground,1660,82.1,82.1,2,1485.0,16.0,33.3,Saturday,70.0
-metropolitan,Metropolitan,tube,1659,66.1,66.1,16,2815.0,23.0,78.4,Friday,72.0
-mildmay,Mildmay,overground,1668,80.0,87.2,6,1062.4,20.0,33.3,Wednesday,36.5
-northern,Northern,tube,1732,92.1,92.1,10,680.0,17.0,23.6,Friday,44.8
-piccadilly,Piccadilly,tube,1741,45.1,78.2,13,1891.9,0.0,41.5,Friday,78.7
-suffragette,Suffragette,overground,1675,82.6,97.9,3,172.4,13.0,17.9,Friday,17.2
-victoria,Victoria,tube,1733,69.0,69.0,13,2676.9,21.0,66.7,Saturday,58.0
-waterloo-city,Waterloo & City,tube,1549,67.1,99.3,1,55.0,7.0,13.1,Friday,9.1
-weaver,Weaver,overground,1705,62.6,94.2,2,495.0,15.0,15.4,Monday,38.5
-windrush,Windrush,overground,1741,93.9,96.3,7,320.0,14.0,14.3,Saturday,8.0
+bakerloo,Bakerloo,tube,4419,78.3,78.3,18,4785.0,19.0,45.6,Sunday,70.6
+central,Central,tube,4634,51.8,51.8,27,11165.0,17.0,76.5,Wednesday,74.1
+circle,Circle,tube,4459,77.3,89.4,17,2365.0,10.0,22.7,Tuesday,28.3
+district,District,tube,4503,42.4,60.9,45,8810.0,7.0,61.9,Tuesday,65.0
+dlr,DLR,dlr,4444,79.6,95.8,14,925.0,19.0,11.3,Thursday,8.1
+elizabeth,Elizabeth line,elizabeth-line,4444,65.6,65.6,29,7638.9,19.0,52.9,Sunday,99.5
+hammersmith-city,Hammersmith & City,tube,4421,88.3,88.3,17,2585.0,10.0,23.1,Tuesday,26.2
+jubilee,Jubilee,tube,4637,85.1,85.1,19,3450.0,18.0,37.7,Wednesday,28.9
+liberty,Liberty,overground,4425,100.0,100.0,0,0.0,,,,
+lioness,Lioness,overground,4423,91.0,91.0,6,2000.0,17.0,17.6,Saturday,34.2
+metropolitan,Metropolitan,tube,4421,64.6,64.6,49,7835.0,23.0,63.1,Friday,50.2
+mildmay,Mildmay,overground,4493,68.2,78.7,20,4782.4,22.0,47.1,Wednesday,51.5
+northern,Northern,tube,4641,85.4,85.4,26,3385.0,3.0,23.6,Friday,31.2
+piccadilly,Piccadilly,tube,4726,43.9,85.5,24,3406.9,0.0,26.6,Friday,33.0
+suffragette,Suffragette,overground,4696,30.0,67.6,16,7602.4,23.0,45.6,Wednesday,46.9
+victoria,Victoria,tube,4634,70.8,70.8,31,6746.9,18.0,54.9,Friday,42.7
+waterloo-city,Waterloo & City,tube,4136,62.9,99.3,2,145.0,7.0,10.2,Monday,2.7
+weaver,Weaver,overground,4470,83.6,95.6,4,980.0,18.0,11.8,Monday,13.0
+windrush,Windrush,overground,4672,73.9,93.7,12,1465.0,11.0,15.3,Friday,21.5

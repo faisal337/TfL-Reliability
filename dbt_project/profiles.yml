@@ -1,0 +1,43 @@
+version: 2
+
+sources:
+  - name: tfl_raw
+    schema: main
+    tables:
+      - name: line_status_raw
+        description: "Flattened TfL Line Status snapshots, one row per line per status per poll."
+        columns:
+          - name: fetched_at_utc
+            tests: [not_null]
+          - name: line_id
+            tests: [not_null]
+
+models:
+  - name: stg_line_status
+    columns:
+      - name: status_severity
+        tests:
+          - not_null
+          - accepted_values:
+              values: [2, 3, 4, 5, 6, 7, 9, 10, 20]
+
+  - name: int_per_poll
+    description: "One row per line per poll, with the worst status and reliability flags."
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns: [fetched_at_utc, line_id]
+    columns:
+      - name: is_reliable
+        tests: [not_null]
+
+  - name: mart_line_reliability
+    description: "Reliable % and good service % per line over the full period."
+    columns:
+      - name: reliable_pct
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
+              max_value: 100
+
+  - name: mart_episodes
+    description: "Runs of consecutive unreliable polls per line."

@@ -3,4 +3,4 @@ python-dotenv
 pandas
 streamlit
 plotly
-Path
+boto3
