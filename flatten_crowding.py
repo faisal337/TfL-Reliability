@@ -2,18 +2,24 @@
 import gzip
 import json
 from pathlib import Path
-
+import re
 import pandas as pd
 
 RAW_DIR = Path("data/raw/crowding")
 STATIONS_FILE = Path("reference/tube_stations.json")
 OUT_FILE = Path("data/processed/crowding_readings.csv")
+OUT_DIR = Path("data/processed")
+
+
+def clean_name(name: str) -> str:
+    return re.sub(r"\s+underground station$", "", name, flags=re.IGNORECASE).strip()
 
 
 def load_station_names() -> dict[str, str]:
     if not STATIONS_FILE.exists():
         return {}
-    return {s["naptan"]: s["name"] for s in json.loads(STATIONS_FILE.read_text(encoding="utf-8"))}
+    stations = json.loads(STATIONS_FILE.read_text(encoding="utf-8"))
+    return {s["naptan"]: clean_name(s["name"]) for s in stations}
 
 
 def iter_rows(names: dict[str, str]):
@@ -51,9 +57,20 @@ def main() -> None:
     df["reading_utc"] = pd.to_datetime(df["reading_utc"], utc=True, errors="coerce")
     df["lag_min"] = (df["poll_utc"] - df["reading_utc"]).dt.total_seconds() / 60
     df = df.drop_duplicates(subset=["poll_utc", "station_naptan"])
+    df["crowding_pct"] = (df["pct_of_baseline"] * 100).round(2)
 
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(OUT_FILE, index=False)
+    good = df[df["fetch_ok"] & (df["data_available"] == True)].copy()  
+    good["hour"] = pd.to_datetime(good["reading_local"]).dt.hour
+    crowd_hourly = (
+        good.groupby(["station_name", "hour"])
+        .agg(avg_pct=("crowding_pct", "mean"), n=("crowding_pct", "size"))
+        .reset_index()
+    )
+    crowd_hourly["avg_pct"] = crowd_hourly["avg_pct"].round(1)
+    crowd_hourly["avg_pct"] = crowd_hourly["avg_pct"].round(4)
+    crowd_hourly.to_csv(OUT_DIR / "crowding_hourly.csv", index=False)
 
     ok = df[df["fetch_ok"]]
     avail = ok[ok["data_available"] == True]  # noqa: E712

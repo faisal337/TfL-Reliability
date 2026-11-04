@@ -1,0 +1,6073 @@
+station_name,hour,avg_pct,n
+Acton Town,0,3.9,144
+Acton Town,1,1.5,147
+Acton Town,2,0.8,140
+Acton Town,3,0.4,125
+Acton Town,4,0.3,133
+Acton Town,5,1.7,131
+Acton Town,6,7.0,133
+Acton Town,7,16.2,130
+Acton Town,8,24.5,140
+Acton Town,9,20.9,129
+Acton Town,10,16.9,131
+Acton Town,11,14.8,133
+Acton Town,12,16.0,131
+Acton Town,13,15.3,131
+Acton Town,14,16.2,134
+Acton Town,15,15.0,131
+Acton Town,16,16.3,134
+Acton Town,17,19.8,136
+Acton Town,18,21.2,130
+Acton Town,19,16.4,128
+Acton Town,20,11.6,129
+Acton Town,21,9.1,121
+Acton Town,22,8.0,130
+Acton Town,23,7.2,155
+Aldgate,0,1.9,142
+Aldgate,1,0.5,151
+Aldgate,2,0.3,138
+Aldgate,3,0.2,123
+Aldgate,4,0.1,132
+Aldgate,5,0.4,136
+Aldgate,6,2.0,134
+Aldgate,7,6.3,132
+Aldgate,8,12.8,133
+Aldgate,9,15.0,131
+Aldgate,10,9.7,131
+Aldgate,11,8.6,134
+Aldgate,12,9.1,130
+Aldgate,13,9.1,130
+Aldgate,14,9.0,132
+Aldgate,15,9.7,132
+Aldgate,16,12.9,131
+Aldgate,17,18.7,137
+Aldgate,18,15.2,130
+Aldgate,19,9.9,131
+Aldgate,20,6.9,126
+Aldgate,21,5.7,123
+Aldgate,22,5.0,132
+Aldgate,23,4.2,154
+Aldgate East,0,7.3,143
+Aldgate East,1,1.2,149
+Aldgate East,2,0.2,140
+Aldgate East,3,0.2,123
+Aldgate East,4,0.1,135
+Aldgate East,5,1.2,132
+Aldgate East,6,6.1,132
+Aldgate East,7,13.2,137
+Aldgate East,8,20.5,134
+Aldgate East,9,23.5,124
+Aldgate East,10,16.4,133
+Aldgate East,11,15.7,134
+Aldgate East,12,16.4,132
+Aldgate East,13,17.8,130
+Aldgate East,14,18.5,133
+Aldgate East,15,19.5,130
+Aldgate East,16,24.0,134
+Aldgate East,17,29.6,133
+Aldgate East,18,30.3,133
+Aldgate East,19,21.3,129
+Aldgate East,20,16.2,127
+Aldgate East,21,14.1,122
+Aldgate East,22,12.9,132
+Aldgate East,23,11.6,152
+Alperton,0,3.4,141
+Alperton,1,1.6,150
+Alperton,2,0.8,142
+Alperton,3,0.6,123
+Alperton,4,0.5,134
+Alperton,5,1.9,132
+Alperton,6,4.5,133
+Alperton,7,9.0,132
+Alperton,8,13.1,134
+Alperton,9,10.8,129
+Alperton,10,10.6,136
+Alperton,11,9.9,129
+Alperton,12,10.4,133
+Alperton,13,10.9,132
+Alperton,14,11.2,133
+Alperton,15,11.7,131
+Alperton,16,12.1,133
+Alperton,17,12.2,134
+Alperton,18,12.1,129
+Alperton,19,10.2,134
+Alperton,20,8.2,124
+Alperton,21,6.3,125
+Alperton,22,5.3,132
+Alperton,23,4.4,151
+Amersham,0,1.8,146
+Amersham,1,0.8,147
+Amersham,2,0.3,136
+Amersham,3,0.3,99
+Amersham,4,0.0,122
+Amersham,5,1.2,129
+Amersham,6,5.6,133
+Amersham,7,11.8,131
+Amersham,8,11.2,135
+Amersham,9,6.7,132
+Amersham,10,7.3,132
+Amersham,11,6.9,133
+Amersham,12,6.2,131
+Amersham,13,6.8,130
+Amersham,14,5.5,134
+Amersham,15,5.9,131
+Amersham,16,7.6,136
+Amersham,17,8.8,131
+Amersham,18,9.3,132
+Amersham,19,8.1,126
+Amersham,20,5.2,129
+Amersham,21,3.5,126
+Amersham,22,3.2,128
+Amersham,23,2.5,152
+Angel,0,6.9,147
+Angel,1,0.6,149
+Angel,2,0.2,139
+Angel,3,0.2,125
+Angel,4,0.2,129
+Angel,5,0.2,133
+Angel,6,3.0,137
+Angel,7,10.2,129
+Angel,8,24.8,138
+Angel,9,28.5,128
+Angel,10,20.4,134
+Angel,11,18.7,130
+Angel,12,21.6,133
+Angel,13,23.5,129
+Angel,14,23.0,133
+Angel,15,23.6,135
+Angel,16,28.1,134
+Angel,17,35.0,132
+Angel,18,39.2,130
+Angel,19,29.0,132
+Angel,20,19.9,127
+Angel,21,17.0,117
+Angel,22,17.5,134
+Angel,23,15.5,150
+Archway,0,3.0,142
+Archway,1,1.4,152
+Archway,2,1.1,140
+Archway,3,0.9,123
+Archway,4,0.5,122
+Archway,5,0.6,131
+Archway,6,2.9,132
+Archway,7,9.5,131
+Archway,8,18.7,136
+Archway,9,17.3,131
+Archway,10,12.5,131
+Archway,11,11.5,133
+Archway,12,12.4,130
+Archway,13,13.2,132
+Archway,14,12.9,132
+Archway,15,13.1,134
+Archway,16,15.7,133
+Archway,17,18.6,133
+Archway,18,20.9,131
+Archway,19,16.2,129
+Archway,20,11.5,127
+Archway,21,8.6,126
+Archway,22,8.3,130
+Archway,23,6.6,152
+Arnos Grove,0,3.4,145
+Arnos Grove,1,2.0,149
+Arnos Grove,2,1.7,141
+Arnos Grove,3,0.9,120
+Arnos Grove,4,0.5,136
+Arnos Grove,5,1.9,131
+Arnos Grove,6,5.1,132
+Arnos Grove,7,11.9,134
+Arnos Grove,8,19.1,135
+Arnos Grove,9,13.9,132
+Arnos Grove,10,10.1,132
+Arnos Grove,11,9.8,129
+Arnos Grove,12,9.8,131
+Arnos Grove,13,9.9,133
+Arnos Grove,14,10.7,130
+Arnos Grove,15,9.6,135
+Arnos Grove,16,11.3,134
+Arnos Grove,17,14.9,132
+Arnos Grove,18,16.9,129
+Arnos Grove,19,10.0,131
+Arnos Grove,20,7.8,126
+Arnos Grove,21,6.1,124
+Arnos Grove,22,5.0,133
+Arnos Grove,23,5.0,151
+Baker Street,0,6.5,142
+Baker Street,1,1.5,150
+Baker Street,2,0.9,137
+Baker Street,3,0.7,127
+Baker Street,4,0.5,133
+Baker Street,5,0.8,131
+Baker Street,6,4.6,134
+Baker Street,7,13.2,133
+Baker Street,8,23.1,134
+Baker Street,9,18.5,132
+Baker Street,10,17.0,130
+Baker Street,11,18.0,132
+Baker Street,12,19.5,133
+Baker Street,13,20.6,131
+Baker Street,14,20.7,134
+Baker Street,15,22.4,129
+Baker Street,16,27.1,134
+Baker Street,17,29.4,133
+Baker Street,18,22.1,132
+Baker Street,19,19.6,130
+Baker Street,20,18.3,130
+Baker Street,21,14.5,121
+Baker Street,22,14.4,134
+Baker Street,23,12.6,150
+Balham,0,4.5,145
+Balham,1,2.6,149
+Balham,2,1.7,137
+Balham,3,0.8,124
+Balham,4,0.4,135
+Balham,5,0.8,131
+Balham,6,4.5,134
+Balham,7,12.6,131
+Balham,8,25.7,137
+Balham,9,17.5,131
+Balham,10,10.6,132
+Balham,11,11.0,130
+Balham,12,12.0,131
+Balham,13,12.4,133
+Balham,14,11.5,130
+Balham,15,11.6,136
+Balham,16,13.6,131
+Balham,17,19.1,132
+Balham,18,24.9,132
+Balham,19,18.0,129
+Balham,20,11.1,128
+Balham,21,8.7,122
+Balham,22,8.0,130
+Balham,23,7.5,153
+Bank,0,2.2,143
+Bank,1,0.8,149
+Bank,2,0.5,140
+Bank,3,0.4,124
+Bank,4,0.2,132
+Bank,5,0.3,130
+Bank,6,3.3,136
+Bank,7,10.9,134
+Bank,8,26.1,132
+Bank,9,26.1,130
+Bank,10,9.9,131
+Bank,11,7.8,133
+Bank,12,8.7,133
+Bank,13,8.8,131
+Bank,14,8.7,130
+Bank,15,10.0,135
+Bank,16,14.0,132
+Bank,17,26.9,134
+Bank,18,26.9,129
+Bank,19,14.0,131
+Bank,20,8.3,129
+Bank,21,6.5,123
+Bank,22,5.9,131
+Bank,23,4.8,151
+Barbican,0,2.5,148
+Barbican,1,0.2,136
+Barbican,2,0.1,127
+Barbican,3,0.0,109
+Barbican,4,0.0,100
+Barbican,5,0.5,125
+Barbican,6,2.8,127
+Barbican,7,8.4,134
+Barbican,8,17.3,135
+Barbican,9,20.1,129
+Barbican,10,12.5,133
+Barbican,11,10.8,131
+Barbican,12,11.2,131
+Barbican,13,11.8,132
+Barbican,14,11.4,133
+Barbican,15,12.7,130
+Barbican,16,16.4,132
+Barbican,17,22.8,138
+Barbican,18,24.4,130
+Barbican,19,15.0,128
+Barbican,20,9.7,128
+Barbican,21,7.9,124
+Barbican,22,7.1,132
+Barbican,23,5.3,150
+Barking,0,5.3,143
+Barking,1,2.0,150
+Barking,2,1.2,139
+Barking,3,1.1,122
+Barking,4,1.1,133
+Barking,5,7.4,132
+Barking,6,20.6,134
+Barking,7,27.5,133
+Barking,8,31.8,136
+Barking,9,26.8,129
+Barking,10,22.1,134
+Barking,11,21.3,130
+Barking,12,21.1,130
+Barking,13,22.3,134
+Barking,14,21.6,131
+Barking,15,21.3,131
+Barking,16,23.6,137
+Barking,17,25.4,134
+Barking,18,24.5,130
+Barking,19,20.6,126
+Barking,20,15.9,129
+Barking,21,13.6,124
+Barking,22,11.6,129
+Barking,23,10.4,155
+Barkingside,0,2.4,144
+Barkingside,1,1.2,148
+Barkingside,2,0.4,143
+Barkingside,3,0.4,122
+Barkingside,4,0.5,133
+Barkingside,5,3.8,133
+Barkingside,6,11.8,132
+Barkingside,7,14.8,133
+Barkingside,8,18.0,134
+Barkingside,9,12.8,131
+Barkingside,10,10.2,133
+Barkingside,11,10.4,131
+Barkingside,12,10.8,132
+Barkingside,13,10.3,131
+Barkingside,14,9.8,130
+Barkingside,15,10.2,133
+Barkingside,16,10.6,135
+Barkingside,17,12.8,134
+Barkingside,18,13.0,129
+Barkingside,19,10.6,130
+Barkingside,20,7.9,127
+Barkingside,21,6.2,124
+Barkingside,22,5.3,131
+Barkingside,23,4.4,152
+Barons Court,0,2.1,143
+Barons Court,1,1.1,149
+Barons Court,2,0.7,141
+Barons Court,3,0.5,124
+Barons Court,4,0.3,132
+Barons Court,5,0.5,132
+Barons Court,6,3.3,134
+Barons Court,7,9.2,131
+Barons Court,8,19.5,135
+Barons Court,9,16.4,131
+Barons Court,10,12.3,132
+Barons Court,11,12.0,132
+Barons Court,12,12.2,129
+Barons Court,13,12.1,134
+Barons Court,14,11.6,131
+Barons Court,15,11.3,132
+Barons Court,16,12.6,134
+Barons Court,17,15.9,136
+Barons Court,18,15.7,129
+Barons Court,19,10.3,128
+Barons Court,20,7.6,128
+Barons Court,21,5.9,124
+Barons Court,22,6.4,130
+Barons Court,23,5.8,155
+Bayswater,0,2.8,145
+Bayswater,1,0.4,152
+Bayswater,2,0.2,139
+Bayswater,3,0.1,123
+Bayswater,4,0.1,132
+Bayswater,5,0.4,130
+Bayswater,6,1.9,135
+Bayswater,7,6.9,133
+Bayswater,8,17.2,132
+Bayswater,9,18.3,133
+Bayswater,10,14.4,131
+Bayswater,11,14.7,131
+Bayswater,12,15.9,135
+Bayswater,13,15.9,133
+Bayswater,14,16.2,130
+Bayswater,15,18.3,132
+Bayswater,16,20.5,133
+Bayswater,17,24.7,132
+Bayswater,18,26.2,131
+Bayswater,19,18.4,130
+Bayswater,20,12.7,132
+Bayswater,21,9.7,119
+Bayswater,22,7.7,132
+Bayswater,23,6.7,150
+Becontree,0,4.5,141
+Becontree,1,1.2,144
+Becontree,2,0.1,111
+Becontree,3,0.0,96
+Becontree,4,0.1,114
+Becontree,5,5.5,127
+Becontree,6,20.3,135
+Becontree,7,26.6,134
+Becontree,8,28.0,135
+Becontree,9,19.0,129
+Becontree,10,16.2,132
+Becontree,11,15.2,131
+Becontree,12,15.6,133
+Becontree,13,16.6,131
+Becontree,14,15.9,134
+Becontree,15,16.9,131
+Becontree,16,19.6,131
+Becontree,17,22.7,139
+Becontree,18,21.8,126
+Becontree,19,17.0,130
+Becontree,20,12.9,129
+Becontree,21,10.8,123
+Becontree,22,7.9,131
+Becontree,23,7.2,154
+Belsize Park,0,6.8,142
+Belsize Park,1,4.1,151
+Belsize Park,2,2.7,143
+Belsize Park,3,2.8,120
+Belsize Park,4,1.8,134
+Belsize Park,5,1.2,131
+Belsize Park,6,4.7,134
+Belsize Park,7,11.7,131
+Belsize Park,8,25.1,138
+Belsize Park,9,24.6,129
+Belsize Park,10,18.2,130
+Belsize Park,11,16.7,133
+Belsize Park,12,18.3,130
+Belsize Park,13,19.5,133
+Belsize Park,14,18.1,135
+Belsize Park,15,18.4,130
+Belsize Park,16,19.9,135
+Belsize Park,17,22.0,132
+Belsize Park,18,21.6,129
+Belsize Park,19,18.5,129
+Belsize Park,20,15.7,131
+Belsize Park,21,11.9,122
+Belsize Park,22,10.4,131
+Belsize Park,23,8.7,151
+Bermondsey,0,5.6,142
+Bermondsey,1,2.5,149
+Bermondsey,2,1.3,143
+Bermondsey,3,1.1,120
+Bermondsey,4,0.7,124
+Bermondsey,5,1.3,135
+Bermondsey,6,5.7,132
+Bermondsey,7,14.8,135
+Bermondsey,8,25.2,131
+Bermondsey,9,23.8,131
+Bermondsey,10,14.7,137
+Bermondsey,11,13.6,128
+Bermondsey,12,15.3,131
+Bermondsey,13,16.4,131
+Bermondsey,14,16.7,134
+Bermondsey,15,17.8,133
+Bermondsey,16,21.7,130
+Bermondsey,17,27.7,134
+Bermondsey,18,30.7,134
+Bermondsey,19,22.7,127
+Bermondsey,20,15.3,128
+Bermondsey,21,12.1,124
+Bermondsey,22,11.3,132
+Bermondsey,23,11.6,152
+Bethnal Green,0,7.0,142
+Bethnal Green,1,3.3,150
+Bethnal Green,2,2.4,140
+Bethnal Green,3,2.0,123
+Bethnal Green,4,1.3,132
+Bethnal Green,5,1.3,134
+Bethnal Green,6,6.9,132
+Bethnal Green,7,13.8,132
+Bethnal Green,8,21.6,139
+Bethnal Green,9,22.2,126
+Bethnal Green,10,16.1,135
+Bethnal Green,11,15.7,131
+Bethnal Green,12,16.8,129
+Bethnal Green,13,18.2,131
+Bethnal Green,14,19.2,133
+Bethnal Green,15,20.6,132
+Bethnal Green,16,23.1,133
+Bethnal Green,17,29.1,138
+Bethnal Green,18,30.8,128
+Bethnal Green,19,24.5,130
+Bethnal Green,20,17.9,127
+Bethnal Green,21,14.5,123
+Bethnal Green,22,13.9,134
+Bethnal Green,23,13.0,151
+Blackfriars,0,2.8,145
+Blackfriars,1,0.7,147
+Blackfriars,2,0.4,143
+Blackfriars,3,0.3,124
+Blackfriars,4,0.3,127
+Blackfriars,5,0.5,134
+Blackfriars,6,2.9,133
+Blackfriars,7,9.6,133
+Blackfriars,8,20.2,133
+Blackfriars,9,21.6,132
+Blackfriars,10,11.7,133
+Blackfriars,11,10.5,133
+Blackfriars,12,11.6,130
+Blackfriars,13,11.6,130
+Blackfriars,14,11.3,134
+Blackfriars,15,12.7,135
+Blackfriars,16,16.5,129
+Blackfriars,17,23.6,140
+Blackfriars,18,23.7,128
+Blackfriars,19,15.7,126
+Blackfriars,20,9.9,128
+Blackfriars,21,7.8,123
+Blackfriars,22,7.0,132
+Blackfriars,23,5.5,152
+Blackhorse Road,0,4.0,138
+Blackhorse Road,1,1.9,156
+Blackhorse Road,2,1.0,136
+Blackhorse Road,3,0.8,127
+Blackhorse Road,4,0.6,128
+Blackhorse Road,5,1.9,136
+Blackhorse Road,6,6.4,134
+Blackhorse Road,7,13.7,132
+Blackhorse Road,8,22.4,135
+Blackhorse Road,9,17.8,129
+Blackhorse Road,10,11.7,133
+Blackhorse Road,11,11.4,130
+Blackhorse Road,12,12.6,132
+Blackhorse Road,13,13.0,131
+Blackhorse Road,14,13.2,135
+Blackhorse Road,15,13.3,131
+Blackhorse Road,16,15.2,133
+Blackhorse Road,17,19.5,136
+Blackhorse Road,18,21.0,128
+Blackhorse Road,19,16.2,131
+Blackhorse Road,20,10.9,126
+Blackhorse Road,21,9.1,123
+Blackhorse Road,22,8.7,133
+Blackhorse Road,23,7.7,153
+Bond Street,0,4.6,143
+Bond Street,1,1.9,150
+Bond Street,2,1.3,139
+Bond Street,3,1.1,121
+Bond Street,4,0.7,135
+Bond Street,5,0.7,132
+Bond Street,6,4.5,132
+Bond Street,7,12.0,132
+Bond Street,8,22.1,138
+Bond Street,9,25.5,127
+Bond Street,10,15.8,133
+Bond Street,11,15.8,133
+Bond Street,12,18.3,130
+Bond Street,13,20.3,132
+Bond Street,14,21.5,134
+Bond Street,15,24.4,130
+Bond Street,16,28.2,134
+Bond Street,17,35.8,136
+Bond Street,18,39.7,128
+Bond Street,19,26.4,129
+Bond Street,20,17.6,129
+Bond Street,21,12.7,122
+Bond Street,22,12.2,132
+Bond Street,23,9.2,154
+Borough,0,5.0,142
+Borough,1,0.3,149
+Borough,2,0.1,139
+Borough,3,0.1,125
+Borough,4,0.1,133
+Borough,5,0.2,129
+Borough,6,3.0,132
+Borough,7,8.0,131
+Borough,8,15.6,137
+Borough,9,17.2,129
+Borough,10,11.1,133
+Borough,11,9.7,131
+Borough,12,10.4,131
+Borough,13,11.8,130
+Borough,14,11.5,134
+Borough,15,12.2,131
+Borough,16,14.9,136
+Borough,17,21.1,133
+Borough,18,22.4,129
+Borough,19,16.9,129
+Borough,20,12.7,129
+Borough,21,10.8,121
+Borough,22,10.2,131
+Borough,23,9.2,155
+Boston Manor,0,2.8,142
+Boston Manor,1,2.4,147
+Boston Manor,2,2.5,134
+Boston Manor,3,0.8,104
+Boston Manor,4,0.4,107
+Boston Manor,5,2.7,131
+Boston Manor,6,8.3,133
+Boston Manor,7,18.5,129
+Boston Manor,8,33.2,138
+Boston Manor,9,21.7,128
+Boston Manor,10,19.1,135
+Boston Manor,11,15.3,134
+Boston Manor,12,16.0,127
+Boston Manor,13,16.9,132
+Boston Manor,14,15.3,133
+Boston Manor,15,16.7,132
+Boston Manor,16,18.2,131
+Boston Manor,17,21.1,136
+Boston Manor,18,22.8,129
+Boston Manor,19,15.6,132
+Boston Manor,20,11.2,129
+Boston Manor,21,8.2,121
+Boston Manor,22,7.3,133
+Boston Manor,23,6.2,151
+Bounds Green,0,2.7,140
+Bounds Green,1,1.2,151
+Bounds Green,2,0.7,141
+Bounds Green,3,0.5,124
+Bounds Green,4,0.2,131
+Bounds Green,5,0.9,130
+Bounds Green,6,3.0,133
+Bounds Green,7,6.2,131
+Bounds Green,8,11.5,133
+Bounds Green,9,8.8,132
+Bounds Green,10,6.0,135
+Bounds Green,11,5.3,128
+Bounds Green,12,5.4,136
+Bounds Green,13,5.7,129
+Bounds Green,14,6.2,131
+Bounds Green,15,5.9,133
+Bounds Green,16,7.3,133
+Bounds Green,17,9.7,136
+Bounds Green,18,11.1,126
+Bounds Green,19,7.8,134
+Bounds Green,20,5.6,127
+Bounds Green,21,5.0,120
+Bounds Green,22,4.3,135
+Bounds Green,23,4.9,152
+Bow Road,0,12.9,144
+Bow Road,1,2.8,148
+Bow Road,2,0.2,141
+Bow Road,3,0.2,125
+Bow Road,4,0.2,131
+Bow Road,5,2.4,131
+Bow Road,6,11.2,132
+Bow Road,7,20.7,131
+Bow Road,8,29.9,139
+Bow Road,9,27.4,129
+Bow Road,10,19.6,131
+Bow Road,11,19.5,131
+Bow Road,12,20.4,133
+Bow Road,13,22.1,131
+Bow Road,14,24.1,133
+Bow Road,15,26.0,133
+Bow Road,16,28.7,130
+Bow Road,17,37.1,137
+Bow Road,18,37.6,129
+Bow Road,19,30.6,128
+Bow Road,20,23.8,132
+Bow Road,21,20.2,122
+Bow Road,22,19.0,132
+Bow Road,23,19.3,152
+Brent Cross,0,4.0,141
+Brent Cross,1,1.8,151
+Brent Cross,2,0.9,137
+Brent Cross,3,0.8,97
+Brent Cross,4,0.7,124
+Brent Cross,5,1.4,130
+Brent Cross,6,8.3,134
+Brent Cross,7,14.7,133
+Brent Cross,8,20.4,133
+Brent Cross,9,19.2,130
+Brent Cross,10,14.7,132
+Brent Cross,11,13.9,134
+Brent Cross,12,13.9,135
+Brent Cross,13,15.7,128
+Brent Cross,14,16.2,134
+Brent Cross,15,16.7,129
+Brent Cross,16,19.6,132
+Brent Cross,17,20.8,136
+Brent Cross,18,21.8,129
+Brent Cross,19,16.6,131
+Brent Cross,20,12.6,131
+Brent Cross,21,9.4,119
+Brent Cross,22,8.4,133
+Brent Cross,23,7.5,151
+Brixton,0,7.1,144
+Brixton,1,3.9,147
+Brixton,2,2.8,143
+Brixton,3,2.6,124
+Brixton,4,1.8,127
+Brixton,5,2.1,133
+Brixton,6,5.9,133
+Brixton,7,13.8,135
+Brixton,8,29.4,132
+Brixton,9,22.2,132
+Brixton,10,13.2,130
+Brixton,11,12.7,136
+Brixton,12,13.6,126
+Brixton,13,14.4,132
+Brixton,14,14.3,134
+Brixton,15,15.2,133
+Brixton,16,16.3,132
+Brixton,17,23.3,135
+Brixton,18,27.5,128
+Brixton,19,19.8,132
+Brixton,20,13.1,126
+Brixton,21,11.4,125
+Brixton,22,12.1,130
+Brixton,23,14.0,153
+Bromley-by-Bow,0,6.9,143
+Bromley-by-Bow,1,1.4,149
+Bromley-by-Bow,2,0.1,132
+Bromley-by-Bow,3,0.0,98
+Bromley-by-Bow,4,0.0,124
+Bromley-by-Bow,5,2.6,134
+Bromley-by-Bow,6,9.8,131
+Bromley-by-Bow,7,16.0,134
+Bromley-by-Bow,8,22.5,133
+Bromley-by-Bow,9,20.1,132
+Bromley-by-Bow,10,15.3,134
+Bromley-by-Bow,11,14.5,129
+Bromley-by-Bow,12,14.4,132
+Bromley-by-Bow,13,16.0,132
+Bromley-by-Bow,14,16.8,133
+Bromley-by-Bow,15,18.6,130
+Bromley-by-Bow,16,21.2,133
+Bromley-by-Bow,17,24.7,135
+Bromley-by-Bow,18,22.1,132
+Bromley-by-Bow,19,18.1,128
+Bromley-by-Bow,20,14.8,127
+Bromley-by-Bow,21,12.3,125
+Bromley-by-Bow,22,11.2,132
+Bromley-by-Bow,23,11.2,151
+Buckhurst Hill,0,1.8,143
+Buckhurst Hill,1,1.0,150
+Buckhurst Hill,2,0.5,136
+Buckhurst Hill,3,0.3,118
+Buckhurst Hill,4,0.2,135
+Buckhurst Hill,5,1.3,131
+Buckhurst Hill,6,6.0,133
+Buckhurst Hill,7,12.7,133
+Buckhurst Hill,8,19.9,134
+Buckhurst Hill,9,10.4,131
+Buckhurst Hill,10,7.8,131
+Buckhurst Hill,11,8.8,132
+Buckhurst Hill,12,8.9,131
+Buckhurst Hill,13,8.5,133
+Buckhurst Hill,14,8.5,132
+Buckhurst Hill,15,8.1,131
+Buckhurst Hill,16,9.8,134
+Buckhurst Hill,17,13.3,134
+Buckhurst Hill,18,13.7,130
+Buckhurst Hill,19,8.2,128
+Buckhurst Hill,20,5.2,131
+Buckhurst Hill,21,3.5,122
+Buckhurst Hill,22,3.3,134
+Buckhurst Hill,23,3.1,150
+Burnt Oak,0,2.2,143
+Burnt Oak,1,2.1,149
+Burnt Oak,2,1.6,142
+Burnt Oak,3,1.3,123
+Burnt Oak,4,0.9,132
+Burnt Oak,5,1.1,132
+Burnt Oak,6,3.1,132
+Burnt Oak,7,4.2,134
+Burnt Oak,8,5.3,136
+Burnt Oak,9,5.6,128
+Burnt Oak,10,6.2,135
+Burnt Oak,11,5.8,131
+Burnt Oak,12,6.3,132
+Burnt Oak,13,6.4,130
+Burnt Oak,14,6.2,133
+Burnt Oak,15,6.3,134
+Burnt Oak,16,5.5,132
+Burnt Oak,17,5.7,131
+Burnt Oak,18,5.1,129
+Burnt Oak,19,3.8,133
+Burnt Oak,20,3.2,127
+Burnt Oak,21,2.6,125
+Burnt Oak,22,2.3,130
+Burnt Oak,23,2.9,153
+Camden Town,0,8.7,143
+Camden Town,1,4.1,148
+Camden Town,2,3.2,142
+Camden Town,3,2.4,124
+Camden Town,4,1.1,133
+Camden Town,5,0.7,130
+Camden Town,6,3.7,135
+Camden Town,7,11.7,132
+Camden Town,8,22.6,133
+Camden Town,9,24.3,132
+Camden Town,10,20.9,133
+Camden Town,11,20.2,132
+Camden Town,12,23.5,131
+Camden Town,13,26.5,132
+Camden Town,14,27.2,135
+Camden Town,15,28.7,131
+Camden Town,16,31.3,134
+Camden Town,17,36.3,133
+Camden Town,18,33.3,128
+Camden Town,19,27.4,131
+Camden Town,20,20.7,129
+Camden Town,21,16.5,123
+Camden Town,22,18.7,131
+Camden Town,23,16.4,151
+Canada Water,0,8.2,141
+Canada Water,1,4.0,151
+Canada Water,2,2.3,138
+Canada Water,3,1.8,126
+Canada Water,4,1.4,131
+Canada Water,5,1.7,131
+Canada Water,6,6.4,134
+Canada Water,7,15.0,134
+Canada Water,8,27.9,133
+Canada Water,9,27.0,128
+Canada Water,10,18.6,137
+Canada Water,11,18.4,128
+Canada Water,12,20.7,132
+Canada Water,13,22.0,131
+Canada Water,14,22.1,133
+Canada Water,15,22.6,133
+Canada Water,16,26.0,133
+Canada Water,17,31.5,131
+Canada Water,18,35.8,132
+Canada Water,19,27.8,131
+Canada Water,20,20.1,126
+Canada Water,21,16.1,124
+Canada Water,22,15.2,132
+Canada Water,23,15.9,154
+Canary Wharf,0,3.4,141
+Canary Wharf,1,1.2,149
+Canary Wharf,2,0.7,140
+Canary Wharf,3,0.5,126
+Canary Wharf,4,0.4,134
+Canary Wharf,5,1.0,130
+Canary Wharf,6,4.1,133
+Canary Wharf,7,10.7,134
+Canary Wharf,8,19.8,137
+Canary Wharf,9,21.8,126
+Canary Wharf,10,11.5,136
+Canary Wharf,11,10.0,130
+Canary Wharf,12,12.1,132
+Canary Wharf,13,13.1,133
+Canary Wharf,14,12.7,129
+Canary Wharf,15,13.5,133
+Canary Wharf,16,17.5,136
+Canary Wharf,17,26.3,130
+Canary Wharf,18,26.6,128
+Canary Wharf,19,18.0,134
+Canary Wharf,20,11.1,128
+Canary Wharf,21,7.6,122
+Canary Wharf,22,7.3,132
+Canary Wharf,23,7.6,153
+Cannon Street,0,3.7,143
+Cannon Street,1,0.3,151
+Cannon Street,2,0.1,140
+Cannon Street,3,0.1,124
+Cannon Street,4,0.1,132
+Cannon Street,5,0.4,133
+Cannon Street,6,3.9,134
+Cannon Street,7,11.0,134
+Cannon Street,8,18.5,134
+Cannon Street,9,20.9,129
+Cannon Street,10,12.6,132
+Cannon Street,11,11.8,133
+Cannon Street,12,13.0,128
+Cannon Street,13,13.8,133
+Cannon Street,14,13.5,135
+Cannon Street,15,14.8,131
+Cannon Street,16,17.7,135
+Cannon Street,17,23.4,132
+Cannon Street,18,23.5,132
+Cannon Street,19,16.3,130
+Cannon Street,20,11.3,127
+Cannon Street,21,8.9,122
+Cannon Street,22,8.6,132
+Cannon Street,23,7.4,150
+Canons Park,0,1.5,145
+Canons Park,1,0.9,148
+Canons Park,2,0.5,137
+Canons Park,3,0.4,117
+Canons Park,4,0.3,125
+Canons Park,5,1.2,130
+Canons Park,6,4.4,135
+Canons Park,7,8.6,133
+Canons Park,8,12.7,133
+Canons Park,9,8.2,129
+Canons Park,10,6.1,134
+Canons Park,11,6.2,133
+Canons Park,12,5.9,130
+Canons Park,13,6.5,134
+Canons Park,14,6.1,132
+Canons Park,15,6.3,130
+Canons Park,16,8.3,134
+Canons Park,17,10.2,135
+Canons Park,18,11.4,130
+Canons Park,19,7.8,129
+Canons Park,20,5.1,127
+Canons Park,21,4.0,124
+Canons Park,22,4.0,131
+Canons Park,23,2.9,152
+Chalfont & Latimer,0,1.9,139
+Chalfont & Latimer,1,0.9,152
+Chalfont & Latimer,2,0.2,135
+Chalfont & Latimer,3,0.1,107
+Chalfont & Latimer,4,0.1,129
+Chalfont & Latimer,5,0.7,132
+Chalfont & Latimer,6,4.2,133
+Chalfont & Latimer,7,9.3,131
+Chalfont & Latimer,8,10.8,136
+Chalfont & Latimer,9,5.9,128
+Chalfont & Latimer,10,6.5,135
+Chalfont & Latimer,11,6.4,131
+Chalfont & Latimer,12,5.3,130
+Chalfont & Latimer,13,5.2,134
+Chalfont & Latimer,14,4.7,132
+Chalfont & Latimer,15,6.0,130
+Chalfont & Latimer,16,8.6,136
+Chalfont & Latimer,17,9.3,133
+Chalfont & Latimer,18,8.4,131
+Chalfont & Latimer,19,7.6,127
+Chalfont & Latimer,20,4.7,132
+Chalfont & Latimer,21,3.3,120
+Chalfont & Latimer,22,3.3,132
+Chalfont & Latimer,23,3.0,154
+Chalk Farm,0,4.1,142
+Chalk Farm,1,1.5,149
+Chalk Farm,2,1.2,142
+Chalk Farm,3,1.0,123
+Chalk Farm,4,0.4,133
+Chalk Farm,5,0.4,130
+Chalk Farm,6,2.9,134
+Chalk Farm,7,9.0,134
+Chalk Farm,8,19.0,133
+Chalk Farm,9,18.5,132
+Chalk Farm,10,13.0,133
+Chalk Farm,11,12.1,132
+Chalk Farm,12,13.2,129
+Chalk Farm,13,14.3,135
+Chalk Farm,14,14.7,129
+Chalk Farm,15,15.3,135
+Chalk Farm,16,18.7,133
+Chalk Farm,17,24.3,132
+Chalk Farm,18,28.9,132
+Chalk Farm,19,22.7,128
+Chalk Farm,20,15.1,128
+Chalk Farm,21,11.7,126
+Chalk Farm,22,12.9,128
+Chalk Farm,23,11.0,154
+Chancery Lane,0,4.3,143
+Chancery Lane,1,2.7,151
+Chancery Lane,2,2.1,137
+Chancery Lane,3,1.8,124
+Chancery Lane,4,1.4,121
+Chancery Lane,5,1.0,125
+Chancery Lane,6,5.2,133
+Chancery Lane,7,11.9,135
+Chancery Lane,8,22.3,131
+Chancery Lane,9,29.6,131
+Chancery Lane,10,16.2,134
+Chancery Lane,11,15.2,131
+Chancery Lane,12,17.6,135
+Chancery Lane,13,18.5,129
+Chancery Lane,14,18.3,133
+Chancery Lane,15,19.4,131
+Chancery Lane,16,22.9,131
+Chancery Lane,17,31.3,139
+Chancery Lane,18,34.1,128
+Chancery Lane,19,21.1,130
+Chancery Lane,20,14.0,125
+Chancery Lane,21,10.6,124
+Chancery Lane,22,10.0,134
+Chancery Lane,23,8.3,151
+Charing Cross,0,7.8,146
+Charing Cross,1,3.5,148
+Charing Cross,2,3.1,139
+Charing Cross,3,2.4,126
+Charing Cross,4,1.7,130
+Charing Cross,5,1.3,135
+Charing Cross,6,4.8,133
+Charing Cross,7,7.5,131
+Charing Cross,8,8.8,135
+Charing Cross,9,10.4,129
+Charing Cross,10,10.4,133
+Charing Cross,11,11.2,133
+Charing Cross,12,11.8,134
+Charing Cross,13,12.0,128
+Charing Cross,14,12.5,134
+Charing Cross,15,12.7,132
+Charing Cross,16,12.9,132
+Charing Cross,17,14.6,134
+Charing Cross,18,14.5,132
+Charing Cross,19,12.4,130
+Charing Cross,20,11.3,126
+Charing Cross,21,13.1,125
+Charing Cross,22,17.8,130
+Charing Cross,23,12.1,151
+Chesham,0,0.5,137
+Chesham,1,0.5,134
+Chesham,2,0.1,93
+Chesham,3,0.1,40
+Chesham,4,0.1,58
+Chesham,5,1.3,111
+Chesham,6,3.5,133
+Chesham,7,2.8,135
+Chesham,8,1.9,134
+Chesham,9,1.7,129
+Chesham,10,1.9,132
+Chesham,11,1.7,134
+Chesham,12,1.5,131
+Chesham,13,1.0,132
+Chesham,14,0.8,134
+Chesham,15,1.0,129
+Chesham,16,1.3,137
+Chesham,17,0.9,132
+Chesham,18,0.6,128
+Chesham,19,0.8,133
+Chesham,20,0.7,125
+Chesham,21,1.0,123
+Chesham,22,0.6,131
+Chesham,23,0.5,154
+Chigwell,0,0.3,140
+Chigwell,1,0.1,110
+Chigwell,2,0.3,80
+Chigwell,3,0.2,47
+Chigwell,4,0.1,57
+Chigwell,5,0.5,93
+Chigwell,6,1.0,128
+Chigwell,7,4.4,130
+Chigwell,8,8.2,134
+Chigwell,9,2.6,133
+Chigwell,10,2.0,132
+Chigwell,11,2.2,133
+Chigwell,12,2.0,129
+Chigwell,13,2.3,134
+Chigwell,14,2.3,134
+Chigwell,15,2.1,129
+Chigwell,16,2.6,135
+Chigwell,17,2.9,133
+Chigwell,18,3.2,132
+Chigwell,19,2.2,127
+Chigwell,20,1.0,129
+Chigwell,21,0.7,123
+Chigwell,22,0.9,131
+Chigwell,23,0.4,152
+Chiswick Park,0,5.1,141
+Chiswick Park,1,2.5,149
+Chiswick Park,2,1.9,140
+Chiswick Park,3,1.1,127
+Chiswick Park,4,0.5,119
+Chiswick Park,5,2.7,131
+Chiswick Park,6,6.2,131
+Chiswick Park,7,13.9,135
+Chiswick Park,8,26.2,136
+Chiswick Park,9,21.7,128
+Chiswick Park,10,17.4,135
+Chiswick Park,11,19.8,130
+Chiswick Park,12,20.3,131
+Chiswick Park,13,18.4,133
+Chiswick Park,14,18.5,130
+Chiswick Park,15,18.0,134
+Chiswick Park,16,19.2,138
+Chiswick Park,17,25.7,130
+Chiswick Park,18,28.7,131
+Chiswick Park,19,18.4,126
+Chiswick Park,20,13.3,133
+Chiswick Park,21,10.6,120
+Chiswick Park,22,8.7,132
+Chiswick Park,23,6.8,153
+Chorleywood,0,1.7,142
+Chorleywood,1,0.6,135
+Chorleywood,2,0.3,87
+Chorleywood,3,0.3,82
+Chorleywood,4,0.1,83
+Chorleywood,5,0.5,120
+Chorleywood,6,3.9,120
+Chorleywood,7,11.3,134
+Chorleywood,8,12.8,134
+Chorleywood,9,6.9,132
+Chorleywood,10,6.7,131
+Chorleywood,11,6.6,132
+Chorleywood,12,6.4,127
+Chorleywood,13,6.1,137
+Chorleywood,14,5.7,132
+Chorleywood,15,6.2,130
+Chorleywood,16,8.6,132
+Chorleywood,17,9.2,136
+Chorleywood,18,6.7,131
+Chorleywood,19,6.4,130
+Chorleywood,20,4.7,126
+Chorleywood,21,3.5,122
+Chorleywood,22,3.9,134
+Chorleywood,23,3.4,152
+Clapham Common,0,11.4,141
+Clapham Common,1,10.9,152
+Clapham Common,2,8.7,139
+Clapham Common,3,6.0,125
+Clapham Common,4,3.3,132
+Clapham Common,5,2.9,132
+Clapham Common,6,6.0,130
+Clapham Common,7,7.3,136
+Clapham Common,8,8.7,133
+Clapham Common,9,8.1,132
+Clapham Common,10,7.1,131
+Clapham Common,11,7.4,131
+Clapham Common,12,7.4,131
+Clapham Common,13,7.0,134
+Clapham Common,14,7.0,133
+Clapham Common,15,6.7,131
+Clapham Common,16,6.8,135
+Clapham Common,17,8.5,134
+Clapham Common,18,9.7,126
+Clapham Common,19,10.0,134
+Clapham Common,20,10.3,126
+Clapham Common,21,10.3,124
+Clapham Common,22,10.0,129
+Clapham Common,23,11.4,155
+Clapham North,0,11.1,141
+Clapham North,1,9.0,147
+Clapham North,2,7.2,143
+Clapham North,3,5.4,125
+Clapham North,4,3.4,130
+Clapham North,5,3.1,134
+Clapham North,6,7.6,132
+Clapham North,7,9.4,132
+Clapham North,8,10.7,135
+Clapham North,9,9.8,129
+Clapham North,10,7.7,134
+Clapham North,11,7.3,131
+Clapham North,12,7.7,131
+Clapham North,13,7.3,135
+Clapham North,14,7.0,132
+Clapham North,15,6.9,129
+Clapham North,16,6.9,136
+Clapham North,17,8.9,133
+Clapham North,18,9.9,130
+Clapham North,19,10.3,129
+Clapham North,20,10.8,126
+Clapham North,21,10.5,125
+Clapham North,22,10.2,132
+Clapham North,23,11.0,154
+Clapham South,0,10.0,143
+Clapham South,1,6.6,151
+Clapham South,2,4.5,140
+Clapham South,3,3.1,126
+Clapham South,4,2.2,131
+Clapham South,5,2.7,128
+Clapham South,6,9.7,137
+Clapham South,7,18.8,132
+Clapham South,8,28.3,136
+Clapham South,9,22.8,130
+Clapham South,10,15.7,131
+Clapham South,11,16.1,132
+Clapham South,12,17.5,131
+Clapham South,13,17.1,133
+Clapham South,14,17.0,134
+Clapham South,15,16.1,129
+Clapham South,16,19.4,136
+Clapham South,17,22.7,134
+Clapham South,18,30.0,127
+Clapham South,19,24.2,133
+Clapham South,20,18.7,126
+Clapham South,21,15.0,125
+Clapham South,22,13.5,128
+Clapham South,23,12.5,153
+Cockfosters,0,2.8,142
+Cockfosters,1,2.4,147
+Cockfosters,2,2.0,142
+Cockfosters,3,1.1,125
+Cockfosters,4,0.6,131
+Cockfosters,5,1.9,134
+Cockfosters,6,4.1,131
+Cockfosters,7,8.6,133
+Cockfosters,8,12.0,134
+Cockfosters,9,8.6,130
+Cockfosters,10,8.9,134
+Cockfosters,11,8.7,133
+Cockfosters,12,9.3,133
+Cockfosters,13,9.1,132
+Cockfosters,14,7.6,130
+Cockfosters,15,8.1,135
+Cockfosters,16,7.9,132
+Cockfosters,17,9.6,133
+Cockfosters,18,10.9,131
+Cockfosters,19,6.7,128
+Cockfosters,20,5.2,128
+Cockfosters,21,4.5,123
+Cockfosters,22,3.5,132
+Cockfosters,23,4.2,152
+Colliers Wood,0,4.1,146
+Colliers Wood,1,2.0,145
+Colliers Wood,2,1.7,138
+Colliers Wood,3,1.1,123
+Colliers Wood,4,0.8,130
+Colliers Wood,5,2.1,129
+Colliers Wood,6,7.4,133
+Colliers Wood,7,16.4,136
+Colliers Wood,8,28.5,134
+Colliers Wood,9,18.3,128
+Colliers Wood,10,13.3,134
+Colliers Wood,11,12.7,133
+Colliers Wood,12,13.6,132
+Colliers Wood,13,14.1,132
+Colliers Wood,14,12.8,130
+Colliers Wood,15,13.7,134
+Colliers Wood,16,15.6,133
+Colliers Wood,17,20.0,134
+Colliers Wood,18,18.9,126
+Colliers Wood,19,15.0,132
+Colliers Wood,20,10.6,128
+Colliers Wood,21,8.5,124
+Colliers Wood,22,7.6,132
+Colliers Wood,23,6.8,150
+Covent Garden,0,3.6,144
+Covent Garden,1,1.6,149
+Covent Garden,2,0.8,140
+Covent Garden,3,0.5,123
+Covent Garden,4,0.3,133
+Covent Garden,5,0.3,134
+Covent Garden,6,1.8,132
+Covent Garden,7,4.5,132
+Covent Garden,8,9.3,135
+Covent Garden,9,13.0,130
+Covent Garden,10,12.8,131
+Covent Garden,11,16.6,132
+Covent Garden,12,21.6,132
+Covent Garden,13,22.3,132
+Covent Garden,14,22.6,133
+Covent Garden,15,23.5,132
+Covent Garden,16,24.4,134
+Covent Garden,17,28.6,136
+Covent Garden,18,29.1,128
+Covent Garden,19,20.5,130
+Covent Garden,20,14.7,125
+Covent Garden,21,12.0,125
+Covent Garden,22,14.7,132
+Covent Garden,23,10.0,152
+Croxley,0,2.4,144
+Croxley,1,0.2,119
+Croxley,2,0.1,77
+Croxley,3,0.0,67
+Croxley,4,0.0,79
+Croxley,5,1.8,94
+Croxley,6,5.1,131
+Croxley,7,11.9,137
+Croxley,8,14.3,135
+Croxley,9,6.3,127
+Croxley,10,6.5,136
+Croxley,11,6.0,130
+Croxley,12,5.7,134
+Croxley,13,5.2,133
+Croxley,14,4.6,131
+Croxley,15,7.1,130
+Croxley,16,9.3,138
+Croxley,17,7.0,132
+Croxley,18,7.7,129
+Croxley,19,6.2,129
+Croxley,20,3.8,129
+Croxley,21,3.0,122
+Croxley,22,2.7,131
+Croxley,23,1.9,152
+Dagenham East,0,2.1,146
+Dagenham East,1,0.6,147
+Dagenham East,2,0.1,129
+Dagenham East,3,0.1,110
+Dagenham East,4,0.1,119
+Dagenham East,5,3.4,129
+Dagenham East,6,12.9,132
+Dagenham East,7,17.5,132
+Dagenham East,8,19.2,136
+Dagenham East,9,12.6,131
+Dagenham East,10,9.4,133
+Dagenham East,11,9.0,130
+Dagenham East,12,8.7,131
+Dagenham East,13,9.4,133
+Dagenham East,14,9.5,132
+Dagenham East,15,10.0,132
+Dagenham East,16,12.1,135
+Dagenham East,17,14.9,133
+Dagenham East,18,12.7,131
+Dagenham East,19,10.5,128
+Dagenham East,20,7.6,127
+Dagenham East,21,5.8,124
+Dagenham East,22,4.6,132
+Dagenham East,23,4.6,152
+Dagenham Heathway,0,4.2,144
+Dagenham Heathway,1,1.6,140
+Dagenham Heathway,2,0.1,132
+Dagenham Heathway,3,0.1,110
+Dagenham Heathway,4,0.2,133
+Dagenham Heathway,5,10.2,130
+Dagenham Heathway,6,22.9,133
+Dagenham Heathway,7,16.3,133
+Dagenham Heathway,8,10.7,136
+Dagenham Heathway,9,8.2,125
+Dagenham Heathway,10,7.6,137
+Dagenham Heathway,11,6.8,130
+Dagenham Heathway,12,6.0,131
+Dagenham Heathway,13,6.8,134
+Dagenham Heathway,14,6.7,131
+Dagenham Heathway,15,5.8,132
+Dagenham Heathway,16,5.1,138
+Dagenham Heathway,17,4.8,131
+Dagenham Heathway,18,4.1,131
+Dagenham Heathway,19,4.7,129
+Dagenham Heathway,20,4.7,126
+Dagenham Heathway,21,5.1,125
+Dagenham Heathway,22,4.5,130
+Dagenham Heathway,23,4.7,153
+Debden,0,2.0,143
+Debden,1,0.7,141
+Debden,2,0.2,129
+Debden,3,0.1,122
+Debden,4,0.1,126
+Debden,5,3.2,130
+Debden,6,12.5,134
+Debden,7,21.1,132
+Debden,8,25.0,136
+Debden,9,14.7,128
+Debden,10,12.0,137
+Debden,11,13.2,130
+Debden,12,12.5,133
+Debden,13,13.5,131
+Debden,14,12.5,131
+Debden,15,14.1,133
+Debden,16,15.5,134
+Debden,17,20.9,131
+Debden,18,14.6,128
+Debden,19,8.8,133
+Debden,20,7.1,128
+Debden,21,4.9,123
+Debden,22,3.9,130
+Debden,23,3.5,155
+Dollis Hill,0,5.8,144
+Dollis Hill,1,2.7,150
+Dollis Hill,2,1.4,139
+Dollis Hill,3,1.1,120
+Dollis Hill,4,0.8,128
+Dollis Hill,5,2.7,131
+Dollis Hill,6,8.4,133
+Dollis Hill,7,18.0,133
+Dollis Hill,8,23.8,136
+Dollis Hill,9,20.9,125
+Dollis Hill,10,16.5,136
+Dollis Hill,11,15.9,130
+Dollis Hill,12,16.0,132
+Dollis Hill,13,17.0,134
+Dollis Hill,14,16.6,133
+Dollis Hill,15,17.5,130
+Dollis Hill,16,19.7,134
+Dollis Hill,17,22.0,132
+Dollis Hill,18,21.8,134
+Dollis Hill,19,17.9,128
+Dollis Hill,20,14.1,124
+Dollis Hill,21,10.9,125
+Dollis Hill,22,10.6,133
+Dollis Hill,23,10.8,152
+Ealing Broadway,0,2.8,144
+Ealing Broadway,1,1.6,149
+Ealing Broadway,2,1.3,123
+Ealing Broadway,3,0.8,116
+Ealing Broadway,4,0.5,115
+Ealing Broadway,5,2.3,134
+Ealing Broadway,6,10.5,132
+Ealing Broadway,7,18.8,133
+Ealing Broadway,8,28.1,134
+Ealing Broadway,9,24.1,131
+Ealing Broadway,10,17.4,131
+Ealing Broadway,11,16.7,133
+Ealing Broadway,12,17.5,129
+Ealing Broadway,13,17.7,134
+Ealing Broadway,14,16.8,132
+Ealing Broadway,15,16.5,134
+Ealing Broadway,16,18.9,132
+Ealing Broadway,17,23.0,134
+Ealing Broadway,18,22.7,129
+Ealing Broadway,19,18.2,131
+Ealing Broadway,20,12.8,127
+Ealing Broadway,21,10.2,124
+Ealing Broadway,22,9.0,132
+Ealing Broadway,23,6.6,152
+Ealing Common,0,3.4,143
+Ealing Common,1,1.2,149
+Ealing Common,2,0.5,140
+Ealing Common,3,0.6,126
+Ealing Common,4,0.4,129
+Ealing Common,5,1.1,133
+Ealing Common,6,4.1,134
+Ealing Common,7,11.4,133
+Ealing Common,8,18.2,133
+Ealing Common,9,15.3,133
+Ealing Common,10,11.4,130
+Ealing Common,11,10.7,132
+Ealing Common,12,11.3,132
+Ealing Common,13,11.4,133
+Ealing Common,14,11.6,129
+Ealing Common,15,11.4,132
+Ealing Common,16,13.3,133
+Ealing Common,17,15.2,137
+Ealing Common,18,17.0,130
+Ealing Common,19,13.1,129
+Ealing Common,20,8.1,127
+Ealing Common,21,6.0,123
+Ealing Common,22,5.6,132
+Ealing Common,23,5.5,154
+Earl's Court,0,9.2,141
+Earl's Court,1,3.4,149
+Earl's Court,2,1.6,141
+Earl's Court,3,1.3,123
+Earl's Court,4,0.5,134
+Earl's Court,5,1.0,132
+Earl's Court,6,6.3,133
+Earl's Court,7,17.0,133
+Earl's Court,8,31.3,134
+Earl's Court,9,28.4,130
+Earl's Court,10,22.7,132
+Earl's Court,11,24.1,132
+Earl's Court,12,26.3,132
+Earl's Court,13,24.4,132
+Earl's Court,14,26.1,131
+Earl's Court,15,29.8,132
+Earl's Court,16,32.1,135
+Earl's Court,17,32.4,133
+Earl's Court,18,37.0,129
+Earl's Court,19,32.9,134
+Earl's Court,20,28.7,124
+Earl's Court,21,22.1,123
+Earl's Court,22,20.8,133
+Earl's Court,23,15.9,154
+East Acton,0,5.0,142
+East Acton,1,2.0,150
+East Acton,2,1.2,136
+East Acton,3,1.2,121
+East Acton,4,1.0,116
+East Acton,5,2.1,122
+East Acton,6,9.3,135
+East Acton,7,19.7,131
+East Acton,8,29.5,139
+East Acton,9,24.0,126
+East Acton,10,17.4,133
+East Acton,11,15.7,132
+East Acton,12,16.6,131
+East Acton,13,17.5,134
+East Acton,14,18.6,131
+East Acton,15,20.1,132
+East Acton,16,25.2,135
+East Acton,17,31.0,132
+East Acton,18,31.0,130
+East Acton,19,21.7,129
+East Acton,20,14.8,131
+East Acton,21,11.1,123
+East Acton,22,9.9,129
+East Acton,23,8.1,153
+East Finchley,0,3.6,144
+East Finchley,1,1.6,150
+East Finchley,2,0.8,138
+East Finchley,3,0.6,126
+East Finchley,4,0.3,131
+East Finchley,5,1.1,132
+East Finchley,6,5.0,134
+East Finchley,7,15.6,132
+East Finchley,8,28.5,135
+East Finchley,9,24.0,130
+East Finchley,10,16.8,131
+East Finchley,11,15.7,133
+East Finchley,12,16.6,130
+East Finchley,13,17.1,134
+East Finchley,14,15.6,132
+East Finchley,15,16.0,131
+East Finchley,16,19.0,133
+East Finchley,17,23.9,136
+East Finchley,18,27.0,131
+East Finchley,19,20.3,128
+East Finchley,20,12.2,131
+East Finchley,21,8.8,121
+East Finchley,22,8.8,129
+East Finchley,23,7.1,154
+East Ham,0,10.5,143
+East Ham,1,2.8,150
+East Ham,2,0.3,136
+East Ham,3,0.1,128
+East Ham,4,0.1,129
+East Ham,5,5.5,133
+East Ham,6,19.5,133
+East Ham,7,25.4,134
+East Ham,8,30.3,133
+East Ham,9,27.0,131
+East Ham,10,21.1,134
+East Ham,11,20.9,128
+East Ham,12,20.8,130
+East Ham,13,24.0,135
+East Ham,14,25.9,132
+East Ham,15,25.8,132
+East Ham,16,28.9,136
+East Ham,17,32.3,132
+East Ham,18,30.5,129
+East Ham,19,27.4,130
+East Ham,20,21.8,128
+East Ham,21,18.2,125
+East Ham,22,14.7,130
+East Ham,23,14.7,154
+East Putney,0,1.5,126
+East Putney,1,0.3,123
+East Putney,2,0.1,101
+East Putney,3,0.0,88
+East Putney,4,0.0,104
+East Putney,5,0.4,122
+East Putney,6,2.3,133
+East Putney,7,11.1,131
+East Putney,8,23.1,138
+East Putney,9,12.6,127
+East Putney,10,8.4,131
+East Putney,11,8.0,132
+East Putney,12,8.3,131
+East Putney,13,7.9,135
+East Putney,14,7.4,133
+East Putney,15,8.4,132
+East Putney,16,9.6,129
+East Putney,17,13.9,138
+East Putney,18,14.9,128
+East Putney,19,10.1,130
+East Putney,20,6.3,128
+East Putney,21,4.2,122
+East Putney,22,4.4,131
+East Putney,23,3.4,152
+Eastcote,0,2.0,144
+Eastcote,1,0.5,151
+Eastcote,2,0.2,110
+Eastcote,3,0.0,95
+Eastcote,4,0.0,82
+Eastcote,5,1.5,101
+Eastcote,6,6.4,133
+Eastcote,7,16.1,133
+Eastcote,8,22.3,134
+Eastcote,9,14.3,129
+Eastcote,10,11.8,133
+Eastcote,11,11.2,131
+Eastcote,12,11.6,130
+Eastcote,13,11.5,135
+Eastcote,14,10.0,135
+Eastcote,15,10.1,129
+Eastcote,16,11.5,133
+Eastcote,17,14.7,134
+Eastcote,18,15.1,128
+Eastcote,19,11.2,130
+Eastcote,20,6.3,129
+Eastcote,21,4.5,125
+Eastcote,22,4.4,131
+Eastcote,23,4.0,150
+Edgware,0,4.2,146
+Edgware,1,2.4,149
+Edgware,2,1.4,139
+Edgware,3,1.0,125
+Edgware,4,1.2,133
+Edgware,5,3.0,131
+Edgware,6,12.3,134
+Edgware,7,24.2,134
+Edgware,8,35.2,134
+Edgware,9,24.2,129
+Edgware,10,19.1,133
+Edgware,11,18.5,133
+Edgware,12,18.8,128
+Edgware,13,20.6,133
+Edgware,14,19.3,134
+Edgware,15,19.4,133
+Edgware,16,20.6,133
+Edgware,17,22.7,131
+Edgware,18,23.3,132
+Edgware,19,18.1,132
+Edgware,20,13.8,123
+Edgware,21,9.9,124
+Edgware,22,8.3,133
+Edgware,23,7.1,150
+Edgware Road (Bakerloo),0,6.3,140
+Edgware Road (Bakerloo),1,2.0,153
+Edgware Road (Bakerloo),2,1.4,137
+Edgware Road (Bakerloo),3,1.2,124
+Edgware Road (Bakerloo),4,0.8,134
+Edgware Road (Bakerloo),5,0.4,132
+Edgware Road (Bakerloo),6,3.4,134
+Edgware Road (Bakerloo),7,12.4,131
+Edgware Road (Bakerloo),8,22.3,135
+Edgware Road (Bakerloo),9,23.9,130
+Edgware Road (Bakerloo),10,19.3,131
+Edgware Road (Bakerloo),11,19.2,133
+Edgware Road (Bakerloo),12,20.9,134
+Edgware Road (Bakerloo),13,22.3,129
+Edgware Road (Bakerloo),14,22.3,136
+Edgware Road (Bakerloo),15,24.5,130
+Edgware Road (Bakerloo),16,27.7,131
+Edgware Road (Bakerloo),17,33.3,134
+Edgware Road (Bakerloo),18,34.7,132
+Edgware Road (Bakerloo),19,26.7,129
+Edgware Road (Bakerloo),20,19.7,128
+Edgware Road (Bakerloo),21,15.6,124
+Edgware Road (Bakerloo),22,14.6,132
+Edgware Road (Bakerloo),23,12.3,153
+Edgware Road (Circle Line),0,4.1,145
+Edgware Road (Circle Line),1,0.9,149
+Edgware Road (Circle Line),2,0.4,143
+Edgware Road (Circle Line),3,0.1,122
+Edgware Road (Circle Line),4,0.1,133
+Edgware Road (Circle Line),5,0.8,125
+Edgware Road (Circle Line),6,2.7,133
+Edgware Road (Circle Line),7,8.4,133
+Edgware Road (Circle Line),8,18.4,134
+Edgware Road (Circle Line),9,19.9,129
+Edgware Road (Circle Line),10,15.1,132
+Edgware Road (Circle Line),11,15.4,134
+Edgware Road (Circle Line),12,16.0,132
+Edgware Road (Circle Line),13,16.8,130
+Edgware Road (Circle Line),14,16.6,131
+Edgware Road (Circle Line),15,18.1,133
+Edgware Road (Circle Line),16,20.8,135
+Edgware Road (Circle Line),17,26.1,133
+Edgware Road (Circle Line),18,25.7,130
+Edgware Road (Circle Line),19,20.2,131
+Edgware Road (Circle Line),20,13.9,126
+Edgware Road (Circle Line),21,10.2,122
+Edgware Road (Circle Line),22,9.3,132
+Edgware Road (Circle Line),23,7.9,152
+Elephant & Castle,0,10.3,143
+Elephant & Castle,1,2.8,151
+Elephant & Castle,2,2.1,138
+Elephant & Castle,3,2.0,126
+Elephant & Castle,4,1.2,134
+Elephant & Castle,5,1.4,130
+Elephant & Castle,6,5.1,135
+Elephant & Castle,7,13.5,132
+Elephant & Castle,8,23.0,134
+Elephant & Castle,9,25.8,132
+Elephant & Castle,10,20.3,131
+Elephant & Castle,11,17.9,131
+Elephant & Castle,12,19.8,131
+Elephant & Castle,13,22.6,132
+Elephant & Castle,14,23.3,133
+Elephant & Castle,15,24.4,131
+Elephant & Castle,16,26.7,133
+Elephant & Castle,17,33.6,135
+Elephant & Castle,18,35.8,131
+Elephant & Castle,19,28.9,130
+Elephant & Castle,20,22.7,127
+Elephant & Castle,21,19.4,124
+Elephant & Castle,22,18.5,130
+Elephant & Castle,23,16.5,152
+Elm Park,0,6.0,144
+Elm Park,1,2.3,149
+Elm Park,2,0.4,95
+Elm Park,3,0.2,50
+Elm Park,4,0.4,106
+Elm Park,5,12.2,131
+Elm Park,6,39.3,131
+Elm Park,7,47.4,131
+Elm Park,8,40.6,139
+Elm Park,9,26.8,126
+Elm Park,10,22.7,134
+Elm Park,11,19.8,133
+Elm Park,12,21.7,129
+Elm Park,13,21.9,134
+Elm Park,14,21.6,131
+Elm Park,15,19.7,132
+Elm Park,16,23.9,133
+Elm Park,17,23.6,134
+Elm Park,18,23.2,131
+Elm Park,19,18.1,132
+Elm Park,20,14.1,126
+Elm Park,21,11.9,123
+Elm Park,22,8.4,130
+Elm Park,23,7.9,153
+Embankment,0,5.1,144
+Embankment,1,1.3,150
+Embankment,2,0.8,137
+Embankment,3,0.7,125
+Embankment,4,0.3,136
+Embankment,5,0.5,129
+Embankment,6,3.3,133
+Embankment,7,10.6,134
+Embankment,8,20.5,136
+Embankment,9,23.3,129
+Embankment,10,16.1,131
+Embankment,11,17.0,134
+Embankment,12,18.4,129
+Embankment,13,19.8,133
+Embankment,14,20.5,132
+Embankment,15,21.9,134
+Embankment,16,26.1,130
+Embankment,17,34.1,135
+Embankment,18,35.9,130
+Embankment,19,24.4,130
+Embankment,20,16.7,128
+Embankment,21,14.3,124
+Embankment,22,16.1,135
+Embankment,23,11.2,148
+Epping,0,2.1,145
+Epping,1,1.1,149
+Epping,2,0.1,125
+Epping,3,0.0,119
+Epping,4,0.0,123
+Epping,5,1.8,136
+Epping,6,8.8,132
+Epping,7,16.8,135
+Epping,8,15.3,133
+Epping,9,7.9,129
+Epping,10,8.4,132
+Epping,11,9.5,132
+Epping,12,9.1,131
+Epping,13,9.1,135
+Epping,14,7.7,130
+Epping,15,7.8,133
+Epping,16,9.7,134
+Epping,17,11.7,132
+Epping,18,13.4,129
+Epping,19,9.1,131
+Epping,20,5.1,127
+Epping,21,3.4,125
+Epping,22,3.1,131
+Epping,23,3.6,152
+Euston,0,6.5,141
+Euston,1,4.0,149
+Euston,2,2.5,144
+Euston,3,2.0,121
+Euston,4,1.5,134
+Euston,5,2.6,134
+Euston,6,7.8,131
+Euston,7,8.9,133
+Euston,8,9.8,134
+Euston,9,10.8,131
+Euston,10,11.1,132
+Euston,11,11.1,133
+Euston,12,11.3,129
+Euston,13,10.9,134
+Euston,14,10.4,131
+Euston,15,10.2,133
+Euston,16,9.9,132
+Euston,17,9.6,135
+Euston,18,10.1,129
+Euston,19,9.5,131
+Euston,20,9.1,128
+Euston,21,9.1,124
+Euston,22,8.5,129
+Euston,23,8.7,154
+Euston Square,0,4.3,145
+Euston Square,1,0.4,150
+Euston Square,2,0.1,139
+Euston Square,3,0.0,119
+Euston Square,4,0.1,127
+Euston Square,5,1.0,138
+Euston Square,6,3.9,130
+Euston Square,7,12.7,132
+Euston Square,8,27.2,138
+Euston Square,9,29.9,130
+Euston Square,10,21.7,131
+Euston Square,11,20.8,131
+Euston Square,12,20.6,132
+Euston Square,13,22.9,131
+Euston Square,14,22.0,132
+Euston Square,15,22.9,133
+Euston Square,16,28.6,132
+Euston Square,17,37.1,135
+Euston Square,18,36.4,132
+Euston Square,19,24.6,129
+Euston Square,20,17.2,126
+Euston Square,21,12.7,120
+Euston Square,22,10.1,134
+Euston Square,23,8.4,151
+Fairlop,0,2.3,146
+Fairlop,1,1.7,151
+Fairlop,2,0.9,136
+Fairlop,3,0.6,125
+Fairlop,4,0.3,119
+Fairlop,5,2.8,133
+Fairlop,6,10.6,133
+Fairlop,7,14.1,135
+Fairlop,8,18.7,132
+Fairlop,9,11.7,131
+Fairlop,10,7.8,131
+Fairlop,11,7.5,132
+Fairlop,12,8.2,131
+Fairlop,13,7.9,136
+Fairlop,14,7.4,128
+Fairlop,15,7.9,135
+Fairlop,16,8.6,133
+Fairlop,17,9.0,129
+Fairlop,18,9.4,133
+Fairlop,19,7.6,132
+Fairlop,20,4.9,125
+Fairlop,21,4.3,124
+Fairlop,22,3.2,133
+Fairlop,23,3.2,150
+Farringdon,0,3.1,141
+Farringdon,1,0.5,153
+Farringdon,2,0.2,140
+Farringdon,3,0.1,124
+Farringdon,4,0.1,132
+Farringdon,5,0.8,130
+Farringdon,6,3.5,134
+Farringdon,7,10.2,133
+Farringdon,8,20.7,135
+Farringdon,9,21.9,132
+Farringdon,10,12.8,131
+Farringdon,11,11.6,130
+Farringdon,12,12.7,132
+Farringdon,13,13.4,135
+Farringdon,14,13.0,131
+Farringdon,15,14.4,130
+Farringdon,16,19.3,135
+Farringdon,17,28.0,132
+Farringdon,18,28.5,132
+Farringdon,19,17.5,130
+Farringdon,20,11.6,124
+Farringdon,21,9.4,125
+Farringdon,22,8.3,132
+Farringdon,23,6.9,153
+Finchley Central,0,5.1,142
+Finchley Central,1,2.1,154
+Finchley Central,2,1.4,136
+Finchley Central,3,1.3,126
+Finchley Central,4,0.6,131
+Finchley Central,5,1.7,131
+Finchley Central,6,7.2,134
+Finchley Central,7,18.5,133
+Finchley Central,8,32.2,136
+Finchley Central,9,25.7,128
+Finchley Central,10,18.2,134
+Finchley Central,11,17.0,131
+Finchley Central,12,17.1,132
+Finchley Central,13,17.7,132
+Finchley Central,14,17.0,132
+Finchley Central,15,17.0,132
+Finchley Central,16,20.3,134
+Finchley Central,17,26.3,135
+Finchley Central,18,32.6,130
+Finchley Central,19,22.9,127
+Finchley Central,20,14.8,126
+Finchley Central,21,11.3,125
+Finchley Central,22,9.8,132
+Finchley Central,23,8.7,153
+Finchley Road,0,10.0,145
+Finchley Road,1,3.1,153
+Finchley Road,2,1.5,137
+Finchley Road,3,1.2,126
+Finchley Road,4,0.9,133
+Finchley Road,5,2.2,130
+Finchley Road,6,7.7,133
+Finchley Road,7,10.2,134
+Finchley Road,8,11.8,136
+Finchley Road,9,11.0,129
+Finchley Road,10,9.4,131
+Finchley Road,11,9.7,133
+Finchley Road,12,9.1,131
+Finchley Road,13,9.4,132
+Finchley Road,14,9.7,134
+Finchley Road,15,9.9,131
+Finchley Road,16,10.2,132
+Finchley Road,17,11.4,134
+Finchley Road,18,12.5,131
+Finchley Road,19,11.8,129
+Finchley Road,20,11.9,129
+Finchley Road,21,11.1,123
+Finchley Road,22,10.1,132
+Finchley Road,23,11.1,148
+Fulham Broadway,0,1.9,144
+Fulham Broadway,1,0.4,153
+Fulham Broadway,2,0.1,132
+Fulham Broadway,3,0.1,121
+Fulham Broadway,4,0.1,135
+Fulham Broadway,5,0.2,120
+Fulham Broadway,6,1.7,133
+Fulham Broadway,7,9.4,133
+Fulham Broadway,8,19.0,134
+Fulham Broadway,9,15.6,129
+Fulham Broadway,10,10.5,133
+Fulham Broadway,11,12.2,132
+Fulham Broadway,12,13.9,133
+Fulham Broadway,13,12.5,133
+Fulham Broadway,14,14.7,131
+Fulham Broadway,15,17.4,132
+Fulham Broadway,16,18.1,131
+Fulham Broadway,17,24.8,137
+Fulham Broadway,18,24.0,127
+Fulham Broadway,19,18.3,132
+Fulham Broadway,20,13.3,127
+Fulham Broadway,21,8.2,124
+Fulham Broadway,22,6.9,130
+Fulham Broadway,23,4.6,152
+Gants Hill,0,5.7,144
+Gants Hill,1,3.5,151
+Gants Hill,2,2.6,139
+Gants Hill,3,2.4,122
+Gants Hill,4,1.9,134
+Gants Hill,5,4.1,131
+Gants Hill,6,13.5,134
+Gants Hill,7,19.4,133
+Gants Hill,8,27.7,135
+Gants Hill,9,20.5,129
+Gants Hill,10,14.6,134
+Gants Hill,11,13.0,130
+Gants Hill,12,12.6,130
+Gants Hill,13,14.3,135
+Gants Hill,14,14.2,130
+Gants Hill,15,14.9,132
+Gants Hill,16,16.6,136
+Gants Hill,17,21.7,133
+Gants Hill,18,23.1,129
+Gants Hill,19,17.1,130
+Gants Hill,20,12.1,129
+Gants Hill,21,10.1,123
+Gants Hill,22,7.8,132
+Gants Hill,23,7.9,151
+Gloucester Road,0,7.5,144
+Gloucester Road,1,3.7,150
+Gloucester Road,2,1.8,137
+Gloucester Road,3,1.7,126
+Gloucester Road,4,1.4,132
+Gloucester Road,5,1.7,131
+Gloucester Road,6,5.3,135
+Gloucester Road,7,7.2,131
+Gloucester Road,8,8.5,135
+Gloucester Road,9,9.0,129
+Gloucester Road,10,8.9,134
+Gloucester Road,11,9.6,131
+Gloucester Road,12,10.2,131
+Gloucester Road,13,10.3,132
+Gloucester Road,14,10.8,134
+Gloucester Road,15,11.8,131
+Gloucester Road,16,12.0,133
+Gloucester Road,17,11.4,135
+Gloucester Road,18,11.4,130
+Gloucester Road,19,9.6,130
+Gloucester Road,20,9.3,127
+Gloucester Road,21,10.2,123
+Gloucester Road,22,9.6,130
+Gloucester Road,23,10.0,155
+Golders Green,0,5.7,144
+Golders Green,1,2.4,150
+Golders Green,2,1.4,139
+Golders Green,3,1.6,126
+Golders Green,4,1.5,130
+Golders Green,5,2.4,133
+Golders Green,6,6.5,134
+Golders Green,7,13.4,133
+Golders Green,8,22.4,134
+Golders Green,9,20.6,129
+Golders Green,10,16.3,132
+Golders Green,11,15.1,133
+Golders Green,12,16.0,132
+Golders Green,13,17.0,130
+Golders Green,14,17.3,132
+Golders Green,15,17.5,132
+Golders Green,16,20.0,135
+Golders Green,17,23.8,134
+Golders Green,18,28.1,129
+Golders Green,19,21.5,133
+Golders Green,20,15.7,123
+Golders Green,21,12.4,124
+Golders Green,22,10.9,132
+Golders Green,23,9.3,153
+Goldhawk Road,0,4.8,146
+Goldhawk Road,1,1.7,153
+Goldhawk Road,2,0.5,136
+Goldhawk Road,3,0.2,128
+Goldhawk Road,4,1.2,130
+Goldhawk Road,5,2.8,132
+Goldhawk Road,6,5.4,132
+Goldhawk Road,7,13.0,134
+Goldhawk Road,8,28.2,135
+Goldhawk Road,9,23.9,129
+Goldhawk Road,10,18.4,134
+Goldhawk Road,11,16.8,130
+Goldhawk Road,12,18.8,129
+Goldhawk Road,13,19.7,134
+Goldhawk Road,14,20.3,133
+Goldhawk Road,15,20.8,133
+Goldhawk Road,16,22.2,135
+Goldhawk Road,17,26.2,131
+Goldhawk Road,18,26.3,130
+Goldhawk Road,19,21.3,133
+Goldhawk Road,20,15.1,122
+Goldhawk Road,21,11.8,126
+Goldhawk Road,22,11.8,129
+Goldhawk Road,23,9.7,152
+Goodge Street,0,4.9,143
+Goodge Street,1,2.9,152
+Goodge Street,2,1.9,139
+Goodge Street,3,1.6,122
+Goodge Street,4,1.0,130
+Goodge Street,5,0.7,137
+Goodge Street,6,2.3,132
+Goodge Street,7,8.1,133
+Goodge Street,8,22.2,135
+Goodge Street,9,27.8,129
+Goodge Street,10,18.9,134
+Goodge Street,11,18.1,132
+Goodge Street,12,19.8,130
+Goodge Street,13,22.7,132
+Goodge Street,14,21.2,134
+Goodge Street,15,21.9,130
+Goodge Street,16,25.0,132
+Goodge Street,17,33.3,137
+Goodge Street,18,34.5,131
+Goodge Street,19,24.7,131
+Goodge Street,20,17.8,124
+Goodge Street,21,13.8,124
+Goodge Street,22,13.8,132
+Goodge Street,23,10.2,151
+Grange Hill,0,1.1,145
+Grange Hill,1,1.6,138
+Grange Hill,2,1.4,134
+Grange Hill,3,1.0,104
+Grange Hill,4,0.2,124
+Grange Hill,5,1.1,121
+Grange Hill,6,3.3,124
+Grange Hill,7,4.3,126
+Grange Hill,8,6.0,134
+Grange Hill,9,1.8,128
+Grange Hill,10,1.3,135
+Grange Hill,11,1.4,130
+Grange Hill,12,1.6,130
+Grange Hill,13,1.4,135
+Grange Hill,14,1.2,131
+Grange Hill,15,1.0,129
+Grange Hill,16,0.9,133
+Grange Hill,17,0.9,137
+Grange Hill,18,1.0,130
+Grange Hill,19,0.5,127
+Grange Hill,20,0.6,126
+Grange Hill,21,0.5,123
+Grange Hill,22,0.5,117
+Grange Hill,23,0.5,144
+Great Portland Street,0,4.7,142
+Great Portland Street,1,0.6,149
+Great Portland Street,2,0.2,139
+Great Portland Street,3,0.1,126
+Great Portland Street,4,0.1,132
+Great Portland Street,5,0.9,134
+Great Portland Street,6,4.0,132
+Great Portland Street,7,12.9,132
+Great Portland Street,8,24.1,134
+Great Portland Street,9,27.6,131
+Great Portland Street,10,18.9,133
+Great Portland Street,11,17.7,130
+Great Portland Street,12,18.8,135
+Great Portland Street,13,19.6,129
+Great Portland Street,14,19.3,132
+Great Portland Street,15,20.9,133
+Great Portland Street,16,25.6,135
+Great Portland Street,17,32.4,130
+Great Portland Street,18,32.6,131
+Great Portland Street,19,23.2,131
+Great Portland Street,20,16.1,132
+Great Portland Street,21,12.1,118
+Great Portland Street,22,10.7,132
+Great Portland Street,23,9.1,154
+Green Park,0,9.3,145
+Green Park,1,4.2,148
+Green Park,2,2.6,142
+Green Park,3,1.8,124
+Green Park,4,1.3,131
+Green Park,5,1.7,135
+Green Park,6,7.9,132
+Green Park,7,17.1,134
+Green Park,8,24.8,133
+Green Park,9,29.1,131
+Green Park,10,24.5,132
+Green Park,11,24.5,131
+Green Park,12,25.9,130
+Green Park,13,25.9,134
+Green Park,14,26.0,131
+Green Park,15,28.3,134
+Green Park,16,30.4,131
+Green Park,17,35.6,133
+Green Park,18,35.9,133
+Green Park,19,29.0,128
+Green Park,20,21.2,126
+Green Park,21,18.3,125
+Green Park,22,17.5,135
+Green Park,23,16.4,148
+Greenford,0,3.5,146
+Greenford,1,0.9,151
+Greenford,2,0.1,142
+Greenford,3,0.0,108
+Greenford,4,0.1,116
+Greenford,5,2.0,127
+Greenford,6,10.5,134
+Greenford,7,19.7,133
+Greenford,8,24.0,136
+Greenford,9,18.0,128
+Greenford,10,13.5,131
+Greenford,11,12.7,135
+Greenford,12,13.3,132
+Greenford,13,14.6,133
+Greenford,14,15.7,130
+Greenford,15,15.3,131
+Greenford,16,17.8,134
+Greenford,17,20.7,136
+Greenford,18,18.2,129
+Greenford,19,14.6,129
+Greenford,20,10.9,125
+Greenford,21,9.2,125
+Greenford,22,7.0,133
+Greenford,23,6.0,150
+Gunnersbury,0,2.1,144
+Gunnersbury,1,0.6,152
+Gunnersbury,2,0.2,136
+Gunnersbury,3,0.1,126
+Gunnersbury,4,0.1,132
+Gunnersbury,5,0.3,127
+Gunnersbury,6,4.1,135
+Gunnersbury,7,6.7,135
+Gunnersbury,8,9.4,133
+Gunnersbury,9,8.1,128
+Gunnersbury,10,8.2,133
+Gunnersbury,11,7.6,132
+Gunnersbury,12,7.2,129
+Gunnersbury,13,6.5,136
+Gunnersbury,14,6.0,130
+Gunnersbury,15,6.2,133
+Gunnersbury,16,7.3,134
+Gunnersbury,17,9.7,134
+Gunnersbury,18,8.7,130
+Gunnersbury,19,6.8,132
+Gunnersbury,20,4.9,124
+Gunnersbury,21,4.2,124
+Gunnersbury,22,3.7,132
+Gunnersbury,23,3.4,151
+Hainault,0,2.6,144
+Hainault,1,1.1,151
+Hainault,2,0.5,138
+Hainault,3,0.5,102
+Hainault,4,0.5,122
+Hainault,5,5.3,130
+Hainault,6,15.1,134
+Hainault,7,17.5,132
+Hainault,8,22.1,134
+Hainault,9,14.0,132
+Hainault,10,9.8,131
+Hainault,11,10.0,132
+Hainault,12,9.7,131
+Hainault,13,10.5,132
+Hainault,14,9.6,133
+Hainault,15,10.0,131
+Hainault,16,10.3,134
+Hainault,17,12.0,136
+Hainault,18,12.1,129
+Hainault,19,9.4,130
+Hainault,20,7.4,126
+Hainault,21,6.0,122
+Hainault,22,4.7,136
+Hainault,23,4.3,151
+Hammersmith (H&C Line),0,4.1,144
+Hammersmith (H&C Line),1,1.2,149
+Hammersmith (H&C Line),2,0.4,140
+Hammersmith (H&C Line),3,0.2,123
+Hammersmith (H&C Line),4,0.3,135
+Hammersmith (H&C Line),5,1.2,132
+Hammersmith (H&C Line),6,4.2,133
+Hammersmith (H&C Line),7,11.6,133
+Hammersmith (H&C Line),8,25.1,133
+Hammersmith (H&C Line),9,24.3,130
+Hammersmith (H&C Line),10,17.5,133
+Hammersmith (H&C Line),11,17.0,132
+Hammersmith (H&C Line),12,18.6,133
+Hammersmith (H&C Line),13,19.6,130
+Hammersmith (H&C Line),14,19.5,133
+Hammersmith (H&C Line),15,20.1,131
+Hammersmith (H&C Line),16,23.9,136
+Hammersmith (H&C Line),17,31.7,132
+Hammersmith (H&C Line),18,34.0,132
+Hammersmith (H&C Line),19,22.6,129
+Hammersmith (H&C Line),20,14.2,126
+Hammersmith (H&C Line),21,11.6,124
+Hammersmith (H&C Line),22,13.7,133
+Hammersmith (H&C Line),23,10.4,150
+Hampstead,0,3.3,144
+Hampstead,1,1.6,150
+Hampstead,2,0.8,139
+Hampstead,3,0.9,105
+Hampstead,4,0.5,100
+Hampstead,5,0.5,130
+Hampstead,6,3.7,135
+Hampstead,7,11.1,132
+Hampstead,8,20.9,135
+Hampstead,9,20.2,128
+Hampstead,10,15.7,134
+Hampstead,11,15.2,132
+Hampstead,12,17.5,132
+Hampstead,13,18.6,131
+Hampstead,14,19.0,133
+Hampstead,15,19.7,131
+Hampstead,16,22.5,132
+Hampstead,17,24.4,136
+Hampstead,18,25.2,130
+Hampstead,19,19.8,131
+Hampstead,20,13.1,126
+Hampstead,21,10.2,122
+Hampstead,22,10.0,133
+Hampstead,23,7.4,151
+Hanger Lane,0,4.9,147
+Hanger Lane,1,1.6,146
+Hanger Lane,2,0.3,130
+Hanger Lane,3,0.1,117
+Hanger Lane,4,0.2,131
+Hanger Lane,5,3.3,131
+Hanger Lane,6,12.2,128
+Hanger Lane,7,11.9,139
+Hanger Lane,8,11.2,131
+Hanger Lane,9,9.3,133
+Hanger Lane,10,9.3,131
+Hanger Lane,11,8.1,132
+Hanger Lane,12,7.5,133
+Hanger Lane,13,8.1,131
+Hanger Lane,14,8.1,132
+Hanger Lane,15,7.5,131
+Hanger Lane,16,8.6,134
+Hanger Lane,17,8.4,135
+Hanger Lane,18,8.3,131
+Hanger Lane,19,7.9,129
+Hanger Lane,20,8.2,125
+Hanger Lane,21,6.6,123
+Hanger Lane,22,5.8,133
+Hanger Lane,23,6.0,150
+Harlesden,0,3.7,143
+Harlesden,1,0.0,108
+Harlesden,2,0.0,49
+Harlesden,3,0.0,53
+Harlesden,4,0.0,47
+Harlesden,5,1.3,106
+Harlesden,6,8.7,131
+Harlesden,7,18.1,132
+Harlesden,8,21.7,134
+Harlesden,9,17.2,132
+Harlesden,10,13.4,132
+Harlesden,11,12.7,129
+Harlesden,12,12.7,133
+Harlesden,13,13.9,132
+Harlesden,14,15.0,133
+Harlesden,15,17.5,132
+Harlesden,16,20.3,131
+Harlesden,17,25.1,134
+Harlesden,18,23.8,132
+Harlesden,19,18.4,130
+Harlesden,20,13.0,128
+Harlesden,21,8.8,122
+Harlesden,22,8.1,133
+Harlesden,23,7.5,152
+Harrow & Wealdstone,0,8.7,142
+Harrow & Wealdstone,1,2.2,152
+Harrow & Wealdstone,2,1.0,134
+Harrow & Wealdstone,3,0.5,129
+Harrow & Wealdstone,4,1.1,132
+Harrow & Wealdstone,5,4.2,134
+Harrow & Wealdstone,6,18.2,132
+Harrow & Wealdstone,7,31.4,134
+Harrow & Wealdstone,8,40.7,130
+Harrow & Wealdstone,9,31.0,132
+Harrow & Wealdstone,10,24.1,132
+Harrow & Wealdstone,11,24.7,131
+Harrow & Wealdstone,12,24.8,133
+Harrow & Wealdstone,13,27.0,132
+Harrow & Wealdstone,14,25.9,132
+Harrow & Wealdstone,15,27.2,132
+Harrow & Wealdstone,16,30.6,131
+Harrow & Wealdstone,17,38.9,135
+Harrow & Wealdstone,18,42.0,133
+Harrow & Wealdstone,19,29.5,129
+Harrow & Wealdstone,20,22.9,126
+Harrow & Wealdstone,21,17.7,125
+Harrow & Wealdstone,22,14.9,134
+Harrow & Wealdstone,23,14.7,150
+Harrow-on-the-Hill,0,5.7,144
+Harrow-on-the-Hill,1,1.5,151
+Harrow-on-the-Hill,2,0.5,138
+Harrow-on-the-Hill,3,0.3,125
+Harrow-on-the-Hill,4,0.2,132
+Harrow-on-the-Hill,5,1.4,130
+Harrow-on-the-Hill,6,9.1,136
+Harrow-on-the-Hill,7,19.7,133
+Harrow-on-the-Hill,8,32.5,135
+Harrow-on-the-Hill,9,22.5,127
+Harrow-on-the-Hill,10,17.3,134
+Harrow-on-the-Hill,11,16.8,131
+Harrow-on-the-Hill,12,16.8,130
+Harrow-on-the-Hill,13,17.6,136
+Harrow-on-the-Hill,14,17.2,132
+Harrow-on-the-Hill,15,18.4,129
+Harrow-on-the-Hill,16,23.7,134
+Harrow-on-the-Hill,17,31.1,135
+Harrow-on-the-Hill,18,34.9,129
+Harrow-on-the-Hill,19,25.5,130
+Harrow-on-the-Hill,20,18.3,126
+Harrow-on-the-Hill,21,13.0,122
+Harrow-on-the-Hill,22,10.4,136
+Harrow-on-the-Hill,23,9.3,151
+Hatton Cross,0,6.3,142
+Hatton Cross,1,4.2,151
+Hatton Cross,2,3.0,139
+Hatton Cross,3,2.4,123
+Hatton Cross,4,2.6,133
+Hatton Cross,5,9.0,133
+Hatton Cross,6,15.9,132
+Hatton Cross,7,22.6,133
+Hatton Cross,8,23.0,136
+Hatton Cross,9,18.6,128
+Hatton Cross,10,15.9,132
+Hatton Cross,11,16.9,132
+Hatton Cross,12,19.1,131
+Hatton Cross,13,21.4,132
+Hatton Cross,14,22.3,132
+Hatton Cross,15,19.9,134
+Hatton Cross,16,20.7,134
+Hatton Cross,17,22.5,133
+Hatton Cross,18,22.4,131
+Hatton Cross,19,20.2,130
+Hatton Cross,20,16.3,125
+Hatton Cross,21,15.3,124
+Hatton Cross,22,14.8,132
+Hatton Cross,23,11.0,154
+Heathrow Terminal 4,0,0.9,145
+Heathrow Terminal 4,1,1.2,136
+Heathrow Terminal 4,2,1.8,131
+Heathrow Terminal 4,3,1.2,126
+Heathrow Terminal 4,4,0.4,130
+Heathrow Terminal 4,5,2.1,136
+Heathrow Terminal 4,6,4.4,119
+Heathrow Terminal 4,7,9.4,126
+Heathrow Terminal 4,8,10.1,130
+Heathrow Terminal 4,9,7.6,115
+Heathrow Terminal 4,10,5.2,132
+Heathrow Terminal 4,11,6.2,125
+Heathrow Terminal 4,12,6.3,135
+Heathrow Terminal 4,13,8.5,119
+Heathrow Terminal 4,14,9.0,130
+Heathrow Terminal 4,15,8.6,120
+Heathrow Terminal 4,16,7.9,137
+Heathrow Terminal 4,17,9.6,120
+Heathrow Terminal 4,18,9.7,118
+Heathrow Terminal 4,19,11.7,109
+Heathrow Terminal 4,20,7.5,115
+Heathrow Terminal 4,21,5.0,124
+Heathrow Terminal 4,22,4.0,130
+Heathrow Terminal 4,23,2.2,153
+Heathrow Terminals 2 & 3,0,5.6,142
+Heathrow Terminals 2 & 3,1,6.2,150
+Heathrow Terminals 2 & 3,2,5.1,141
+Heathrow Terminals 2 & 3,3,5.4,125
+Heathrow Terminals 2 & 3,4,5.7,130
+Heathrow Terminals 2 & 3,5,9.5,133
+Heathrow Terminals 2 & 3,6,14.3,132
+Heathrow Terminals 2 & 3,7,25.9,135
+Heathrow Terminals 2 & 3,8,26.3,134
+Heathrow Terminals 2 & 3,9,21.9,130
+Heathrow Terminals 2 & 3,10,19.8,132
+Heathrow Terminals 2 & 3,11,20.6,134
+Heathrow Terminals 2 & 3,12,24.1,132
+Heathrow Terminals 2 & 3,13,26.2,129
+Heathrow Terminals 2 & 3,14,26.6,132
+Heathrow Terminals 2 & 3,15,23.6,133
+Heathrow Terminals 2 & 3,16,22.9,132
+Heathrow Terminals 2 & 3,17,24.7,135
+Heathrow Terminals 2 & 3,18,20.4,128
+Heathrow Terminals 2 & 3,19,21.8,131
+Heathrow Terminals 2 & 3,20,21.8,127
+Heathrow Terminals 2 & 3,21,20.3,122
+Heathrow Terminals 2 & 3,22,20.1,135
+Heathrow Terminals 2 & 3,23,10.6,152
+Hendon Central,0,5.9,144
+Hendon Central,1,2.9,152
+Hendon Central,2,1.9,123
+Hendon Central,3,1.1,115
+Hendon Central,4,1.1,114
+Hendon Central,5,3.6,127
+Hendon Central,6,12.0,134
+Hendon Central,7,13.6,136
+Hendon Central,8,13.7,133
+Hendon Central,9,11.6,127
+Hendon Central,10,11.0,134
+Hendon Central,11,10.6,132
+Hendon Central,12,10.1,132
+Hendon Central,13,10.0,130
+Hendon Central,14,10.2,134
+Hendon Central,15,10.6,131
+Hendon Central,16,9.1,135
+Hendon Central,17,9.4,132
+Hendon Central,18,8.3,131
+Hendon Central,19,8.1,129
+Hendon Central,20,8.3,127
+Hendon Central,21,7.3,123
+Hendon Central,22,6.6,132
+Hendon Central,23,6.4,155
+High Barnet,0,9.9,145
+High Barnet,1,7.4,150
+High Barnet,2,3.2,138
+High Barnet,3,3.7,125
+High Barnet,4,2.3,121
+High Barnet,5,5.8,132
+High Barnet,6,12.9,132
+High Barnet,7,25.3,135
+High Barnet,8,38.3,133
+High Barnet,9,24.6,129
+High Barnet,10,21.4,135
+High Barnet,11,22.6,130
+High Barnet,12,24.1,131
+High Barnet,13,22.1,132
+High Barnet,14,19.0,133
+High Barnet,15,22.0,131
+High Barnet,16,25.0,134
+High Barnet,17,24.9,133
+High Barnet,18,26.9,132
+High Barnet,19,22.9,129
+High Barnet,20,17.9,129
+High Barnet,21,13.9,122
+High Barnet,22,12.0,129
+High Barnet,23,11.9,155
+High Street Kensington,0,2.4,145
+High Street Kensington,1,0.8,151
+High Street Kensington,2,0.4,136
+High Street Kensington,3,0.4,125
+High Street Kensington,4,0.3,134
+High Street Kensington,5,0.5,128
+High Street Kensington,6,2.2,137
+High Street Kensington,7,6.2,133
+High Street Kensington,8,12.6,133
+High Street Kensington,9,14.4,129
+High Street Kensington,10,11.7,133
+High Street Kensington,11,12.6,133
+High Street Kensington,12,14.5,128
+High Street Kensington,13,15.4,135
+High Street Kensington,14,15.9,133
+High Street Kensington,15,17.3,132
+High Street Kensington,16,19.0,133
+High Street Kensington,17,22.2,135
+High Street Kensington,18,20.9,129
+High Street Kensington,19,14.7,129
+High Street Kensington,20,10.8,128
+High Street Kensington,21,8.1,119
+High Street Kensington,22,6.9,135
+High Street Kensington,23,5.6,151
+Highbury & Islington,0,22.4,145
+Highbury & Islington,1,11.2,147
+Highbury & Islington,2,7.0,141
+Highbury & Islington,3,5.2,126
+Highbury & Islington,4,3.7,131
+Highbury & Islington,5,4.1,130
+Highbury & Islington,6,15.5,135
+Highbury & Islington,7,29.3,133
+Highbury & Islington,8,41.0,135
+Highbury & Islington,9,44.8,129
+Highbury & Islington,10,40.0,133
+Highbury & Islington,11,43.6,133
+Highbury & Islington,12,45.3,128
+Highbury & Islington,13,47.0,134
+Highbury & Islington,14,49.9,132
+Highbury & Islington,15,48.8,133
+Highbury & Islington,16,53.7,131
+Highbury & Islington,17,57.0,137
+Highbury & Islington,18,65.5,129
+Highbury & Islington,19,55.5,129
+Highbury & Islington,20,45.4,129
+Highbury & Islington,21,40.3,120
+Highbury & Islington,22,41.3,137
+Highbury & Islington,23,35.2,149
+Highgate,0,5.0,146
+Highgate,1,2.1,151
+Highgate,2,1.2,137
+Highgate,3,1.1,121
+Highgate,4,0.4,137
+Highgate,5,0.8,130
+Highgate,6,4.7,132
+Highgate,7,14.8,135
+Highgate,8,30.8,133
+Highgate,9,26.4,129
+Highgate,10,18.5,132
+Highgate,11,17.4,133
+Highgate,12,18.1,129
+Highgate,13,19.3,133
+Highgate,14,18.1,134
+Highgate,15,18.3,132
+Highgate,16,22.5,133
+Highgate,17,26.6,133
+Highgate,18,32.1,131
+Highgate,19,24.7,129
+Highgate,20,15.2,128
+Highgate,21,11.0,123
+Highgate,22,11.3,131
+Highgate,23,9.3,152
+Hillingdon,0,1.3,146
+Hillingdon,1,0.7,146
+Hillingdon,2,0.2,106
+Hillingdon,3,0.1,78
+Hillingdon,4,0.0,78
+Hillingdon,5,0.7,134
+Hillingdon,6,4.0,130
+Hillingdon,7,11.1,134
+Hillingdon,8,11.8,132
+Hillingdon,9,6.8,131
+Hillingdon,10,6.8,133
+Hillingdon,11,7.1,132
+Hillingdon,12,6.7,130
+Hillingdon,13,6.4,133
+Hillingdon,14,5.6,133
+Hillingdon,15,6.3,131
+Hillingdon,16,6.9,134
+Hillingdon,17,8.4,135
+Hillingdon,18,7.2,128
+Hillingdon,19,4.9,131
+Hillingdon,20,3.1,128
+Hillingdon,21,2.3,121
+Hillingdon,22,2.0,133
+Hillingdon,23,2.0,153
+Holborn,0,1.6,137
+Holborn,1,0.7,151
+Holborn,2,0.6,124
+Holborn,3,0.7,88
+Holborn,4,0.6,67
+Holborn,5,0.3,105
+Holborn,6,1.0,135
+Holborn,7,2.2,131
+Holborn,8,4.3,136
+Holborn,9,5.1,128
+Holborn,10,3.4,133
+Holborn,11,3.6,131
+Holborn,12,4.2,131
+Holborn,13,4.6,132
+Holborn,14,4.9,134
+Holborn,15,5.4,131
+Holborn,16,6.4,132
+Holborn,17,7.9,136
+Holborn,18,8.1,127
+Holborn,19,5.9,133
+Holborn,20,4.6,126
+Holborn,21,4.0,124
+Holborn,22,4.5,133
+Holborn,23,3.5,152
+Holland Park,0,4.4,144
+Holland Park,1,3.0,150
+Holland Park,2,2.4,129
+Holland Park,3,2.2,111
+Holland Park,4,1.5,132
+Holland Park,5,1.6,129
+Holland Park,6,5.2,132
+Holland Park,7,6.5,133
+Holland Park,8,6.9,136
+Holland Park,9,7.1,129
+Holland Park,10,6.5,132
+Holland Park,11,6.3,131
+Holland Park,12,6.8,130
+Holland Park,13,7.1,133
+Holland Park,14,6.8,132
+Holland Park,15,7.6,132
+Holland Park,16,8.1,132
+Holland Park,17,7.5,136
+Holland Park,18,7.0,131
+Holland Park,19,6.4,130
+Holland Park,20,6.2,127
+Holland Park,21,5.7,117
+Holland Park,22,5.4,135
+Holland Park,23,5.3,153
+Hornchurch,0,1.7,146
+Hornchurch,1,0.5,150
+Hornchurch,2,0.1,103
+Hornchurch,3,0.1,77
+Hornchurch,4,0.1,112
+Hornchurch,5,2.2,129
+Hornchurch,6,11.2,136
+Hornchurch,7,18.2,134
+Hornchurch,8,20.6,132
+Hornchurch,9,10.9,130
+Hornchurch,10,8.3,131
+Hornchurch,11,8.2,134
+Hornchurch,12,9.4,130
+Hornchurch,13,9.4,133
+Hornchurch,14,8.4,132
+Hornchurch,15,8.5,132
+Hornchurch,16,10.7,134
+Hornchurch,17,13.0,133
+Hornchurch,18,12.0,130
+Hornchurch,19,8.2,130
+Hornchurch,20,5.4,127
+Hornchurch,21,4.3,121
+Hornchurch,22,3.5,136
+Hornchurch,23,3.0,150
+Hounslow Central,0,6.0,145
+Hounslow Central,1,2.5,147
+Hounslow Central,2,0.9,141
+Hounslow Central,3,0.8,123
+Hounslow Central,4,0.7,134
+Hounslow Central,5,4.3,134
+Hounslow Central,6,11.9,130
+Hounslow Central,7,18.5,135
+Hounslow Central,8,24.8,133
+Hounslow Central,9,18.7,129
+Hounslow Central,10,14.0,133
+Hounslow Central,11,13.8,132
+Hounslow Central,12,14.9,129
+Hounslow Central,13,15.3,135
+Hounslow Central,14,15.7,132
+Hounslow Central,15,15.0,132
+Hounslow Central,16,17.9,132
+Hounslow Central,17,19.9,135
+Hounslow Central,18,22.0,133
+Hounslow Central,19,17.0,127
+Hounslow Central,20,12.4,126
+Hounslow Central,21,10.5,126
+Hounslow Central,22,8.9,132
+Hounslow Central,23,8.2,149
+Hounslow East,0,4.7,145
+Hounslow East,1,2.4,149
+Hounslow East,2,1.7,141
+Hounslow East,3,1.1,126
+Hounslow East,4,0.9,133
+Hounslow East,5,4.3,130
+Hounslow East,6,11.9,134
+Hounslow East,7,18.7,135
+Hounslow East,8,23.1,130
+Hounslow East,9,17.8,130
+Hounslow East,10,15.8,132
+Hounslow East,11,16.0,134
+Hounslow East,12,16.7,130
+Hounslow East,13,17.6,133
+Hounslow East,14,17.7,134
+Hounslow East,15,18.6,129
+Hounslow East,16,18.3,133
+Hounslow East,17,19.7,134
+Hounslow East,18,20.0,132
+Hounslow East,19,17.5,129
+Hounslow East,20,14.2,131
+Hounslow East,21,10.6,119
+Hounslow East,22,8.9,131
+Hounslow East,23,7.7,152
+Hounslow West,0,4.3,142
+Hounslow West,1,3.7,150
+Hounslow West,2,3.4,141
+Hounslow West,3,3.0,122
+Hounslow West,4,1.7,136
+Hounslow West,5,4.3,130
+Hounslow West,6,10.6,132
+Hounslow West,7,17.3,134
+Hounslow West,8,22.8,134
+Hounslow West,9,15.5,132
+Hounslow West,10,13.4,130
+Hounslow West,11,13.6,134
+Hounslow West,12,15.2,128
+Hounslow West,13,14.5,133
+Hounslow West,14,14.8,134
+Hounslow West,15,13.5,130
+Hounslow West,16,13.7,133
+Hounslow West,17,15.0,133
+Hounslow West,18,14.3,131
+Hounslow West,19,13.4,132
+Hounslow West,20,11.8,130
+Hounslow West,21,10.0,119
+Hounslow West,22,9.1,131
+Hounslow West,23,6.4,155
+Hyde Park Corner,0,1.8,146
+Hyde Park Corner,1,0.8,149
+Hyde Park Corner,2,0.4,141
+Hyde Park Corner,3,0.2,125
+Hyde Park Corner,4,0.2,131
+Hyde Park Corner,5,0.2,130
+Hyde Park Corner,6,1.4,133
+Hyde Park Corner,7,3.6,132
+Hyde Park Corner,8,7.0,135
+Hyde Park Corner,9,7.9,129
+Hyde Park Corner,10,5.9,133
+Hyde Park Corner,11,6.2,132
+Hyde Park Corner,12,7.5,130
+Hyde Park Corner,13,7.3,132
+Hyde Park Corner,14,7.5,135
+Hyde Park Corner,15,8.1,131
+Hyde Park Corner,16,9.2,132
+Hyde Park Corner,17,11.3,136
+Hyde Park Corner,18,12.0,130
+Hyde Park Corner,19,8.1,129
+Hyde Park Corner,20,6.2,128
+Hyde Park Corner,21,5.4,121
+Hyde Park Corner,22,4.4,134
+Hyde Park Corner,23,4.4,149
+Ickenham,0,2.3,145
+Ickenham,1,0.8,136
+Ickenham,2,0.2,122
+Ickenham,3,0.0,96
+Ickenham,4,0.2,105
+Ickenham,5,2.0,122
+Ickenham,6,5.3,132
+Ickenham,7,6.6,132
+Ickenham,8,6.2,135
+Ickenham,9,5.2,131
+Ickenham,10,5.0,132
+Ickenham,11,4.9,132
+Ickenham,12,4.6,129
+Ickenham,13,4.2,134
+Ickenham,14,3.5,133
+Ickenham,15,3.6,131
+Ickenham,16,3.1,133
+Ickenham,17,3.1,135
+Ickenham,18,2.5,130
+Ickenham,19,2.1,129
+Ickenham,20,1.8,129
+Ickenham,21,1.9,116
+Ickenham,22,1.3,133
+Ickenham,23,1.8,152
+Kennington,0,6.9,143
+Kennington,1,2.5,153
+Kennington,2,1.7,137
+Kennington,3,1.2,127
+Kennington,4,0.8,119
+Kennington,5,0.7,131
+Kennington,6,3.6,132
+Kennington,7,9.9,134
+Kennington,8,19.7,135
+Kennington,9,18.7,131
+Kennington,10,12.7,129
+Kennington,11,13.0,132
+Kennington,12,14.3,130
+Kennington,13,15.7,134
+Kennington,14,16.1,131
+Kennington,15,17.1,133
+Kennington,16,19.2,133
+Kennington,17,26.2,138
+Kennington,18,25.7,128
+Kennington,19,20.7,129
+Kennington,20,17.7,128
+Kennington,21,15.1,122
+Kennington,22,15.0,132
+Kennington,23,12.6,151
+Kensal Green,0,4.6,146
+Kensal Green,1,0.6,149
+Kensal Green,2,0.3,131
+Kensal Green,3,0.2,121
+Kensal Green,4,0.1,128
+Kensal Green,5,0.8,127
+Kensal Green,6,6.0,130
+Kensal Green,7,12.8,134
+Kensal Green,8,26.2,135
+Kensal Green,9,20.5,129
+Kensal Green,10,14.3,134
+Kensal Green,11,15.0,130
+Kensal Green,12,15.2,131
+Kensal Green,13,15.8,134
+Kensal Green,14,15.6,132
+Kensal Green,15,16.9,131
+Kensal Green,16,18.7,133
+Kensal Green,17,23.0,133
+Kensal Green,18,25.5,132
+Kensal Green,19,20.3,130
+Kensal Green,20,14.1,128
+Kensal Green,21,11.2,120
+Kensal Green,22,10.4,135
+Kensal Green,23,9.1,150
+Kentish Town,0,5.5,148
+Kentish Town,1,1.7,148
+Kentish Town,2,1.2,132
+Kentish Town,3,1.0,115
+Kentish Town,4,0.7,115
+Kentish Town,5,0.6,128
+Kentish Town,6,3.5,131
+Kentish Town,7,11.2,134
+Kentish Town,8,23.9,136
+Kentish Town,9,22.6,129
+Kentish Town,10,16.5,130
+Kentish Town,11,14.6,134
+Kentish Town,12,16.5,130
+Kentish Town,13,17.8,133
+Kentish Town,14,17.2,132
+Kentish Town,15,18.1,133
+Kentish Town,16,21.2,134
+Kentish Town,17,25.9,133
+Kentish Town,18,24.8,128
+Kentish Town,19,21.6,133
+Kentish Town,20,16.4,127
+Kentish Town,21,13.3,124
+Kentish Town,22,14.6,132
+Kentish Town,23,11.8,149
+Kenton,0,2.6,145
+Kenton,1,0.3,147
+Kenton,2,0.1,107
+Kenton,3,0.4,103
+Kenton,4,0.2,116
+Kenton,5,3.4,125
+Kenton,6,9.2,135
+Kenton,7,9.8,132
+Kenton,8,8.7,133
+Kenton,9,7.2,130
+Kenton,10,6.4,132
+Kenton,11,7.0,133
+Kenton,12,5.7,130
+Kenton,13,6.2,134
+Kenton,14,6.5,134
+Kenton,15,7.0,129
+Kenton,16,5.7,133
+Kenton,17,7.0,131
+Kenton,18,5.8,135
+Kenton,19,4.4,128
+Kenton,20,5.0,128
+Kenton,21,4.6,123
+Kenton,22,3.7,132
+Kenton,23,3.7,150
+Kew Gardens,0,1.3,147
+Kew Gardens,1,0.2,152
+Kew Gardens,2,0.0,120
+Kew Gardens,3,0.0,105
+Kew Gardens,4,0.1,118
+Kew Gardens,5,0.4,128
+Kew Gardens,6,2.6,131
+Kew Gardens,7,10.6,133
+Kew Gardens,8,18.2,133
+Kew Gardens,9,14.7,131
+Kew Gardens,10,17.4,132
+Kew Gardens,11,19.4,133
+Kew Gardens,12,19.7,130
+Kew Gardens,13,19.8,131
+Kew Gardens,14,19.3,132
+Kew Gardens,15,22.3,134
+Kew Gardens,16,26.2,133
+Kew Gardens,17,26.9,136
+Kew Gardens,18,20.8,131
+Kew Gardens,19,19.2,128
+Kew Gardens,20,15.2,126
+Kew Gardens,21,12.7,123
+Kew Gardens,22,10.9,135
+Kew Gardens,23,4.3,148
+Kilburn,0,6.3,144
+Kilburn,1,2.3,149
+Kilburn,2,1.7,138
+Kilburn,3,1.3,122
+Kilburn,4,0.9,127
+Kilburn,5,1.7,130
+Kilburn,6,6.1,133
+Kilburn,7,13.7,136
+Kilburn,8,24.7,130
+Kilburn,9,20.8,132
+Kilburn,10,15.1,134
+Kilburn,11,14.6,132
+Kilburn,12,15.0,128
+Kilburn,13,16.4,134
+Kilburn,14,15.7,132
+Kilburn,15,15.8,133
+Kilburn,16,18.2,131
+Kilburn,17,22.2,137
+Kilburn,18,21.1,128
+Kilburn,19,17.7,130
+Kilburn,20,13.8,129
+Kilburn,21,11.3,123
+Kilburn,22,11.0,134
+Kilburn,23,10.0,151
+Kilburn Park,0,4.1,143
+Kilburn Park,1,1.1,151
+Kilburn Park,2,0.8,138
+Kilburn Park,3,0.6,125
+Kilburn Park,4,0.2,133
+Kilburn Park,5,0.5,132
+Kilburn Park,6,3.2,131
+Kilburn Park,7,9.5,135
+Kilburn Park,8,17.9,134
+Kilburn Park,9,15.7,130
+Kilburn Park,10,11.9,131
+Kilburn Park,11,12.1,133
+Kilburn Park,12,12.0,129
+Kilburn Park,13,12.3,134
+Kilburn Park,14,12.6,133
+Kilburn Park,15,13.1,132
+Kilburn Park,16,14.6,131
+Kilburn Park,17,17.6,136
+Kilburn Park,18,18.3,128
+Kilburn Park,19,15.1,134
+Kilburn Park,20,11.3,126
+Kilburn Park,21,9.0,123
+Kilburn Park,22,8.7,132
+Kilburn Park,23,7.7,152
+King's Cross St. Pancras,0,6.9,145
+King's Cross St. Pancras,1,1.7,150
+King's Cross St. Pancras,2,0.9,142
+King's Cross St. Pancras,3,0.8,121
+King's Cross St. Pancras,4,0.6,134
+King's Cross St. Pancras,5,1.2,134
+King's Cross St. Pancras,6,5.9,129
+King's Cross St. Pancras,7,16.2,135
+King's Cross St. Pancras,8,29.5,134
+King's Cross St. Pancras,9,33.5,130
+King's Cross St. Pancras,10,26.6,131
+King's Cross St. Pancras,11,27.2,131
+King's Cross St. Pancras,12,28.1,134
+King's Cross St. Pancras,13,28.3,131
+King's Cross St. Pancras,14,28.3,132
+King's Cross St. Pancras,15,29.7,132
+King's Cross St. Pancras,16,34.3,134
+King's Cross St. Pancras,17,42.7,133
+King's Cross St. Pancras,18,44.4,132
+King's Cross St. Pancras,19,32.7,128
+King's Cross St. Pancras,20,24.1,129
+King's Cross St. Pancras,21,19.0,122
+King's Cross St. Pancras,22,17.9,134
+King's Cross St. Pancras,23,14.1,149
+Kingsbury,0,1.2,145
+Kingsbury,1,0.6,154
+Kingsbury,2,0.5,122
+Kingsbury,3,0.5,103
+Kingsbury,4,0.4,97
+Kingsbury,5,2.3,123
+Kingsbury,6,5.5,132
+Kingsbury,7,3.4,134
+Kingsbury,8,3.0,135
+Kingsbury,9,2.3,131
+Kingsbury,10,2.0,131
+Kingsbury,11,2.2,131
+Kingsbury,12,2.0,130
+Kingsbury,13,1.9,133
+Kingsbury,14,1.8,134
+Kingsbury,15,1.9,122
+Kingsbury,16,1.9,134
+Kingsbury,17,1.4,137
+Kingsbury,18,1.4,127
+Kingsbury,19,1.3,130
+Kingsbury,20,1.7,130
+Kingsbury,21,1.5,121
+Kingsbury,22,1.4,133
+Kingsbury,23,1.3,150
+Knightsbridge,0,1.8,146
+Knightsbridge,1,0.6,149
+Knightsbridge,2,0.3,140
+Knightsbridge,3,0.2,126
+Knightsbridge,4,0.1,132
+Knightsbridge,5,0.2,134
+Knightsbridge,6,1.4,129
+Knightsbridge,7,4.1,135
+Knightsbridge,8,9.2,135
+Knightsbridge,9,11.1,127
+Knightsbridge,10,8.4,133
+Knightsbridge,11,8.9,133
+Knightsbridge,12,11.5,130
+Knightsbridge,13,10.7,134
+Knightsbridge,14,11.1,131
+Knightsbridge,15,12.5,132
+Knightsbridge,16,13.9,133
+Knightsbridge,17,16.4,135
+Knightsbridge,18,16.9,129
+Knightsbridge,19,10.9,132
+Knightsbridge,20,7.7,125
+Knightsbridge,21,6.9,126
+Knightsbridge,22,4.4,133
+Knightsbridge,23,4.2,147
+Lambeth North,0,7.5,141
+Lambeth North,1,2.2,154
+Lambeth North,2,1.5,138
+Lambeth North,3,1.6,124
+Lambeth North,4,1.2,131
+Lambeth North,5,1.0,135
+Lambeth North,6,4.4,132
+Lambeth North,7,12.5,132
+Lambeth North,8,23.0,134
+Lambeth North,9,24.9,131
+Lambeth North,10,20.5,132
+Lambeth North,11,20.7,130
+Lambeth North,12,21.3,132
+Lambeth North,13,22.8,134
+Lambeth North,14,22.8,131
+Lambeth North,15,24.2,132
+Lambeth North,16,25.7,134
+Lambeth North,17,29.1,132
+Lambeth North,18,30.5,131
+Lambeth North,19,22.1,131
+Lambeth North,20,18.2,128
+Lambeth North,21,15.4,122
+Lambeth North,22,15.1,135
+Lambeth North,23,13.2,150
+Lancaster Gate,0,4.8,142
+Lancaster Gate,1,2.9,154
+Lancaster Gate,2,1.9,139
+Lancaster Gate,3,1.8,124
+Lancaster Gate,4,1.1,132
+Lancaster Gate,5,1.0,129
+Lancaster Gate,6,5.0,135
+Lancaster Gate,7,11.4,133
+Lancaster Gate,8,19.8,134
+Lancaster Gate,9,21.7,130
+Lancaster Gate,10,15.1,131
+Lancaster Gate,11,15.7,133
+Lancaster Gate,12,19.5,129
+Lancaster Gate,13,19.6,134
+Lancaster Gate,14,19.7,132
+Lancaster Gate,15,21.6,132
+Lancaster Gate,16,24.3,134
+Lancaster Gate,17,26.8,135
+Lancaster Gate,18,29.9,128
+Lancaster Gate,19,21.8,131
+Lancaster Gate,20,14.3,130
+Lancaster Gate,21,10.7,120
+Lancaster Gate,22,11.2,136
+Lancaster Gate,23,9.3,149
+Latimer Road,0,3.6,144
+Latimer Road,1,0.8,151
+Latimer Road,2,0.1,138
+Latimer Road,3,0.1,117
+Latimer Road,4,0.2,126
+Latimer Road,5,1.0,131
+Latimer Road,6,3.6,134
+Latimer Road,7,10.0,133
+Latimer Road,8,19.6,135
+Latimer Road,9,20.0,128
+Latimer Road,10,14.9,133
+Latimer Road,11,14.6,132
+Latimer Road,12,16.5,130
+Latimer Road,13,17.5,133
+Latimer Road,14,18.1,132
+Latimer Road,15,19.1,132
+Latimer Road,16,22.8,133
+Latimer Road,17,28.3,134
+Latimer Road,18,25.1,130
+Latimer Road,19,19.4,131
+Latimer Road,20,15.3,128
+Latimer Road,21,11.3,123
+Latimer Road,22,10.7,134
+Latimer Road,23,7.7,150
+Leicester Square,0,9.2,141
+Leicester Square,1,4.7,148
+Leicester Square,2,3.3,139
+Leicester Square,3,2.6,126
+Leicester Square,4,1.4,133
+Leicester Square,5,0.9,135
+Leicester Square,6,3.0,127
+Leicester Square,7,7.4,137
+Leicester Square,8,14.8,135
+Leicester Square,9,19.0,129
+Leicester Square,10,15.4,131
+Leicester Square,11,18.1,133
+Leicester Square,12,22.8,129
+Leicester Square,13,25.1,133
+Leicester Square,14,26.4,133
+Leicester Square,15,29.0,132
+Leicester Square,16,32.4,132
+Leicester Square,17,42.6,136
+Leicester Square,18,46.2,133
+Leicester Square,19,35.5,127
+Leicester Square,20,27.0,127
+Leicester Square,21,23.7,121
+Leicester Square,22,30.0,136
+Leicester Square,23,20.4,151
+Leyton,0,7.8,145
+Leyton,1,3.0,150
+Leyton,2,1.8,141
+Leyton,3,1.3,124
+Leyton,4,0.8,132
+Leyton,5,2.9,131
+Leyton,6,13.6,132
+Leyton,7,23.3,134
+Leyton,8,31.5,134
+Leyton,9,26.8,129
+Leyton,10,20.3,133
+Leyton,11,20.3,132
+Leyton,12,21.8,130
+Leyton,13,22.2,134
+Leyton,14,23.7,132
+Leyton,15,25.9,131
+Leyton,16,28.6,133
+Leyton,17,38.1,137
+Leyton,18,37.7,127
+Leyton,19,27.7,132
+Leyton,20,19.4,125
+Leyton,21,16.1,125
+Leyton,22,14.1,133
+Leyton,23,13.5,150
+Leytonstone,0,4.1,144
+Leytonstone,1,1.9,151
+Leytonstone,2,1.2,140
+Leytonstone,3,0.9,123
+Leytonstone,4,0.6,134
+Leytonstone,5,1.8,130
+Leytonstone,6,7.1,132
+Leytonstone,7,12.8,134
+Leytonstone,8,19.6,132
+Leytonstone,9,16.4,132
+Leytonstone,10,11.4,131
+Leytonstone,11,11.5,133
+Leytonstone,12,13.0,129
+Leytonstone,13,12.7,134
+Leytonstone,14,13.4,133
+Leytonstone,15,13.6,131
+Leytonstone,16,16.4,137
+Leytonstone,17,21.5,131
+Leytonstone,18,20.7,129
+Leytonstone,19,15.5,131
+Leytonstone,20,10.6,126
+Leytonstone,21,8.9,122
+Leytonstone,22,7.5,136
+Leytonstone,23,6.7,149
+Liverpool Street,0,5.8,145
+Liverpool Street,1,2.0,149
+Liverpool Street,2,1.5,137
+Liverpool Street,3,1.0,129
+Liverpool Street,4,0.8,129
+Liverpool Street,5,1.1,134
+Liverpool Street,6,6.5,133
+Liverpool Street,7,15.8,132
+Liverpool Street,8,26.2,138
+Liverpool Street,9,27.4,127
+Liverpool Street,10,18.5,133
+Liverpool Street,11,17.8,131
+Liverpool Street,12,18.6,131
+Liverpool Street,13,19.1,133
+Liverpool Street,14,19.5,131
+Liverpool Street,15,21.1,133
+Liverpool Street,16,25.8,133
+Liverpool Street,17,35.1,134
+Liverpool Street,18,35.3,130
+Liverpool Street,19,23.9,131
+Liverpool Street,20,16.9,128
+Liverpool Street,21,13.6,122
+Liverpool Street,22,12.7,134
+Liverpool Street,23,11.2,149
+London Bridge,0,6.6,144
+London Bridge,1,1.5,151
+London Bridge,2,0.8,140
+London Bridge,3,0.7,121
+London Bridge,4,0.5,133
+London Bridge,5,0.7,134
+London Bridge,6,4.5,131
+London Bridge,7,13.3,134
+London Bridge,8,24.8,134
+London Bridge,9,26.4,130
+London Bridge,10,16.7,133
+London Bridge,11,16.1,130
+London Bridge,12,18.2,132
+London Bridge,13,19.5,132
+London Bridge,14,19.5,133
+London Bridge,15,21.1,132
+London Bridge,16,25.2,133
+London Bridge,17,33.0,133
+London Bridge,18,32.7,134
+London Bridge,19,24.5,126
+London Bridge,20,17.6,129
+London Bridge,21,14.6,119
+London Bridge,22,13.8,135
+London Bridge,23,13.4,151
+Loughton,0,3.0,146
+Loughton,1,1.6,153
+Loughton,2,1.4,138
+Loughton,3,1.0,123
+Loughton,4,0.8,134
+Loughton,5,2.4,130
+Loughton,6,9.5,134
+Loughton,7,18.7,133
+Loughton,8,24.1,135
+Loughton,9,9.6,128
+Loughton,10,10.0,132
+Loughton,11,12.0,133
+Loughton,12,11.8,129
+Loughton,13,12.6,134
+Loughton,14,11.7,132
+Loughton,15,13.3,132
+Loughton,16,14.7,135
+Loughton,17,15.7,133
+Loughton,18,10.6,131
+Loughton,19,8.1,129
+Loughton,20,7.2,127
+Loughton,21,5.2,123
+Loughton,22,4.7,134
+Loughton,23,4.6,148
+Maida Vale,0,3.7,141
+Maida Vale,1,0.7,154
+Maida Vale,2,0.5,138
+Maida Vale,3,0.2,125
+Maida Vale,4,0.1,131
+Maida Vale,5,0.3,131
+Maida Vale,6,3.2,128
+Maida Vale,7,9.9,136
+Maida Vale,8,20.5,131
+Maida Vale,9,17.7,131
+Maida Vale,10,11.6,132
+Maida Vale,11,11.1,131
+Maida Vale,12,12.0,132
+Maida Vale,13,12.9,134
+Maida Vale,14,12.3,131
+Maida Vale,15,12.7,132
+Maida Vale,16,15.1,132
+Maida Vale,17,18.3,135
+Maida Vale,18,21.3,130
+Maida Vale,19,17.8,131
+Maida Vale,20,12.2,130
+Maida Vale,21,9.6,121
+Maida Vale,22,8.4,132
+Maida Vale,23,7.1,151
+Manor House,0,5.4,146
+Manor House,1,3.0,151
+Manor House,2,2.0,138
+Manor House,3,1.7,124
+Manor House,4,0.6,133
+Manor House,5,1.0,131
+Manor House,6,4.4,137
+Manor House,7,10.1,120
+Manor House,8,16.0,125
+Manor House,9,13.2,129
+Manor House,10,10.1,127
+Manor House,11,10.0,119
+Manor House,12,10.4,120
+Manor House,13,11.3,121
+Manor House,14,10.7,129
+Manor House,15,11.1,134
+Manor House,16,13.1,132
+Manor House,17,16.0,137
+Manor House,18,17.8,128
+Manor House,19,13.8,130
+Manor House,20,10.7,130
+Manor House,21,9.6,119
+Manor House,22,8.1,134
+Manor House,23,8.5,150
+Mansion House,0,3.2,140
+Mansion House,1,0.2,134
+Mansion House,2,0.1,115
+Mansion House,3,0.0,111
+Mansion House,4,0.0,112
+Mansion House,5,0.3,133
+Mansion House,6,2.9,129
+Mansion House,7,9.3,135
+Mansion House,8,19.1,133
+Mansion House,9,19.8,133
+Mansion House,10,11.5,130
+Mansion House,11,11.0,132
+Mansion House,12,11.9,130
+Mansion House,13,11.9,134
+Mansion House,14,12.2,132
+Mansion House,15,13.7,132
+Mansion House,16,16.7,132
+Mansion House,17,24.5,135
+Mansion House,18,24.5,128
+Mansion House,19,16.8,133
+Mansion House,20,10.6,127
+Mansion House,21,8.4,124
+Mansion House,22,8.2,131
+Mansion House,23,6.6,153
+Marble Arch,0,3.1,142
+Marble Arch,1,1.4,149
+Marble Arch,2,1.2,137
+Marble Arch,3,1.0,121
+Marble Arch,4,0.6,117
+Marble Arch,5,0.5,120
+Marble Arch,6,3.5,132
+Marble Arch,7,7.7,134
+Marble Arch,8,14.3,134
+Marble Arch,9,15.4,130
+Marble Arch,10,10.1,132
+Marble Arch,11,10.5,131
+Marble Arch,12,11.8,130
+Marble Arch,13,12.5,134
+Marble Arch,14,13.7,132
+Marble Arch,15,14.8,132
+Marble Arch,16,16.7,133
+Marble Arch,17,20.9,137
+Marble Arch,18,22.1,130
+Marble Arch,19,15.1,128
+Marble Arch,20,9.9,127
+Marble Arch,21,7.6,121
+Marble Arch,22,8.0,136
+Marble Arch,23,6.6,151
+Marylebone,0,3.6,138
+Marylebone,1,0.2,156
+Marylebone,2,0.1,135
+Marylebone,3,0.1,125
+Marylebone,4,0.1,135
+Marylebone,5,0.2,132
+Marylebone,6,3.8,131
+Marylebone,7,12.5,136
+Marylebone,8,23.5,133
+Marylebone,9,22.4,130
+Marylebone,10,17.3,132
+Marylebone,11,17.8,131
+Marylebone,12,18.3,131
+Marylebone,13,17.0,133
+Marylebone,14,16.5,133
+Marylebone,15,17.9,130
+Marylebone,16,21.3,134
+Marylebone,17,27.6,132
+Marylebone,18,29.0,134
+Marylebone,19,21.1,129
+Marylebone,20,15.9,127
+Marylebone,21,13.0,124
+Marylebone,22,12.5,130
+Marylebone,23,9.1,155
+Mile End,0,11.8,141
+Mile End,1,3.7,150
+Mile End,2,1.8,141
+Mile End,3,1.3,122
+Mile End,4,1.1,135
+Mile End,5,3.3,134
+Mile End,6,14.6,130
+Mile End,7,23.5,135
+Mile End,8,28.7,132
+Mile End,9,29.4,132
+Mile End,10,23.6,132
+Mile End,11,23.7,131
+Mile End,12,24.2,131
+Mile End,13,26.3,134
+Mile End,14,27.8,130
+Mile End,15,29.0,134
+Mile End,16,31.7,132
+Mile End,17,35.7,133
+Mile End,18,35.7,131
+Mile End,19,29.6,131
+Mile End,20,24.3,130
+Mile End,21,20.7,120
+Mile End,22,20.1,134
+Mile End,23,19.0,151
+Mill Hill East,0,2.2,143
+Mill Hill East,1,0.9,139
+Mill Hill East,2,0.2,106
+Mill Hill East,3,0.0,78
+Mill Hill East,4,0.1,66
+Mill Hill East,5,1.2,113
+Mill Hill East,6,4.6,134
+Mill Hill East,7,13.8,132
+Mill Hill East,8,25.3,135
+Mill Hill East,9,14.9,130
+Mill Hill East,10,12.0,132
+Mill Hill East,11,11.6,130
+Mill Hill East,12,12.0,131
+Mill Hill East,13,13.6,133
+Mill Hill East,14,14.2,132
+Mill Hill East,15,13.7,133
+Mill Hill East,16,16.2,133
+Mill Hill East,17,18.9,135
+Mill Hill East,18,20.4,130
+Mill Hill East,19,15.2,130
+Mill Hill East,20,12.2,127
+Mill Hill East,21,7.8,122
+Mill Hill East,22,6.5,135
+Mill Hill East,23,4.6,152
+Monument,0,2.3,143
+Monument,1,0.8,151
+Monument,2,0.5,137
+Monument,3,0.4,125
+Monument,4,0.2,132
+Monument,5,0.3,133
+Monument,6,3.2,131
+Monument,7,10.7,135
+Monument,8,26.7,133
+Monument,9,26.2,131
+Monument,10,10.1,132
+Monument,11,7.8,132
+Monument,12,8.7,131
+Monument,13,8.8,132
+Monument,14,8.8,132
+Monument,15,9.9,132
+Monument,16,14.0,132
+Monument,17,27.1,138
+Monument,18,26.5,129
+Monument,19,13.7,130
+Monument,20,8.4,128
+Monument,21,6.3,122
+Monument,22,6.0,135
+Monument,23,4.7,150
+Moor Park,0,1.9,144
+Moor Park,1,1.0,145
+Moor Park,2,0.5,114
+Moor Park,3,0.3,100
+Moor Park,4,0.2,113
+Moor Park,5,0.3,127
+Moor Park,6,2.7,133
+Moor Park,7,8.9,133
+Moor Park,8,13.6,136
+Moor Park,9,6.0,128
+Moor Park,10,4.2,132
+Moor Park,11,4.3,131
+Moor Park,12,5.0,130
+Moor Park,13,4.6,134
+Moor Park,14,4.5,133
+Moor Park,15,4.7,131
+Moor Park,16,9.6,134
+Moor Park,17,9.4,134
+Moor Park,18,12.7,128
+Moor Park,19,7.7,131
+Moor Park,20,5.2,128
+Moor Park,21,3.2,123
+Moor Park,22,2.6,135
+Moor Park,23,2.3,149
+Moorgate,0,4.8,140
+Moorgate,1,0.4,151
+Moorgate,2,0.1,141
+Moorgate,3,0.1,121
+Moorgate,4,0.1,135
+Moorgate,5,0.4,133
+Moorgate,6,4.0,132
+Moorgate,7,10.6,135
+Moorgate,8,18.5,134
+Moorgate,9,21.3,126
+Moorgate,10,13.9,134
+Moorgate,11,12.4,132
+Moorgate,12,12.6,131
+Moorgate,13,13.9,134
+Moorgate,14,14.1,131
+Moorgate,15,15.5,132
+Moorgate,16,18.3,132
+Moorgate,17,25.2,136
+Moorgate,18,25.5,129
+Moorgate,19,18.7,130
+Moorgate,20,13.3,130
+Moorgate,21,11.0,121
+Moorgate,22,9.8,131
+Moorgate,23,8.4,155
+Morden,0,5.1,144
+Morden,1,3.1,150
+Morden,2,2.1,140
+Morden,3,1.7,122
+Morden,4,1.2,134
+Morden,5,4.1,131
+Morden,6,10.7,132
+Morden,7,20.8,137
+Morden,8,29.3,132
+Morden,9,19.5,130
+Morden,10,14.3,131
+Morden,11,13.7,131
+Morden,12,14.6,130
+Morden,13,14.5,134
+Morden,14,13.2,132
+Morden,15,13.2,132
+Morden,16,16.0,133
+Morden,17,21.8,136
+Morden,18,22.0,131
+Morden,19,15.8,128
+Morden,20,10.7,127
+Morden,21,8.0,122
+Morden,22,7.5,136
+Morden,23,7.0,150
+Mornington Crescent,0,5.8,144
+Mornington Crescent,1,3.6,152
+Mornington Crescent,2,3.0,137
+Mornington Crescent,3,2.6,126
+Mornington Crescent,4,1.4,130
+Mornington Crescent,5,1.0,127
+Mornington Crescent,6,2.6,136
+Mornington Crescent,7,6.8,133
+Mornington Crescent,8,14.5,135
+Mornington Crescent,9,16.6,128
+Mornington Crescent,10,10.7,131
+Mornington Crescent,11,10.2,133
+Mornington Crescent,12,11.8,132
+Mornington Crescent,13,13.3,132
+Mornington Crescent,14,13.7,133
+Mornington Crescent,15,14.5,131
+Mornington Crescent,16,18.1,132
+Mornington Crescent,17,23.7,136
+Mornington Crescent,18,24.4,131
+Mornington Crescent,19,18.6,129
+Mornington Crescent,20,13.4,128
+Mornington Crescent,21,11.9,122
+Mornington Crescent,22,13.8,134
+Mornington Crescent,23,11.2,149
+Neasden,0,7.3,140
+Neasden,1,4.8,153
+Neasden,2,2.6,140
+Neasden,3,2.4,123
+Neasden,4,1.2,132
+Neasden,5,2.4,130
+Neasden,6,10.5,134
+Neasden,7,19.1,135
+Neasden,8,25.4,136
+Neasden,9,19.5,127
+Neasden,10,14.1,132
+Neasden,11,13.9,131
+Neasden,12,14.2,130
+Neasden,13,15.8,133
+Neasden,14,16.2,132
+Neasden,15,16.6,133
+Neasden,16,20.4,133
+Neasden,17,24.9,134
+Neasden,18,24.3,129
+Neasden,19,18.9,132
+Neasden,20,14.5,128
+Neasden,21,10.9,122
+Neasden,22,10.7,136
+Neasden,23,11.2,151
+Newbury Park,0,2.9,142
+Newbury Park,1,1.8,154
+Newbury Park,2,1.5,137
+Newbury Park,3,1.4,124
+Newbury Park,4,0.9,129
+Newbury Park,5,3.6,129
+Newbury Park,6,11.1,133
+Newbury Park,7,15.1,132
+Newbury Park,8,19.2,138
+Newbury Park,9,12.0,128
+Newbury Park,10,9.5,130
+Newbury Park,11,8.9,134
+Newbury Park,12,9.5,129
+Newbury Park,13,9.5,133
+Newbury Park,14,9.6,132
+Newbury Park,15,9.9,133
+Newbury Park,16,10.1,132
+Newbury Park,17,13.1,136
+Newbury Park,18,11.1,130
+Newbury Park,19,9.6,130
+Newbury Park,20,7.1,127
+Newbury Park,21,6.0,123
+Newbury Park,22,4.7,132
+Newbury Park,23,4.6,151
+North Acton,0,6.7,143
+North Acton,1,2.2,151
+North Acton,2,1.3,132
+North Acton,3,1.6,114
+North Acton,4,1.2,121
+North Acton,5,2.1,131
+North Acton,6,10.7,132
+North Acton,7,20.4,133
+North Acton,8,39.2,135
+North Acton,9,27.5,129
+North Acton,10,17.5,131
+North Acton,11,16.0,132
+North Acton,12,18.1,131
+North Acton,13,19.5,132
+North Acton,14,19.2,132
+North Acton,15,21.1,134
+North Acton,16,27.5,132
+North Acton,17,38.5,135
+North Acton,18,36.5,130
+North Acton,19,28.4,130
+North Acton,20,15.8,125
+North Acton,21,14.4,125
+North Acton,22,11.1,135
+North Acton,23,10.9,150
+North Ealing,0,3.1,126
+North Ealing,1,1.7,123
+North Ealing,2,1.7,115
+North Ealing,3,1.1,102
+North Ealing,4,0.8,99
+North Ealing,5,1.4,92
+North Ealing,6,4.8,111
+North Ealing,7,8.8,137
+North Ealing,8,12.7,130
+North Ealing,9,9.8,130
+North Ealing,10,11.1,132
+North Ealing,11,8.8,130
+North Ealing,12,9.2,132
+North Ealing,13,7.9,133
+North Ealing,14,8.6,131
+North Ealing,15,11.1,129
+North Ealing,16,10.2,132
+North Ealing,17,11.2,137
+North Ealing,18,13.2,124
+North Ealing,19,8.2,130
+North Ealing,20,6.4,126
+North Ealing,21,5.2,112
+North Ealing,22,3.6,135
+North Ealing,23,4.3,135
+North Greenwich,0,6.2,143
+North Greenwich,1,1.5,153
+North Greenwich,2,0.7,135
+North Greenwich,3,0.6,127
+North Greenwich,4,0.6,133
+North Greenwich,5,2.0,131
+North Greenwich,6,4.5,131
+North Greenwich,7,7.9,136
+North Greenwich,8,10.3,133
+North Greenwich,9,7.9,128
+North Greenwich,10,7.9,133
+North Greenwich,11,8.9,132
+North Greenwich,12,9.4,131
+North Greenwich,13,10.6,133
+North Greenwich,14,11.3,132
+North Greenwich,15,13.0,132
+North Greenwich,16,14.9,133
+North Greenwich,17,15.6,135
+North Greenwich,18,13.2,131
+North Greenwich,19,13.4,130
+North Greenwich,20,11.4,126
+North Greenwich,21,7.4,124
+North Greenwich,22,8.7,130
+North Greenwich,23,23.2,154
+North Harrow,0,3.1,140
+North Harrow,1,0.4,152
+North Harrow,2,0.0,136
+North Harrow,3,0.0,112
+North Harrow,4,0.0,129
+North Harrow,5,0.7,129
+North Harrow,6,6.2,134
+North Harrow,7,14.9,134
+North Harrow,8,22.2,133
+North Harrow,9,13.6,130
+North Harrow,10,11.0,133
+North Harrow,11,11.0,132
+North Harrow,12,11.6,129
+North Harrow,13,11.4,133
+North Harrow,14,10.6,133
+North Harrow,15,11.0,132
+North Harrow,16,12.9,134
+North Harrow,17,14.7,134
+North Harrow,18,16.7,130
+North Harrow,19,11.4,129
+North Harrow,20,8.3,127
+North Harrow,21,6.9,124
+North Harrow,22,5.7,134
+North Harrow,23,4.8,153
+North Wembley,0,0.4,143
+North Wembley,1,0.1,138
+North Wembley,2,0.0,133
+North Wembley,3,0.0,115
+North Wembley,4,0.0,123
+North Wembley,5,0.2,135
+North Wembley,6,0.9,130
+North Wembley,7,1.7,135
+North Wembley,8,2.8,133
+North Wembley,9,1.8,129
+North Wembley,10,1.3,132
+North Wembley,11,1.4,131
+North Wembley,12,1.6,132
+North Wembley,13,1.7,133
+North Wembley,14,1.8,132
+North Wembley,15,1.8,132
+North Wembley,16,2.1,133
+North Wembley,17,2.6,134
+North Wembley,18,2.9,131
+North Wembley,19,2.0,130
+North Wembley,20,1.3,126
+North Wembley,21,1.0,125
+North Wembley,22,0.8,131
+North Wembley,23,0.7,153
+Northfields,0,3.1,144
+Northfields,1,2.1,154
+Northfields,2,1.4,135
+Northfields,3,1.0,124
+Northfields,4,0.5,134
+Northfields,5,1.9,132
+Northfields,6,5.4,132
+Northfields,7,12.6,135
+Northfields,8,21.6,133
+Northfields,9,16.4,129
+Northfields,10,11.7,131
+Northfields,11,10.5,133
+Northfields,12,10.6,129
+Northfields,13,9.8,135
+Northfields,14,10.5,131
+Northfields,15,11.7,133
+Northfields,16,11.9,132
+Northfields,17,15.2,136
+Northfields,18,16.2,130
+Northfields,19,11.8,130
+Northfields,20,8.3,126
+Northfields,21,6.9,125
+Northfields,22,5.5,131
+Northfields,23,5.1,151
+Northolt,0,3.1,140
+Northolt,1,1.1,151
+Northolt,2,0.4,136
+Northolt,3,0.2,121
+Northolt,4,0.2,133
+Northolt,5,2.7,129
+Northolt,6,10.3,131
+Northolt,7,18.1,133
+Northolt,8,20.5,136
+Northolt,9,14.1,128
+Northolt,10,11.1,130
+Northolt,11,9.7,134
+Northolt,12,11.7,130
+Northolt,13,12.9,133
+Northolt,14,11.5,132
+Northolt,15,11.7,132
+Northolt,16,14.3,132
+Northolt,17,15.0,135
+Northolt,18,16.6,129
+Northolt,19,14.6,133
+Northolt,20,9.5,127
+Northolt,21,7.4,124
+Northolt,22,5.7,132
+Northolt,23,4.9,152
+Northwick Park,0,4.3,142
+Northwick Park,1,1.2,150
+Northwick Park,2,0.8,132
+Northwick Park,3,0.7,115
+Northwick Park,4,0.3,127
+Northwick Park,5,1.5,125
+Northwick Park,6,7.9,133
+Northwick Park,7,15.4,134
+Northwick Park,8,24.3,134
+Northwick Park,9,18.2,131
+Northwick Park,10,15.1,129
+Northwick Park,11,13.9,134
+Northwick Park,12,14.6,129
+Northwick Park,13,16.3,134
+Northwick Park,14,16.1,132
+Northwick Park,15,16.1,132
+Northwick Park,16,20.8,134
+Northwick Park,17,24.7,135
+Northwick Park,18,20.7,129
+Northwick Park,19,16.2,130
+Northwick Park,20,12.6,128
+Northwick Park,21,9.3,121
+Northwick Park,22,7.9,136
+Northwick Park,23,6.6,150
+Northwood,0,2.1,143
+Northwood,1,0.5,152
+Northwood,2,0.1,137
+Northwood,3,0.1,127
+Northwood,4,0.1,132
+Northwood,5,0.5,132
+Northwood,6,3.8,132
+Northwood,7,10.3,135
+Northwood,8,16.1,135
+Northwood,9,10.5,129
+Northwood,10,8.7,132
+Northwood,11,9.5,130
+Northwood,12,10.0,130
+Northwood,13,9.7,135
+Northwood,14,9.0,132
+Northwood,15,9.0,132
+Northwood,16,12.2,133
+Northwood,17,12.4,135
+Northwood,18,12.3,130
+Northwood,19,8.4,129
+Northwood,20,5.5,129
+Northwood,21,4.3,121
+Northwood,22,3.6,137
+Northwood,23,3.3,147
+Northwood Hills,0,3.3,143
+Northwood Hills,1,0.7,135
+Northwood Hills,2,0.5,120
+Northwood Hills,3,0.1,82
+Northwood Hills,4,0.2,74
+Northwood Hills,5,0.8,117
+Northwood Hills,6,6.7,133
+Northwood Hills,7,14.7,133
+Northwood Hills,8,19.2,134
+Northwood Hills,9,11.8,131
+Northwood Hills,10,10.4,131
+Northwood Hills,11,9.8,131
+Northwood Hills,12,10.6,130
+Northwood Hills,13,9.8,133
+Northwood Hills,14,9.0,133
+Northwood Hills,15,10.4,132
+Northwood Hills,16,11.8,134
+Northwood Hills,17,12.7,132
+Northwood Hills,18,13.7,131
+Northwood Hills,19,10.4,131
+Northwood Hills,20,8.0,127
+Northwood Hills,21,6.3,123
+Northwood Hills,22,5.1,134
+Northwood Hills,23,4.6,151
+Notting Hill Gate,0,4.5,141
+Notting Hill Gate,1,1.5,154
+Notting Hill Gate,2,1.1,136
+Notting Hill Gate,3,0.9,127
+Notting Hill Gate,4,0.5,133
+Notting Hill Gate,5,0.7,129
+Notting Hill Gate,6,4.6,133
+Notting Hill Gate,7,13.0,136
+Notting Hill Gate,8,24.3,133
+Notting Hill Gate,9,25.1,129
+Notting Hill Gate,10,19.3,132
+Notting Hill Gate,11,20.1,132
+Notting Hill Gate,12,22.0,129
+Notting Hill Gate,13,24.1,136
+Notting Hill Gate,14,25.2,131
+Notting Hill Gate,15,28.0,133
+Notting Hill Gate,16,31.2,132
+Notting Hill Gate,17,34.1,135
+Notting Hill Gate,18,29.5,131
+Notting Hill Gate,19,23.0,129
+Notting Hill Gate,20,18.0,126
+Notting Hill Gate,21,13.7,124
+Notting Hill Gate,22,12.0,136
+Notting Hill Gate,23,9.7,149
+Oakwood,0,2.7,145
+Oakwood,1,2.4,151
+Oakwood,2,2.1,139
+Oakwood,3,1.6,125
+Oakwood,4,0.8,133
+Oakwood,5,1.5,132
+Oakwood,6,4.1,134
+Oakwood,7,8.5,133
+Oakwood,8,12.8,134
+Oakwood,9,8.8,130
+Oakwood,10,6.9,130
+Oakwood,11,6.4,133
+Oakwood,12,7.5,129
+Oakwood,13,7.8,134
+Oakwood,14,8.1,133
+Oakwood,15,7.6,131
+Oakwood,16,8.1,134
+Oakwood,17,9.1,135
+Oakwood,18,9.5,130
+Oakwood,19,6.0,129
+Oakwood,20,5.1,129
+Oakwood,21,4.9,121
+Oakwood,22,3.5,133
+Oakwood,23,3.6,149
+Old Street,0,5.9,139
+Old Street,1,0.4,152
+Old Street,2,0.2,138
+Old Street,3,0.2,129
+Old Street,4,0.1,133
+Old Street,5,0.1,130
+Old Street,6,2.0,132
+Old Street,7,7.6,135
+Old Street,8,19.0,135
+Old Street,9,22.9,128
+Old Street,10,14.5,132
+Old Street,11,12.1,131
+Old Street,12,13.4,131
+Old Street,13,14.3,133
+Old Street,14,13.8,132
+Old Street,15,14.7,133
+Old Street,16,17.7,133
+Old Street,17,24.7,132
+Old Street,18,29.1,132
+Old Street,19,19.8,133
+Old Street,20,13.7,125
+Old Street,21,11.5,123
+Old Street,22,11.2,132
+Old Street,23,10.3,153
+Osterley,0,1.8,140
+Osterley,1,0.8,150
+Osterley,2,0.6,130
+Osterley,3,0.4,105
+Osterley,4,0.3,114
+Osterley,5,1.4,134
+Osterley,6,5.4,133
+Osterley,7,9.7,134
+Osterley,8,14.7,134
+Osterley,9,10.5,128
+Osterley,10,8.8,131
+Osterley,11,7.8,133
+Osterley,12,7.4,131
+Osterley,13,7.8,133
+Osterley,14,7.3,132
+Osterley,15,8.1,132
+Osterley,16,9.0,133
+Osterley,17,10.4,136
+Osterley,18,11.4,126
+Osterley,19,8.3,133
+Osterley,20,5.8,129
+Osterley,21,4.0,122
+Osterley,22,3.7,132
+Osterley,23,3.3,151
+Oval,0,3.3,144
+Oval,1,1.5,152
+Oval,2,1.1,139
+Oval,3,0.8,123
+Oval,4,0.6,130
+Oval,5,0.6,133
+Oval,6,2.0,135
+Oval,7,5.1,132
+Oval,8,10.0,136
+Oval,9,9.4,130
+Oval,10,5.5,130
+Oval,11,5.1,131
+Oval,12,5.8,131
+Oval,13,6.3,132
+Oval,14,6.3,133
+Oval,15,7.0,133
+Oval,16,8.3,134
+Oval,17,12.7,134
+Oval,18,15.1,130
+Oval,19,11.2,130
+Oval,20,8.2,126
+Oval,21,6.8,123
+Oval,22,6.4,131
+Oval,23,6.0,154
+Oxford Circus,0,5.5,145
+Oxford Circus,1,2.2,149
+Oxford Circus,2,1.6,142
+Oxford Circus,3,1.3,122
+Oxford Circus,4,0.9,132
+Oxford Circus,5,0.9,133
+Oxford Circus,6,5.2,134
+Oxford Circus,7,14.1,132
+Oxford Circus,8,28.0,134
+Oxford Circus,9,31.9,131
+Oxford Circus,10,23.0,131
+Oxford Circus,11,23.6,132
+Oxford Circus,12,27.0,131
+Oxford Circus,13,29.0,133
+Oxford Circus,14,29.8,132
+Oxford Circus,15,31.7,133
+Oxford Circus,16,36.4,133
+Oxford Circus,17,42.6,133
+Oxford Circus,18,37.0,129
+Oxford Circus,19,28.5,132
+Oxford Circus,20,20.4,128
+Oxford Circus,21,16.7,122
+Oxford Circus,22,16.8,135
+Oxford Circus,23,12.2,148
+Paddington,0,4.8,145
+Paddington,1,1.2,152
+Paddington,2,0.5,137
+Paddington,3,0.5,125
+Paddington,4,0.5,135
+Paddington,5,0.8,132
+Paddington,6,4.8,130
+Paddington,7,7.6,137
+Paddington,8,9.2,128
+Paddington,9,9.7,134
+Paddington,10,10.8,132
+Paddington,11,11.1,131
+Paddington,12,10.6,129
+Paddington,13,9.7,134
+Paddington,14,9.9,132
+Paddington,15,9.3,133
+Paddington,16,9.3,133
+Paddington,17,9.7,135
+Paddington,18,10.3,129
+Paddington,19,9.7,130
+Paddington,20,9.5,130
+Paddington,21,9.1,118
+Paddington,22,7.5,138
+Paddington,23,7.2,147
+Paddington (H&C Line)-Underground,0,4.5,141
+Paddington (H&C Line)-Underground,1,0.9,152
+Paddington (H&C Line)-Underground,2,0.3,137
+Paddington (H&C Line)-Underground,3,0.3,125
+Paddington (H&C Line)-Underground,4,0.3,133
+Paddington (H&C Line)-Underground,5,1.4,131
+Paddington (H&C Line)-Underground,6,4.3,135
+Paddington (H&C Line)-Underground,7,11.2,132
+Paddington (H&C Line)-Underground,8,21.0,134
+Paddington (H&C Line)-Underground,9,20.7,130
+Paddington (H&C Line)-Underground,10,18.1,130
+Paddington (H&C Line)-Underground,11,18.1,133
+Paddington (H&C Line)-Underground,12,19.3,131
+Paddington (H&C Line)-Underground,13,19.3,132
+Paddington (H&C Line)-Underground,14,19.0,132
+Paddington (H&C Line)-Underground,15,19.2,132
+Paddington (H&C Line)-Underground,16,22.2,131
+Paddington (H&C Line)-Underground,17,27.0,140
+Paddington (H&C Line)-Underground,18,26.8,128
+Paddington (H&C Line)-Underground,19,20.8,129
+Paddington (H&C Line)-Underground,20,14.9,129
+Paddington (H&C Line)-Underground,21,10.9,121
+Paddington (H&C Line)-Underground,22,9.5,135
+Paddington (H&C Line)-Underground,23,8.2,152
+Park Royal,0,3.0,145
+Park Royal,1,2.1,152
+Park Royal,2,2.2,132
+Park Royal,3,1.3,124
+Park Royal,4,1.0,130
+Park Royal,5,1.2,132
+Park Royal,6,3.4,131
+Park Royal,7,7.5,134
+Park Royal,8,11.2,135
+Park Royal,9,8.7,129
+Park Royal,10,7.8,133
+Park Royal,11,7.0,132
+Park Royal,12,7.0,130
+Park Royal,13,7.5,133
+Park Royal,14,8.6,132
+Park Royal,15,9.9,132
+Park Royal,16,12.3,134
+Park Royal,17,14.0,136
+Park Royal,18,13.7,129
+Park Royal,19,10.0,129
+Park Royal,20,7.2,127
+Park Royal,21,5.9,122
+Park Royal,22,5.5,135
+Park Royal,23,5.2,148
+Parsons Green,0,1.8,143
+Parsons Green,1,0.5,153
+Parsons Green,2,0.4,136
+Parsons Green,3,0.2,127
+Parsons Green,4,0.1,136
+Parsons Green,5,0.3,130
+Parsons Green,6,1.7,132
+Parsons Green,7,8.5,134
+Parsons Green,8,18.9,135
+Parsons Green,9,11.6,128
+Parsons Green,10,6.9,133
+Parsons Green,11,7.0,131
+Parsons Green,12,7.9,131
+Parsons Green,13,7.9,133
+Parsons Green,14,8.1,130
+Parsons Green,15,9.1,134
+Parsons Green,16,10.8,132
+Parsons Green,17,13.4,135
+Parsons Green,18,14.6,130
+Parsons Green,19,12.7,129
+Parsons Green,20,7.5,129
+Parsons Green,21,4.9,124
+Parsons Green,22,4.7,134
+Parsons Green,23,3.8,147
+Perivale,0,3.0,144
+Perivale,1,1.4,140
+Perivale,2,0.4,120
+Perivale,3,0.1,113
+Perivale,4,0.1,96
+Perivale,5,1.6,112
+Perivale,6,9.0,128
+Perivale,7,20.6,136
+Perivale,8,26.6,133
+Perivale,9,19.1,134
+Perivale,10,14.6,127
+Perivale,11,13.4,135
+Perivale,12,14.2,128
+Perivale,13,14.9,134
+Perivale,14,16.1,130
+Perivale,15,15.4,134
+Perivale,16,18.2,133
+Perivale,17,20.9,135
+Perivale,18,20.7,130
+Perivale,19,15.5,130
+Perivale,20,10.6,127
+Perivale,21,8.3,123
+Perivale,22,6.9,131
+Perivale,23,5.8,153
+Piccadilly Circus,0,8.6,142
+Piccadilly Circus,1,1.4,155
+Piccadilly Circus,2,0.7,134
+Piccadilly Circus,3,0.5,129
+Piccadilly Circus,4,0.3,130
+Piccadilly Circus,5,0.5,134
+Piccadilly Circus,6,3.5,130
+Piccadilly Circus,7,10.6,135
+Piccadilly Circus,8,20.1,130
+Piccadilly Circus,9,26.4,135
+Piccadilly Circus,10,19.6,130
+Piccadilly Circus,11,21.9,133
+Piccadilly Circus,12,27.5,129
+Piccadilly Circus,13,28.9,133
+Piccadilly Circus,14,31.0,133
+Piccadilly Circus,15,32.7,131
+Piccadilly Circus,16,36.7,132
+Piccadilly Circus,17,46.0,136
+Piccadilly Circus,18,49.2,129
+Piccadilly Circus,19,36.9,131
+Piccadilly Circus,20,27.9,129
+Piccadilly Circus,21,24.2,120
+Piccadilly Circus,22,28.9,138
+Piccadilly Circus,23,20.3,148
+Pinner,0,3.2,145
+Pinner,1,1.2,150
+Pinner,2,0.3,136
+Pinner,3,0.2,116
+Pinner,4,0.2,128
+Pinner,5,0.6,128
+Pinner,6,4.1,133
+Pinner,7,11.5,137
+Pinner,8,19.7,132
+Pinner,9,11.0,131
+Pinner,10,8.2,132
+Pinner,11,8.3,131
+Pinner,12,8.7,130
+Pinner,13,8.7,131
+Pinner,14,7.9,134
+Pinner,15,8.9,133
+Pinner,16,11.3,134
+Pinner,17,13.3,133
+Pinner,18,15.1,130
+Pinner,19,10.5,131
+Pinner,20,6.8,126
+Pinner,21,5.6,121
+Pinner,22,5.1,133
+Pinner,23,4.7,152
+Plaistow,0,13.1,146
+Plaistow,1,3.2,152
+Plaistow,2,0.2,139
+Plaistow,3,0.1,124
+Plaistow,4,0.1,133
+Plaistow,5,5.1,132
+Plaistow,6,18.7,129
+Plaistow,7,27.6,134
+Plaistow,8,31.8,138
+Plaistow,9,29.0,127
+Plaistow,10,23.0,131
+Plaistow,11,22.2,133
+Plaistow,12,22.7,131
+Plaistow,13,25.2,133
+Plaistow,14,27.5,131
+Plaistow,15,28.9,133
+Plaistow,16,33.4,134
+Plaistow,17,37.5,135
+Plaistow,18,37.3,130
+Plaistow,19,31.9,127
+Plaistow,20,24.8,130
+Plaistow,21,20.4,122
+Plaistow,22,18.8,135
+Plaistow,23,18.4,147
+Preston Road,0,8.4,142
+Preston Road,1,1.7,151
+Preston Road,2,0.6,135
+Preston Road,3,0.3,109
+Preston Road,4,0.1,117
+Preston Road,5,2.7,125
+Preston Road,6,16.1,134
+Preston Road,7,30.5,135
+Preston Road,8,41.9,132
+Preston Road,9,31.6,134
+Preston Road,10,29.9,129
+Preston Road,11,29.1,132
+Preston Road,12,31.2,130
+Preston Road,13,33.5,133
+Preston Road,14,32.5,133
+Preston Road,15,34.3,132
+Preston Road,16,39.0,133
+Preston Road,17,40.5,135
+Preston Road,18,40.4,129
+Preston Road,19,29.7,130
+Preston Road,20,22.8,129
+Preston Road,21,19.3,123
+Preston Road,22,16.8,134
+Preston Road,23,15.2,150
+Putney Bridge,0,2.2,145
+Putney Bridge,1,0.4,149
+Putney Bridge,2,0.2,137
+Putney Bridge,3,0.2,115
+Putney Bridge,4,0.1,130
+Putney Bridge,5,0.5,131
+Putney Bridge,6,2.4,133
+Putney Bridge,7,9.6,132
+Putney Bridge,8,19.4,134
+Putney Bridge,9,14.2,130
+Putney Bridge,10,9.9,130
+Putney Bridge,11,10.1,134
+Putney Bridge,12,11.2,129
+Putney Bridge,13,10.7,135
+Putney Bridge,14,10.6,131
+Putney Bridge,15,11.8,132
+Putney Bridge,16,14.0,133
+Putney Bridge,17,19.7,133
+Putney Bridge,18,20.0,133
+Putney Bridge,19,13.1,129
+Putney Bridge,20,8.2,126
+Putney Bridge,21,6.1,124
+Putney Bridge,22,7.9,134
+Putney Bridge,23,5.7,148
+Queen's Park,0,4.1,143
+Queen's Park,1,0.9,151
+Queen's Park,2,0.6,140
+Queen's Park,3,0.3,122
+Queen's Park,4,0.2,135
+Queen's Park,5,0.7,135
+Queen's Park,6,3.8,126
+Queen's Park,7,9.7,136
+Queen's Park,8,18.3,134
+Queen's Park,9,15.2,131
+Queen's Park,10,10.6,131
+Queen's Park,11,10.7,133
+Queen's Park,12,11.0,131
+Queen's Park,13,11.9,132
+Queen's Park,14,11.7,133
+Queen's Park,15,13.2,132
+Queen's Park,16,15.5,133
+Queen's Park,17,19.3,132
+Queen's Park,18,21.0,134
+Queen's Park,19,16.6,129
+Queen's Park,20,11.9,127
+Queen's Park,21,9.6,120
+Queen's Park,22,9.2,138
+Queen's Park,23,8.0,148
+Queensbury,0,3.3,145
+Queensbury,1,1.8,151
+Queensbury,2,1.1,134
+Queensbury,3,0.9,121
+Queensbury,4,0.5,132
+Queensbury,5,3.5,131
+Queensbury,6,16.2,133
+Queensbury,7,19.3,131
+Queensbury,8,23.2,135
+Queensbury,9,15.5,131
+Queensbury,10,11.8,130
+Queensbury,11,11.7,134
+Queensbury,12,12.3,129
+Queensbury,13,12.1,134
+Queensbury,14,12.1,131
+Queensbury,15,11.6,133
+Queensbury,16,13.1,134
+Queensbury,17,16.2,133
+Queensbury,18,18.4,132
+Queensbury,19,13.3,128
+Queensbury,20,8.4,130
+Queensbury,21,6.5,118
+Queensbury,22,6.0,133
+Queensbury,23,5.5,151
+Queensway,0,7.6,143
+Queensway,1,4.3,153
+Queensway,2,3.2,139
+Queensway,3,3.0,122
+Queensway,4,2.2,135
+Queensway,5,2.0,131
+Queensway,6,7.4,130
+Queensway,7,7.9,135
+Queensway,8,8.9,133
+Queensway,9,9.2,131
+Queensway,10,9.4,133
+Queensway,11,10.1,132
+Queensway,12,10.2,128
+Queensway,13,9.9,133
+Queensway,14,10.3,133
+Queensway,15,11.2,132
+Queensway,16,10.8,133
+Queensway,17,9.3,134
+Queensway,18,9.4,133
+Queensway,19,8.7,128
+Queensway,20,8.9,127
+Queensway,21,9.2,123
+Queensway,22,9.6,135
+Queensway,23,9.7,150
+Ravenscourt Park,0,3.7,146
+Ravenscourt Park,1,1.2,144
+Ravenscourt Park,2,0.5,119
+Ravenscourt Park,3,0.3,101
+Ravenscourt Park,4,0.1,119
+Ravenscourt Park,5,0.6,132
+Ravenscourt Park,6,3.6,132
+Ravenscourt Park,7,11.4,131
+Ravenscourt Park,8,25.9,134
+Ravenscourt Park,9,21.9,132
+Ravenscourt Park,10,14.8,130
+Ravenscourt Park,11,14.3,133
+Ravenscourt Park,12,15.4,130
+Ravenscourt Park,13,15.8,133
+Ravenscourt Park,14,15.1,131
+Ravenscourt Park,15,15.8,133
+Ravenscourt Park,16,19.5,135
+Ravenscourt Park,17,22.6,132
+Ravenscourt Park,18,24.2,131
+Ravenscourt Park,19,18.3,129
+Ravenscourt Park,20,12.5,127
+Ravenscourt Park,21,10.2,124
+Ravenscourt Park,22,10.4,133
+Ravenscourt Park,23,8.4,151
+Rayners Lane,0,5.6,141
+Rayners Lane,1,2.2,150
+Rayners Lane,2,0.7,139
+Rayners Lane,3,0.3,128
+Rayners Lane,4,0.1,127
+Rayners Lane,5,4.3,129
+Rayners Lane,6,14.7,133
+Rayners Lane,7,27.7,136
+Rayners Lane,8,39.0,134
+Rayners Lane,9,28.4,129
+Rayners Lane,10,22.5,134
+Rayners Lane,11,22.5,131
+Rayners Lane,12,23.1,130
+Rayners Lane,13,22.9,134
+Rayners Lane,14,22.0,131
+Rayners Lane,15,21.5,132
+Rayners Lane,16,23.5,134
+Rayners Lane,17,26.8,132
+Rayners Lane,18,28.4,135
+Rayners Lane,19,20.8,127
+Rayners Lane,20,14.7,127
+Rayners Lane,21,12.7,122
+Rayners Lane,22,10.0,135
+Rayners Lane,23,8.6,152
+Redbridge,0,3.8,147
+Redbridge,1,1.7,149
+Redbridge,2,0.9,138
+Redbridge,3,1.0,126
+Redbridge,4,1.1,135
+Redbridge,5,3.1,131
+Redbridge,6,10.1,130
+Redbridge,7,13.7,132
+Redbridge,8,19.4,136
+Redbridge,9,15.5,130
+Redbridge,10,11.8,131
+Redbridge,11,11.6,133
+Redbridge,12,11.0,130
+Redbridge,13,12.2,134
+Redbridge,14,12.0,132
+Redbridge,15,11.9,131
+Redbridge,16,13.3,132
+Redbridge,17,16.3,136
+Redbridge,18,17.8,133
+Redbridge,19,12.7,128
+Redbridge,20,9.6,123
+Redbridge,21,7.8,126
+Redbridge,22,5.9,134
+Redbridge,23,6.4,149
+Regent's Park,0,5.9,141
+Regent's Park,1,1.1,152
+Regent's Park,2,0.9,140
+Regent's Park,3,0.7,123
+Regent's Park,4,0.3,125
+Regent's Park,5,0.2,126
+Regent's Park,6,3.9,125
+Regent's Park,7,13.6,135
+Regent's Park,8,24.4,134
+Regent's Park,9,27.0,130
+Regent's Park,10,19.7,131
+Regent's Park,11,19.6,133
+Regent's Park,12,21.6,130
+Regent's Park,13,22.0,133
+Regent's Park,14,22.6,132
+Regent's Park,15,25.4,132
+Regent's Park,16,29.3,134
+Regent's Park,17,34.3,132
+Regent's Park,18,35.6,130
+Regent's Park,19,26.2,130
+Regent's Park,20,20.1,128
+Regent's Park,21,16.4,122
+Regent's Park,22,17.0,135
+Regent's Park,23,12.5,151
+Richmond,0,1.8,146
+Richmond,1,0.2,120
+Richmond,2,0.0,62
+Richmond,3,0.0,53
+Richmond,4,0.0,105
+Richmond,5,0.4,122
+Richmond,6,3.6,123
+Richmond,7,10.3,136
+Richmond,8,17.6,134
+Richmond,9,13.3,129
+Richmond,10,11.0,133
+Richmond,11,12.0,132
+Richmond,12,12.3,130
+Richmond,13,12.8,133
+Richmond,14,12.3,131
+Richmond,15,13.6,133
+Richmond,16,16.5,133
+Richmond,17,20.8,135
+Richmond,18,20.1,131
+Richmond,19,13.7,127
+Richmond,20,8.6,129
+Richmond,21,6.4,121
+Richmond,22,6.7,133
+Richmond,23,4.7,151
+Rickmansworth,0,3.4,142
+Rickmansworth,1,1.5,152
+Rickmansworth,2,1.2,137
+Rickmansworth,3,0.8,128
+Rickmansworth,4,0.6,134
+Rickmansworth,5,1.3,131
+Rickmansworth,6,5.5,132
+Rickmansworth,7,13.1,134
+Rickmansworth,8,16.5,134
+Rickmansworth,9,9.0,128
+Rickmansworth,10,8.3,131
+Rickmansworth,11,8.2,134
+Rickmansworth,12,7.8,129
+Rickmansworth,13,7.7,134
+Rickmansworth,14,7.4,132
+Rickmansworth,15,9.2,133
+Rickmansworth,16,10.7,133
+Rickmansworth,17,13.5,134
+Rickmansworth,18,14.9,132
+Rickmansworth,19,10.5,129
+Rickmansworth,20,6.8,127
+Rickmansworth,21,5.7,124
+Rickmansworth,22,5.2,131
+Rickmansworth,23,4.9,151
+Roding Valley,0,2.4,137
+Roding Valley,1,4.4,118
+Roding Valley,2,2.0,92
+Roding Valley,3,0.6,88
+Roding Valley,4,0.0,98
+Roding Valley,5,1.7,101
+Roding Valley,6,3.3,118
+Roding Valley,7,9.7,123
+Roding Valley,8,11.5,131
+Roding Valley,9,4.7,132
+Roding Valley,10,5.2,132
+Roding Valley,11,5.8,132
+Roding Valley,12,5.4,131
+Roding Valley,13,6.1,133
+Roding Valley,14,5.8,131
+Roding Valley,15,5.3,131
+Roding Valley,16,7.0,132
+Roding Valley,17,4.3,134
+Roding Valley,18,5.4,128
+Roding Valley,19,3.2,128
+Roding Valley,20,2.4,123
+Roding Valley,21,2.4,125
+Roding Valley,22,1.9,124
+Roding Valley,23,1.0,152
+Royal Oak,0,4.3,144
+Royal Oak,1,0.7,150
+Royal Oak,2,0.1,134
+Royal Oak,3,0.1,117
+Royal Oak,4,0.1,112
+Royal Oak,5,0.9,128
+Royal Oak,6,3.1,135
+Royal Oak,7,8.1,133
+Royal Oak,8,17.3,135
+Royal Oak,9,17.3,132
+Royal Oak,10,13.8,130
+Royal Oak,11,13.7,133
+Royal Oak,12,14.8,130
+Royal Oak,13,15.6,132
+Royal Oak,14,16.0,133
+Royal Oak,15,16.5,131
+Royal Oak,16,18.8,135
+Royal Oak,17,23.1,135
+Royal Oak,18,24.6,129
+Royal Oak,19,19.6,130
+Royal Oak,20,13.6,128
+Royal Oak,21,10.7,122
+Royal Oak,22,9.8,134
+Royal Oak,23,8.0,150
+Ruislip,0,2.5,143
+Ruislip,1,0.9,150
+Ruislip,2,0.4,129
+Ruislip,3,0.2,124
+Ruislip,4,0.3,122
+Ruislip,5,1.0,128
+Ruislip,6,4.3,132
+Ruislip,7,11.2,131
+Ruislip,8,14.9,138
+Ruislip,9,11.0,125
+Ruislip,10,9.5,133
+Ruislip,11,10.2,134
+Ruislip,12,11.1,130
+Ruislip,13,10.8,133
+Ruislip,14,10.9,132
+Ruislip,15,10.7,132
+Ruislip,16,12.6,135
+Ruislip,17,14.7,134
+Ruislip,18,15.6,130
+Ruislip,19,11.3,128
+Ruislip,20,6.8,129
+Ruislip,21,4.7,120
+Ruislip,22,4.3,134
+Ruislip,23,3.9,150
+Ruislip Gardens,0,1.0,131
+Ruislip Gardens,1,0.7,124
+Ruislip Gardens,2,0.2,63
+Ruislip Gardens,3,0.0,63
+Ruislip Gardens,4,0.2,56
+Ruislip Gardens,5,2.9,99
+Ruislip Gardens,6,8.3,115
+Ruislip Gardens,7,12.8,136
+Ruislip Gardens,8,14.7,136
+Ruislip Gardens,9,11.4,120
+Ruislip Gardens,10,7.3,132
+Ruislip Gardens,11,9.2,132
+Ruislip Gardens,12,8.3,132
+Ruislip Gardens,13,9.3,128
+Ruislip Gardens,14,7.6,131
+Ruislip Gardens,15,8.1,130
+Ruislip Gardens,16,9.8,132
+Ruislip Gardens,17,10.4,115
+Ruislip Gardens,18,9.3,121
+Ruislip Gardens,19,8.4,113
+Ruislip Gardens,20,4.1,121
+Ruislip Gardens,21,2.3,124
+Ruislip Gardens,22,2.2,130
+Ruislip Gardens,23,1.2,145
+Ruislip Manor,0,1.5,145
+Ruislip Manor,1,0.5,142
+Ruislip Manor,2,0.3,103
+Ruislip Manor,3,0.0,87
+Ruislip Manor,4,0.0,108
+Ruislip Manor,5,0.8,127
+Ruislip Manor,6,4.3,132
+Ruislip Manor,7,9.8,133
+Ruislip Manor,8,12.9,136
+Ruislip Manor,9,8.4,126
+Ruislip Manor,10,7.3,133
+Ruislip Manor,11,7.4,134
+Ruislip Manor,12,7.8,130
+Ruislip Manor,13,7.5,133
+Ruislip Manor,14,7.2,131
+Ruislip Manor,15,7.5,133
+Ruislip Manor,16,8.8,135
+Ruislip Manor,17,10.4,134
+Ruislip Manor,18,10.3,131
+Ruislip Manor,19,7.0,127
+Ruislip Manor,20,4.1,128
+Ruislip Manor,21,3.0,124
+Ruislip Manor,22,2.7,132
+Ruislip Manor,23,2.7,150
+Shepherd's Bush (Central),0,6.9,146
+Shepherd's Bush (Central),1,3.4,152
+Shepherd's Bush (Central),2,2.1,137
+Shepherd's Bush (Central),3,1.8,124
+Shepherd's Bush (Central),4,1.5,134
+Shepherd's Bush (Central),5,1.8,132
+Shepherd's Bush (Central),6,7.3,130
+Shepherd's Bush (Central),7,16.0,134
+Shepherd's Bush (Central),8,25.8,135
+Shepherd's Bush (Central),9,26.3,131
+Shepherd's Bush (Central),10,20.1,131
+Shepherd's Bush (Central),11,21.4,133
+Shepherd's Bush (Central),12,24.3,128
+Shepherd's Bush (Central),13,27.2,135
+Shepherd's Bush (Central),14,28.3,131
+Shepherd's Bush (Central),15,30.7,133
+Shepherd's Bush (Central),16,34.8,133
+Shepherd's Bush (Central),17,42.1,134
+Shepherd's Bush (Central),18,46.4,131
+Shepherd's Bush (Central),19,33.8,129
+Shepherd's Bush (Central),20,23.2,127
+Shepherd's Bush (Central),21,18.5,125
+Shepherd's Bush (Central),22,17.5,134
+Shepherd's Bush (Central),23,13.6,147
+Shepherd's Bush Market,0,4.8,145
+Shepherd's Bush Market,1,1.3,148
+Shepherd's Bush Market,2,0.3,137
+Shepherd's Bush Market,3,0.1,126
+Shepherd's Bush Market,4,0.2,137
+Shepherd's Bush Market,5,1.0,129
+Shepherd's Bush Market,6,3.6,128
+Shepherd's Bush Market,7,10.4,137
+Shepherd's Bush Market,8,23.3,135
+Shepherd's Bush Market,9,20.9,129
+Shepherd's Bush Market,10,16.2,134
+Shepherd's Bush Market,11,16.2,132
+Shepherd's Bush Market,12,18.7,129
+Shepherd's Bush Market,13,20.5,134
+Shepherd's Bush Market,14,20.8,131
+Shepherd's Bush Market,15,21.7,132
+Shepherd's Bush Market,16,25.0,135
+Shepherd's Bush Market,17,29.4,133
+Shepherd's Bush Market,18,32.4,131
+Shepherd's Bush Market,19,24.3,129
+Shepherd's Bush Market,20,15.4,128
+Shepherd's Bush Market,21,13.6,122
+Shepherd's Bush Market,22,14.4,133
+Shepherd's Bush Market,23,10.4,152
+Sloane Square,0,2.6,144
+Sloane Square,1,0.3,151
+Sloane Square,2,0.1,135
+Sloane Square,3,0.1,123
+Sloane Square,4,0.1,133
+Sloane Square,5,0.3,133
+Sloane Square,6,2.4,131
+Sloane Square,7,8.9,132
+Sloane Square,8,17.4,134
+Sloane Square,9,19.1,130
+Sloane Square,10,13.7,132
+Sloane Square,11,13.8,132
+Sloane Square,12,15.6,130
+Sloane Square,13,15.6,133
+Sloane Square,14,16.5,131
+Sloane Square,15,18.2,132
+Sloane Square,16,21.4,135
+Sloane Square,17,24.3,133
+Sloane Square,18,27.1,132
+Sloane Square,19,18.7,130
+Sloane Square,20,11.0,125
+Sloane Square,21,8.7,125
+Sloane Square,22,9.0,135
+Sloane Square,23,6.6,149
+Snaresbrook,0,3.9,145
+Snaresbrook,1,1.5,150
+Snaresbrook,2,0.9,130
+Snaresbrook,3,0.6,113
+Snaresbrook,4,0.4,121
+Snaresbrook,5,1.9,133
+Snaresbrook,6,8.8,131
+Snaresbrook,7,18.2,134
+Snaresbrook,8,29.9,132
+Snaresbrook,9,22.3,129
+Snaresbrook,10,16.6,133
+Snaresbrook,11,16.6,132
+Snaresbrook,12,17.3,131
+Snaresbrook,13,17.6,134
+Snaresbrook,14,16.8,132
+Snaresbrook,15,17.2,133
+Snaresbrook,16,21.2,133
+Snaresbrook,17,25.0,133
+Snaresbrook,18,25.1,129
+Snaresbrook,19,16.1,130
+Snaresbrook,20,10.4,126
+Snaresbrook,21,8.3,122
+Snaresbrook,22,7.6,134
+Snaresbrook,23,6.9,153
+South Ealing,0,2.6,143
+South Ealing,1,1.8,151
+South Ealing,2,1.6,138
+South Ealing,3,0.6,121
+South Ealing,4,0.3,125
+South Ealing,5,1.4,133
+South Ealing,6,5.1,133
+South Ealing,7,11.2,132
+South Ealing,8,18.9,134
+South Ealing,9,13.9,130
+South Ealing,10,11.5,132
+South Ealing,11,10.9,133
+South Ealing,12,10.9,129
+South Ealing,13,11.8,132
+South Ealing,14,11.5,133
+South Ealing,15,11.8,132
+South Ealing,16,12.9,133
+South Ealing,17,14.3,133
+South Ealing,18,15.3,132
+South Ealing,19,12.3,130
+South Ealing,20,8.5,127
+South Ealing,21,7.0,122
+South Ealing,22,6.1,135
+South Ealing,23,5.5,150
+South Harrow,0,3.6,145
+South Harrow,1,1.8,150
+South Harrow,2,1.6,139
+South Harrow,3,1.3,123
+South Harrow,4,0.6,136
+South Harrow,5,2.3,133
+South Harrow,6,6.5,132
+South Harrow,7,11.2,131
+South Harrow,8,15.5,133
+South Harrow,9,11.3,130
+South Harrow,10,9.3,133
+South Harrow,11,9.0,133
+South Harrow,12,9.1,130
+South Harrow,13,9.2,133
+South Harrow,14,9.5,132
+South Harrow,15,9.7,132
+South Harrow,16,11.0,133
+South Harrow,17,11.0,135
+South Harrow,18,10.3,130
+South Harrow,19,7.9,130
+South Harrow,20,7.3,126
+South Harrow,21,5.8,124
+South Harrow,22,5.7,135
+South Harrow,23,5.9,148
+South Kensington,0,4.1,143
+South Kensington,1,1.4,155
+South Kensington,2,0.8,136
+South Kensington,3,0.6,123
+South Kensington,4,0.3,135
+South Kensington,5,0.4,132
+South Kensington,6,3.3,129
+South Kensington,7,11.8,137
+South Kensington,8,22.2,131
+South Kensington,9,20.0,131
+South Kensington,10,27.3,134
+South Kensington,11,34.3,132
+South Kensington,12,36.8,130
+South Kensington,13,35.2,133
+South Kensington,14,32.7,133
+South Kensington,15,32.1,130
+South Kensington,16,34.1,135
+South Kensington,17,31.4,135
+South Kensington,18,22.9,129
+South Kensington,19,19.0,130
+South Kensington,20,18.3,126
+South Kensington,21,14.7,124
+South Kensington,22,13.6,131
+South Kensington,23,11.1,152
+South Ruislip,0,2.9,146
+South Ruislip,1,1.1,151
+South Ruislip,2,0.3,138
+South Ruislip,3,0.2,102
+South Ruislip,4,0.0,116
+South Ruislip,5,1.8,133
+South Ruislip,6,8.7,130
+South Ruislip,7,16.6,135
+South Ruislip,8,20.2,131
+South Ruislip,9,13.3,130
+South Ruislip,10,10.8,132
+South Ruislip,11,10.9,133
+South Ruislip,12,12.0,132
+South Ruislip,13,13.1,132
+South Ruislip,14,12.2,132
+South Ruislip,15,11.8,132
+South Ruislip,16,13.4,132
+South Ruislip,17,17.2,135
+South Ruislip,18,17.3,129
+South Ruislip,19,15.2,130
+South Ruislip,20,9.3,125
+South Ruislip,21,6.4,127
+South Ruislip,22,5.9,131
+South Ruislip,23,5.5,151
+South Wimbledon,0,10.4,144
+South Wimbledon,1,9.1,146
+South Wimbledon,2,7.2,143
+South Wimbledon,3,5.2,120
+South Wimbledon,4,3.3,138
+South Wimbledon,5,6.9,130
+South Wimbledon,6,17.0,130
+South Wimbledon,7,32.3,135
+South Wimbledon,8,47.9,134
+South Wimbledon,9,30.8,131
+South Wimbledon,10,21.3,130
+South Wimbledon,11,20.8,134
+South Wimbledon,12,22.3,129
+South Wimbledon,13,22.0,133
+South Wimbledon,14,20.0,133
+South Wimbledon,15,21.4,132
+South Wimbledon,16,24.7,138
+South Wimbledon,17,29.0,130
+South Wimbledon,18,34.3,129
+South Wimbledon,19,26.4,131
+South Wimbledon,20,18.5,127
+South Wimbledon,21,15.6,123
+South Wimbledon,22,14.1,131
+South Wimbledon,23,12.6,155
+South Woodford,0,3.5,143
+South Woodford,1,1.5,149
+South Woodford,2,0.7,138
+South Woodford,3,0.6,115
+South Woodford,4,0.4,117
+South Woodford,5,1.7,130
+South Woodford,6,6.7,129
+South Woodford,7,15.5,135
+South Woodford,8,25.7,132
+South Woodford,9,17.4,131
+South Woodford,10,13.1,131
+South Woodford,11,13.6,134
+South Woodford,12,15.0,130
+South Woodford,13,15.4,134
+South Woodford,14,15.0,131
+South Woodford,15,15.1,130
+South Woodford,16,17.5,141
+South Woodford,17,22.5,131
+South Woodford,18,22.6,130
+South Woodford,19,15.3,128
+South Woodford,20,10.7,128
+South Woodford,21,7.8,120
+South Woodford,22,7.6,136
+South Woodford,23,6.8,153
+Southfields,0,1.1,142
+Southfields,1,0.3,150
+Southfields,2,0.1,133
+Southfields,3,0.1,125
+Southfields,4,0.1,129
+Southfields,5,0.5,129
+Southfields,6,2.7,132
+Southfields,7,7.1,134
+Southfields,8,10.1,135
+Southfields,9,7.0,130
+Southfields,10,6.0,130
+Southfields,11,6.8,134
+Southfields,12,6.7,130
+Southfields,13,5.9,131
+Southfields,14,5.7,134
+Southfields,15,6.6,131
+Southfields,16,6.7,136
+Southfields,17,6.8,133
+Southfields,18,7.5,129
+Southfields,19,5.6,131
+Southfields,20,3.7,127
+Southfields,21,2.9,121
+Southfields,22,2.5,137
+Southfields,23,2.0,151
+Southgate,0,3.2,143
+Southgate,1,2.5,149
+Southgate,2,1.6,137
+Southgate,3,1.0,123
+Southgate,4,0.5,137
+Southgate,5,1.0,131
+Southgate,6,3.3,132
+Southgate,7,7.6,135
+Southgate,8,12.3,130
+Southgate,9,8.6,133
+Southgate,10,6.5,130
+Southgate,11,6.3,135
+Southgate,12,7.2,128
+Southgate,13,7.6,135
+Southgate,14,7.7,132
+Southgate,15,7.6,130
+Southgate,16,9.1,137
+Southgate,17,12.3,132
+Southgate,18,13.9,130
+Southgate,19,9.1,131
+Southgate,20,6.4,128
+Southgate,21,5.3,120
+Southgate,22,4.2,131
+Southgate,23,4.4,157
+Southwark,0,11.9,144
+Southwark,1,7.0,148
+Southwark,2,4.8,140
+Southwark,3,3.6,125
+Southwark,4,2.6,135
+Southwark,5,3.6,133
+Southwark,6,12.1,130
+Southwark,7,23.0,134
+Southwark,8,32.4,131
+Southwark,9,37.1,133
+Southwark,10,25.7,131
+Southwark,11,24.8,134
+Southwark,12,27.5,128
+Southwark,13,27.9,134
+Southwark,14,29.2,132
+Southwark,15,30.4,131
+Southwark,16,36.5,136
+Southwark,17,40.5,136
+Southwark,18,41.7,129
+Southwark,19,30.6,128
+Southwark,20,24.1,128
+Southwark,21,26.2,124
+Southwark,22,21.6,134
+Southwark,23,18.3,148
+St. John's Wood,0,4.7,142
+St. John's Wood,1,1.6,154
+St. John's Wood,2,1.3,112
+St. John's Wood,3,0.9,100
+St. John's Wood,4,0.6,111
+St. John's Wood,5,0.8,130
+St. John's Wood,6,4.6,134
+St. John's Wood,7,12.7,131
+St. John's Wood,8,18.8,137
+St. John's Wood,9,18.1,129
+St. John's Wood,10,13.4,132
+St. John's Wood,11,12.7,132
+St. John's Wood,12,13.8,131
+St. John's Wood,13,14.7,133
+St. John's Wood,14,14.8,129
+St. John's Wood,15,17.1,134
+St. John's Wood,16,20.5,134
+St. John's Wood,17,24.1,135
+St. John's Wood,18,24.2,130
+St. John's Wood,19,18.7,130
+St. John's Wood,20,13.6,126
+St. John's Wood,21,10.6,124
+St. John's Wood,22,10.4,133
+St. John's Wood,23,8.9,149
+St. Paul's,0,4.1,144
+St. Paul's,1,2.6,149
+St. Paul's,2,1.9,141
+St. Paul's,3,1.5,122
+St. Paul's,4,1.1,135
+St. Paul's,5,0.7,134
+St. Paul's,6,5.5,128
+St. Paul's,7,14.7,135
+St. Paul's,8,23.5,136
+St. Paul's,9,27.1,129
+St. Paul's,10,15.4,133
+St. Paul's,11,14.5,129
+St. Paul's,12,16.4,131
+St. Paul's,13,17.5,134
+St. Paul's,14,18.4,132
+St. Paul's,15,19.7,132
+St. Paul's,16,23.9,133
+St. Paul's,17,32.3,134
+St. Paul's,18,32.3,132
+St. Paul's,19,20.5,128
+St. Paul's,20,13.7,127
+St. Paul's,21,10.5,125
+St. Paul's,22,10.4,132
+St. Paul's,23,8.5,151
+Stamford Brook,0,2.9,144
+Stamford Brook,1,0.5,150
+Stamford Brook,2,0.1,137
+Stamford Brook,3,0.1,119
+Stamford Brook,4,0.0,133
+Stamford Brook,5,0.6,128
+Stamford Brook,6,3.4,132
+Stamford Brook,7,11.0,135
+Stamford Brook,8,21.9,133
+Stamford Brook,9,16.9,130
+Stamford Brook,10,12.2,133
+Stamford Brook,11,11.8,133
+Stamford Brook,12,12.0,129
+Stamford Brook,13,12.2,134
+Stamford Brook,14,11.7,132
+Stamford Brook,15,12.5,132
+Stamford Brook,16,14.2,133
+Stamford Brook,17,16.9,135
+Stamford Brook,18,17.7,129
+Stamford Brook,19,13.1,130
+Stamford Brook,20,9.4,126
+Stamford Brook,21,6.7,123
+Stamford Brook,22,6.6,135
+Stamford Brook,23,5.7,151
+Stanmore,0,2.6,145
+Stanmore,1,1.7,152
+Stanmore,2,1.0,136
+Stanmore,3,1.0,124
+Stanmore,4,0.8,135
+Stanmore,5,2.0,134
+Stanmore,6,4.7,128
+Stanmore,7,9.7,133
+Stanmore,8,13.9,135
+Stanmore,9,8.6,131
+Stanmore,10,7.1,133
+Stanmore,11,7.6,131
+Stanmore,12,7.0,131
+Stanmore,13,6.3,133
+Stanmore,14,5.9,131
+Stanmore,15,6.2,131
+Stanmore,16,8.4,136
+Stanmore,17,9.5,134
+Stanmore,18,11.5,131
+Stanmore,19,8.4,128
+Stanmore,20,5.6,127
+Stanmore,21,4.2,125
+Stanmore,22,3.9,132
+Stanmore,23,4.0,150
+Stepney Green,0,7.3,146
+Stepney Green,1,1.7,150
+Stepney Green,2,0.5,137
+Stepney Green,3,0.4,124
+Stepney Green,4,0.4,132
+Stepney Green,5,2.0,133
+Stepney Green,6,8.2,135
+Stepney Green,7,16.3,129
+Stepney Green,8,23.8,137
+Stepney Green,9,23.4,128
+Stepney Green,10,16.8,133
+Stepney Green,11,16.7,133
+Stepney Green,12,17.0,128
+Stepney Green,13,18.1,135
+Stepney Green,14,19.0,130
+Stepney Green,15,20.0,134
+Stepney Green,16,23.5,133
+Stepney Green,17,28.7,134
+Stepney Green,18,28.2,133
+Stepney Green,19,20.8,127
+Stepney Green,20,16.3,127
+Stepney Green,21,13.6,124
+Stepney Green,22,12.2,131
+Stepney Green,23,11.6,153
+Stockwell,0,7.3,145
+Stockwell,1,4.3,151
+Stockwell,2,3.5,137
+Stockwell,3,2.4,127
+Stockwell,4,1.5,130
+Stockwell,5,1.6,132
+Stockwell,6,5.1,135
+Stockwell,7,12.6,130
+Stockwell,8,24.2,136
+Stockwell,9,19.8,131
+Stockwell,10,11.4,129
+Stockwell,11,11.4,135
+Stockwell,12,12.4,131
+Stockwell,13,13.4,133
+Stockwell,14,13.5,131
+Stockwell,15,14.6,133
+Stockwell,16,17.8,135
+Stockwell,17,24.4,134
+Stockwell,18,30.5,130
+Stockwell,19,21.9,127
+Stockwell,20,15.5,130
+Stockwell,21,13.2,121
+Stockwell,22,12.5,136
+Stockwell,23,12.5,147
+Stonebridge Park,0,5.0,144
+Stonebridge Park,1,0.7,148
+Stonebridge Park,2,0.1,135
+Stonebridge Park,3,0.1,123
+Stonebridge Park,4,0.0,119
+Stonebridge Park,5,1.9,130
+Stonebridge Park,6,8.9,132
+Stonebridge Park,7,17.4,135
+Stonebridge Park,8,22.1,134
+Stonebridge Park,9,17.0,130
+Stonebridge Park,10,12.4,130
+Stonebridge Park,11,12.1,134
+Stonebridge Park,12,12.8,127
+Stonebridge Park,13,12.9,136
+Stonebridge Park,14,14.0,132
+Stonebridge Park,15,15.0,131
+Stonebridge Park,16,17.4,135
+Stonebridge Park,17,22.8,134
+Stonebridge Park,18,22.9,130
+Stonebridge Park,19,18.4,130
+Stonebridge Park,20,13.2,128
+Stonebridge Park,21,10.5,119
+Stonebridge Park,22,9.8,137
+Stonebridge Park,23,7.8,150
+Stratford,0,7.4,143
+Stratford,1,3.7,151
+Stratford,2,2.2,137
+Stratford,3,1.8,127
+Stratford,4,1.8,131
+Stratford,5,3.5,133
+Stratford,6,9.1,133
+Stratford,7,16.8,132
+Stratford,8,23.1,131
+Stratford,9,17.6,134
+Stratford,10,19.3,133
+Stratford,11,21.7,130
+Stratford,12,25.0,130
+Stratford,13,28.5,135
+Stratford,14,30.0,132
+Stratford,15,29.0,131
+Stratford,16,32.5,135
+Stratford,17,36.2,133
+Stratford,18,24.7,131
+Stratford,19,21.8,130
+Stratford,20,20.7,125
+Stratford,21,16.9,123
+Stratford,22,14.8,135
+Stratford,23,13.1,151
+Sudbury Hill,0,2.0,142
+Sudbury Hill,1,1.2,142
+Sudbury Hill,2,1.0,134
+Sudbury Hill,3,0.4,123
+Sudbury Hill,4,0.2,136
+Sudbury Hill,5,1.3,132
+Sudbury Hill,6,3.7,131
+Sudbury Hill,7,7.7,132
+Sudbury Hill,8,12.0,138
+Sudbury Hill,9,8.8,127
+Sudbury Hill,10,7.1,131
+Sudbury Hill,11,6.2,134
+Sudbury Hill,12,7.1,132
+Sudbury Hill,13,7.1,130
+Sudbury Hill,14,7.7,133
+Sudbury Hill,15,7.0,133
+Sudbury Hill,16,7.4,133
+Sudbury Hill,17,9.0,134
+Sudbury Hill,18,9.8,132
+Sudbury Hill,19,6.9,127
+Sudbury Hill,20,4.0,129
+Sudbury Hill,21,4.0,123
+Sudbury Hill,22,3.0,132
+Sudbury Hill,23,3.0,152
+Sudbury Town,0,2.5,143
+Sudbury Town,1,1.9,140
+Sudbury Town,2,2.3,116
+Sudbury Town,3,1.8,94
+Sudbury Town,4,0.6,118
+Sudbury Town,5,2.3,132
+Sudbury Town,6,5.2,131
+Sudbury Town,7,9.6,134
+Sudbury Town,8,13.0,133
+Sudbury Town,9,7.7,128
+Sudbury Town,10,5.8,132
+Sudbury Town,11,4.9,133
+Sudbury Town,12,5.3,128
+Sudbury Town,13,5.2,136
+Sudbury Town,14,5.3,131
+Sudbury Town,15,5.4,134
+Sudbury Town,16,6.0,133
+Sudbury Town,17,5.4,131
+Sudbury Town,18,5.9,127
+Sudbury Town,19,4.6,129
+Sudbury Town,20,3.9,124
+Sudbury Town,21,3.4,124
+Sudbury Town,22,3.3,133
+Sudbury Town,23,2.5,151
+Swiss Cottage,0,6.9,143
+Swiss Cottage,1,2.3,151
+Swiss Cottage,2,1.8,123
+Swiss Cottage,3,1.4,110
+Swiss Cottage,4,0.9,131
+Swiss Cottage,5,1.3,131
+Swiss Cottage,6,5.6,129
+Swiss Cottage,7,14.2,134
+Swiss Cottage,8,26.0,136
+Swiss Cottage,9,24.5,128
+Swiss Cottage,10,16.6,131
+Swiss Cottage,11,15.4,135
+Swiss Cottage,12,16.5,130
+Swiss Cottage,13,17.9,133
+Swiss Cottage,14,18.0,132
+Swiss Cottage,15,19.5,131
+Swiss Cottage,16,23.9,133
+Swiss Cottage,17,29.9,135
+Swiss Cottage,18,31.8,131
+Swiss Cottage,19,25.1,130
+Swiss Cottage,20,17.5,127
+Swiss Cottage,21,13.5,124
+Swiss Cottage,22,14.0,132
+Swiss Cottage,23,12.6,152
+Temple,0,3.4,145
+Temple,1,0.1,143
+Temple,2,0.0,140
+Temple,3,0.0,122
+Temple,4,0.1,136
+Temple,5,0.3,128
+Temple,6,3.0,130
+Temple,7,9.5,132
+Temple,8,18.7,136
+Temple,9,23.8,129
+Temple,10,15.4,133
+Temple,11,14.8,130
+Temple,12,16.0,129
+Temple,13,16.3,134
+Temple,14,16.7,134
+Temple,15,17.9,132
+Temple,16,22.0,135
+Temple,17,26.7,132
+Temple,18,29.8,130
+Temple,19,20.2,132
+Temple,20,13.2,127
+Temple,21,10.5,123
+Temple,22,11.4,131
+Temple,23,8.0,153
+Theydon Bois,0,1.8,143
+Theydon Bois,1,0.9,145
+Theydon Bois,2,0.7,91
+Theydon Bois,3,0.6,58
+Theydon Bois,4,0.3,67
+Theydon Bois,5,3.5,119
+Theydon Bois,6,11.9,129
+Theydon Bois,7,21.4,133
+Theydon Bois,8,20.0,133
+Theydon Bois,9,11.5,127
+Theydon Bois,10,10.6,133
+Theydon Bois,11,13.2,133
+Theydon Bois,12,12.9,129
+Theydon Bois,13,13.4,136
+Theydon Bois,14,11.2,131
+Theydon Bois,15,12.9,133
+Theydon Bois,16,15.3,135
+Theydon Bois,17,14.2,134
+Theydon Bois,18,16.1,130
+Theydon Bois,19,9.4,127
+Theydon Bois,20,5.9,126
+Theydon Bois,21,3.7,126
+Theydon Bois,22,4.4,133
+Theydon Bois,23,3.9,150
+Tooting Bec,0,6.1,142
+Tooting Bec,1,2.9,150
+Tooting Bec,2,1.7,141
+Tooting Bec,3,1.2,124
+Tooting Bec,4,0.8,133
+Tooting Bec,5,1.5,130
+Tooting Bec,6,6.6,132
+Tooting Bec,7,19.0,135
+Tooting Bec,8,34.9,134
+Tooting Bec,9,23.9,130
+Tooting Bec,10,14.1,131
+Tooting Bec,11,14.0,132
+Tooting Bec,12,15.7,128
+Tooting Bec,13,16.2,135
+Tooting Bec,14,15.1,133
+Tooting Bec,15,15.6,131
+Tooting Bec,16,18.0,138
+Tooting Bec,17,26.4,130
+Tooting Bec,18,31.9,133
+Tooting Bec,19,23.6,128
+Tooting Bec,20,15.7,128
+Tooting Bec,21,12.1,123
+Tooting Bec,22,10.7,134
+Tooting Bec,23,9.7,151
+Tooting Broadway,0,5.6,145
+Tooting Broadway,1,3.0,148
+Tooting Broadway,2,2.1,140
+Tooting Broadway,3,1.3,123
+Tooting Broadway,4,0.8,135
+Tooting Broadway,5,1.5,130
+Tooting Broadway,6,5.7,133
+Tooting Broadway,7,14.5,134
+Tooting Broadway,8,27.3,134
+Tooting Broadway,9,19.4,128
+Tooting Broadway,10,12.1,132
+Tooting Broadway,11,11.6,134
+Tooting Broadway,12,12.7,129
+Tooting Broadway,13,13.6,133
+Tooting Broadway,14,12.9,134
+Tooting Broadway,15,14.4,132
+Tooting Broadway,16,17.0,134
+Tooting Broadway,17,23.9,132
+Tooting Broadway,18,26.7,133
+Tooting Broadway,19,19.2,129
+Tooting Broadway,20,13.2,127
+Tooting Broadway,21,10.1,123
+Tooting Broadway,22,9.1,132
+Tooting Broadway,23,8.5,152
+Tottenham Court Road,0,8.3,142
+Tottenham Court Road,1,5.3,153
+Tottenham Court Road,2,4.3,134
+Tottenham Court Road,3,3.7,126
+Tottenham Court Road,4,1.9,136
+Tottenham Court Road,5,1.3,128
+Tottenham Court Road,6,4.4,136
+Tottenham Court Road,7,10.5,132
+Tottenham Court Road,8,19.2,131
+Tottenham Court Road,9,24.0,132
+Tottenham Court Road,10,18.5,134
+Tottenham Court Road,11,19.3,129
+Tottenham Court Road,12,24.0,131
+Tottenham Court Road,13,26.4,134
+Tottenham Court Road,14,27.6,130
+Tottenham Court Road,15,29.8,135
+Tottenham Court Road,16,33.9,131
+Tottenham Court Road,17,43.3,135
+Tottenham Court Road,18,37.3,130
+Tottenham Court Road,19,30.6,132
+Tottenham Court Road,20,24.8,126
+Tottenham Court Road,21,20.7,121
+Tottenham Court Road,22,23.8,139
+Tottenham Court Road,23,16.9,149
+Tottenham Hale,0,10.9,145
+Tottenham Hale,1,5.2,151
+Tottenham Hale,2,3.4,137
+Tottenham Hale,3,4.0,127
+Tottenham Hale,4,3.5,133
+Tottenham Hale,5,5.1,132
+Tottenham Hale,6,15.4,134
+Tottenham Hale,7,29.5,131
+Tottenham Hale,8,38.6,136
+Tottenham Hale,9,35.4,127
+Tottenham Hale,10,30.0,133
+Tottenham Hale,11,28.6,131
+Tottenham Hale,12,30.3,131
+Tottenham Hale,13,33.0,135
+Tottenham Hale,14,33.7,132
+Tottenham Hale,15,35.7,132
+Tottenham Hale,16,41.4,133
+Tottenham Hale,17,46.1,135
+Tottenham Hale,18,47.3,128
+Tottenham Hale,19,36.9,130
+Tottenham Hale,20,29.5,128
+Tottenham Hale,21,24.5,124
+Tottenham Hale,22,23.8,132
+Tottenham Hale,23,22.2,149
+Totteridge & Whetstone,0,3.2,145
+Totteridge & Whetstone,1,1.4,148
+Totteridge & Whetstone,2,0.9,116
+Totteridge & Whetstone,3,1.2,101
+Totteridge & Whetstone,4,0.7,73
+Totteridge & Whetstone,5,1.4,124
+Totteridge & Whetstone,6,5.3,132
+Totteridge & Whetstone,7,13.6,133
+Totteridge & Whetstone,8,25.5,131
+Totteridge & Whetstone,9,15.5,130
+Totteridge & Whetstone,10,11.2,132
+Totteridge & Whetstone,11,10.8,136
+Totteridge & Whetstone,12,11.3,130
+Totteridge & Whetstone,13,11.5,132
+Totteridge & Whetstone,14,10.7,133
+Totteridge & Whetstone,15,10.8,130
+Totteridge & Whetstone,16,13.6,135
+Totteridge & Whetstone,17,16.2,136
+Totteridge & Whetstone,18,18.0,128
+Totteridge & Whetstone,19,13.2,131
+Totteridge & Whetstone,20,8.5,128
+Totteridge & Whetstone,21,6.3,122
+Totteridge & Whetstone,22,6.2,132
+Totteridge & Whetstone,23,6.1,150
+Tower Hill,0,7.3,144
+Tower Hill,1,1.6,147
+Tower Hill,2,0.3,140
+Tower Hill,3,0.3,125
+Tower Hill,4,0.1,126
+Tower Hill,5,0.9,133
+Tower Hill,6,6.1,132
+Tower Hill,7,13.7,132
+Tower Hill,8,22.2,133
+Tower Hill,9,23.0,132
+Tower Hill,10,19.5,132
+Tower Hill,11,21.1,131
+Tower Hill,12,21.9,131
+Tower Hill,13,22.3,132
+Tower Hill,14,23.4,134
+Tower Hill,15,25.5,131
+Tower Hill,16,30.0,134
+Tower Hill,17,30.5,134
+Tower Hill,18,29.4,130
+Tower Hill,19,22.4,131
+Tower Hill,20,19.0,127
+Tower Hill,21,16.1,123
+Tower Hill,22,16.0,130
+Tower Hill,23,13.9,152
+Tufnell Park,0,6.7,145
+Tufnell Park,1,3.2,149
+Tufnell Park,2,2.1,140
+Tufnell Park,3,1.5,124
+Tufnell Park,4,1.0,135
+Tufnell Park,5,1.0,130
+Tufnell Park,6,5.2,131
+Tufnell Park,7,15.2,136
+Tufnell Park,8,29.4,133
+Tufnell Park,9,28.0,129
+Tufnell Park,10,21.1,130
+Tufnell Park,11,19.4,134
+Tufnell Park,12,21.5,133
+Tufnell Park,13,21.8,131
+Tufnell Park,14,21.1,133
+Tufnell Park,15,21.8,132
+Tufnell Park,16,24.2,135
+Tufnell Park,17,27.8,132
+Tufnell Park,18,33.8,130
+Tufnell Park,19,27.5,129
+Tufnell Park,20,18.7,128
+Tufnell Park,21,14.6,124
+Tufnell Park,22,14.7,132
+Tufnell Park,23,12.9,149
+Turnham Green,0,4.9,143
+Turnham Green,1,1.6,152
+Turnham Green,2,0.6,140
+Turnham Green,3,0.4,122
+Turnham Green,4,0.2,128
+Turnham Green,5,1.2,132
+Turnham Green,6,5.1,129
+Turnham Green,7,12.9,136
+Turnham Green,8,24.4,133
+Turnham Green,9,18.8,132
+Turnham Green,10,14.2,131
+Turnham Green,11,13.9,130
+Turnham Green,12,14.9,132
+Turnham Green,13,15.4,134
+Turnham Green,14,14.6,132
+Turnham Green,15,15.1,131
+Turnham Green,16,18.9,134
+Turnham Green,17,23.8,134
+Turnham Green,18,24.5,130
+Turnham Green,19,17.4,130
+Turnham Green,20,11.5,130
+Turnham Green,21,8.7,122
+Turnham Green,22,9.5,131
+Turnham Green,23,9.6,149
+Turnpike Lane,0,3.8,145
+Turnpike Lane,1,1.5,147
+Turnpike Lane,2,0.9,142
+Turnpike Lane,3,0.6,124
+Turnpike Lane,4,0.3,135
+Turnpike Lane,5,1.3,131
+Turnpike Lane,6,4.6,131
+Turnpike Lane,7,8.7,136
+Turnpike Lane,8,12.9,132
+Turnpike Lane,9,13.2,130
+Turnpike Lane,10,9.8,130
+Turnpike Lane,11,8.6,134
+Turnpike Lane,12,8.2,130
+Turnpike Lane,13,9.0,132
+Turnpike Lane,14,8.9,133
+Turnpike Lane,15,9.2,135
+Turnpike Lane,16,10.5,129
+Turnpike Lane,17,11.7,134
+Turnpike Lane,18,13.4,129
+Turnpike Lane,19,10.3,128
+Turnpike Lane,20,8.1,132
+Turnpike Lane,21,7.4,122
+Turnpike Lane,22,6.3,129
+Turnpike Lane,23,7.2,150
+Upminster,0,3.7,146
+Upminster,1,1.0,150
+Upminster,2,0.2,120
+Upminster,3,0.1,88
+Upminster,4,0.3,76
+Upminster,5,2.5,128
+Upminster,6,8.5,134
+Upminster,7,11.6,133
+Upminster,8,12.1,133
+Upminster,9,10.0,130
+Upminster,10,9.0,134
+Upminster,11,9.2,130
+Upminster,12,9.0,128
+Upminster,13,8.9,136
+Upminster,14,9.2,132
+Upminster,15,10.4,131
+Upminster,16,12.9,135
+Upminster,17,16.0,133
+Upminster,18,16.3,132
+Upminster,19,11.6,127
+Upminster,20,6.4,129
+Upminster,21,5.7,122
+Upminster,22,4.8,133
+Upminster,23,4.8,149
+Upminster Bridge,0,1.3,147
+Upminster Bridge,1,0.7,139
+Upminster Bridge,2,0.3,89
+Upminster Bridge,3,0.2,36
+Upminster Bridge,4,0.1,64
+Upminster Bridge,5,2.4,120
+Upminster Bridge,6,8.6,133
+Upminster Bridge,7,13.8,132
+Upminster Bridge,8,16.8,132
+Upminster Bridge,9,9.0,133
+Upminster Bridge,10,6.9,131
+Upminster Bridge,11,6.9,129
+Upminster Bridge,12,7.0,132
+Upminster Bridge,13,7.5,135
+Upminster Bridge,14,7.6,132
+Upminster Bridge,15,8.7,130
+Upminster Bridge,16,10.6,137
+Upminster Bridge,17,10.2,131
+Upminster Bridge,18,10.5,129
+Upminster Bridge,19,7.7,131
+Upminster Bridge,20,4.0,127
+Upminster Bridge,21,4.7,123
+Upminster Bridge,22,3.5,135
+Upminster Bridge,23,2.4,149
+Upney,0,4.4,145
+Upney,1,1.3,149
+Upney,2,0.1,114
+Upney,3,0.0,108
+Upney,4,0.0,107
+Upney,5,4.6,131
+Upney,6,16.1,133
+Upney,7,20.1,131
+Upney,8,24.7,131
+Upney,9,21.4,133
+Upney,10,16.3,134
+Upney,11,17.3,131
+Upney,12,17.6,129
+Upney,13,17.9,133
+Upney,14,18.3,133
+Upney,15,18.5,133
+Upney,16,19.5,134
+Upney,17,20.9,132
+Upney,18,20.1,130
+Upney,19,18.1,129
+Upney,20,12.9,130
+Upney,21,11.0,122
+Upney,22,8.1,132
+Upney,23,7.1,152
+Upton Park,0,12.4,143
+Upton Park,1,3.2,154
+Upton Park,2,0.1,136
+Upton Park,3,0.1,124
+Upton Park,4,0.1,134
+Upton Park,5,5.9,133
+Upton Park,6,21.8,131
+Upton Park,7,30.6,134
+Upton Park,8,37.2,133
+Upton Park,9,33.5,128
+Upton Park,10,26.6,135
+Upton Park,11,26.3,131
+Upton Park,12,26.6,129
+Upton Park,13,29.8,137
+Upton Park,14,33.0,130
+Upton Park,15,33.4,132
+Upton Park,16,36.3,136
+Upton Park,17,38.3,132
+Upton Park,18,38.7,130
+Upton Park,19,32.0,128
+Upton Park,20,25.2,128
+Upton Park,21,20.7,126
+Upton Park,22,18.0,132
+Upton Park,23,17.2,148
+Uxbridge,0,2.5,145
+Uxbridge,1,1.3,152
+Uxbridge,2,0.4,138
+Uxbridge,3,0.2,122
+Uxbridge,4,0.1,133
+Uxbridge,5,1.5,132
+Uxbridge,6,6.5,130
+Uxbridge,7,16.4,137
+Uxbridge,8,22.3,133
+Uxbridge,9,15.5,129
+Uxbridge,10,13.4,132
+Uxbridge,11,14.9,133
+Uxbridge,12,15.7,128
+Uxbridge,13,17.6,135
+Uxbridge,14,16.7,132
+Uxbridge,15,18.3,132
+Uxbridge,16,21.9,134
+Uxbridge,17,25.4,135
+Uxbridge,18,21.1,128
+Uxbridge,19,13.5,130
+Uxbridge,20,8.7,128
+Uxbridge,21,6.4,123
+Uxbridge,22,5.3,132
+Uxbridge,23,4.2,151
+Vauxhall,0,5.8,138
+Vauxhall,1,2.5,157
+Vauxhall,2,1.5,134
+Vauxhall,3,1.3,127
+Vauxhall,4,1.2,133
+Vauxhall,5,1.4,130
+Vauxhall,6,5.4,135
+Vauxhall,7,15.8,131
+Vauxhall,8,27.5,136
+Vauxhall,9,27.2,130
+Vauxhall,10,17.9,132
+Vauxhall,11,17.5,130
+Vauxhall,12,18.9,132
+Vauxhall,13,19.0,134
+Vauxhall,14,18.5,131
+Vauxhall,15,19.3,133
+Vauxhall,16,22.5,135
+Vauxhall,17,27.8,132
+Vauxhall,18,30.9,129
+Vauxhall,19,21.9,130
+Vauxhall,20,14.3,128
+Vauxhall,21,12.8,123
+Vauxhall,22,12.4,132
+Vauxhall,23,11.2,151
+Victoria,0,7.0,139
+Victoria,1,1.6,153
+Victoria,2,1.0,140
+Victoria,3,0.8,124
+Victoria,4,0.6,134
+Victoria,5,1.2,130
+Victoria,6,7.0,136
+Victoria,7,17.2,132
+Victoria,8,27.8,136
+Victoria,9,29.1,126
+Victoria,10,23.2,133
+Victoria,11,23.7,130
+Victoria,12,25.3,133
+Victoria,13,24.7,133
+Victoria,14,25.2,132
+Victoria,15,27.3,133
+Victoria,16,31.4,132
+Victoria,17,38.5,138
+Victoria,18,40.0,127
+Victoria,19,26.9,131
+Victoria,20,19.7,127
+Victoria,21,17.0,124
+Victoria,22,16.6,131
+Victoria,23,12.3,150
+Walthamstow Central,0,4.6,143
+Walthamstow Central,1,2.1,151
+Walthamstow Central,2,1.1,139
+Walthamstow Central,3,0.9,128
+Walthamstow Central,4,0.6,128
+Walthamstow Central,5,2.5,134
+Walthamstow Central,6,9.5,132
+Walthamstow Central,7,18.2,133
+Walthamstow Central,8,28.1,139
+Walthamstow Central,9,21.8,127
+Walthamstow Central,10,14.3,132
+Walthamstow Central,11,13.9,131
+Walthamstow Central,12,14.5,132
+Walthamstow Central,13,14.9,133
+Walthamstow Central,14,15.3,132
+Walthamstow Central,15,15.4,133
+Walthamstow Central,16,18.2,133
+Walthamstow Central,17,24.0,133
+Walthamstow Central,18,26.7,131
+Walthamstow Central,19,18.2,128
+Walthamstow Central,20,11.2,128
+Walthamstow Central,21,9.5,121
+Walthamstow Central,22,9.4,136
+Walthamstow Central,23,8.3,147
+Wanstead,0,3.8,145
+Wanstead,1,2.1,148
+Wanstead,2,1.4,140
+Wanstead,3,1.1,125
+Wanstead,4,0.7,131
+Wanstead,5,1.9,128
+Wanstead,6,7.3,134
+Wanstead,7,14.0,131
+Wanstead,8,19.8,136
+Wanstead,9,15.9,126
+Wanstead,10,11.9,131
+Wanstead,11,11.7,136
+Wanstead,12,12.4,129
+Wanstead,13,13.1,132
+Wanstead,14,13.2,131
+Wanstead,15,13.4,135
+Wanstead,16,14.6,133
+Wanstead,17,19.0,137
+Wanstead,18,19.6,128
+Wanstead,19,15.0,128
+Wanstead,20,10.5,128
+Wanstead,21,8.2,126
+Wanstead,22,6.3,130
+Wanstead,23,6.1,151
+Warren Street,0,5.8,142
+Warren Street,1,3.2,151
+Warren Street,2,2.1,139
+Warren Street,3,2.0,126
+Warren Street,4,1.3,132
+Warren Street,5,1.1,132
+Warren Street,6,4.5,135
+Warren Street,7,12.8,130
+Warren Street,8,24.0,137
+Warren Street,9,26.5,128
+Warren Street,10,17.9,132
+Warren Street,11,17.5,131
+Warren Street,12,18.6,131
+Warren Street,13,20.0,133
+Warren Street,14,19.9,132
+Warren Street,15,21.8,133
+Warren Street,16,25.8,134
+Warren Street,17,32.0,133
+Warren Street,18,32.4,132
+Warren Street,19,24.4,129
+Warren Street,20,18.5,125
+Warren Street,21,14.9,127
+Warren Street,22,14.7,130
+Warren Street,23,11.5,150
+Warwick Avenue,0,4.5,146
+Warwick Avenue,1,0.6,146
+Warwick Avenue,2,0.3,142
+Warwick Avenue,3,0.2,122
+Warwick Avenue,4,0.1,134
+Warwick Avenue,5,0.3,128
+Warwick Avenue,6,3.2,130
+Warwick Avenue,7,11.0,135
+Warwick Avenue,8,23.5,132
+Warwick Avenue,9,20.8,130
+Warwick Avenue,10,13.2,133
+Warwick Avenue,11,12.5,130
+Warwick Avenue,12,14.2,133
+Warwick Avenue,13,14.6,133
+Warwick Avenue,14,14.4,130
+Warwick Avenue,15,15.3,132
+Warwick Avenue,16,18.4,134
+Warwick Avenue,17,23.2,135
+Warwick Avenue,18,27.6,131
+Warwick Avenue,19,22.2,130
+Warwick Avenue,20,14.7,126
+Warwick Avenue,21,11.6,122
+Warwick Avenue,22,11.1,135
+Warwick Avenue,23,8.9,149
+Waterloo,0,10.5,141
+Waterloo,1,6.4,154
+Waterloo,2,4.9,135
+Waterloo,3,3.8,124
+Waterloo,4,2.4,131
+Waterloo,5,2.0,138
+Waterloo,6,7.1,129
+Waterloo,7,19.0,135
+Waterloo,8,30.7,133
+Waterloo,9,24.5,131
+Waterloo,10,25.6,132
+Waterloo,11,28.7,132
+Waterloo,12,31.0,129
+Waterloo,13,31.8,134
+Waterloo,14,31.2,133
+Waterloo,15,32.6,131
+Waterloo,16,37.5,133
+Waterloo,17,38.8,136
+Waterloo,18,27.4,128
+Waterloo,19,27.3,131
+Waterloo,20,26.3,128
+Waterloo,21,21.7,122
+Waterloo,22,22.5,132
+Waterloo,23,20.1,152
+Watford,0,3.8,143
+Watford,1,2.7,152
+Watford,2,0.7,138
+Watford,3,1.0,121
+Watford,4,1.7,134
+Watford,5,2.4,132
+Watford,6,5.3,134
+Watford,7,12.7,132
+Watford,8,15.4,134
+Watford,9,6.8,132
+Watford,10,6.1,131
+Watford,11,6.0,130
+Watford,12,6.4,128
+Watford,13,6.2,137
+Watford,14,6.2,130
+Watford,15,7.5,134
+Watford,16,8.5,136
+Watford,17,11.1,131
+Watford,18,9.7,130
+Watford,19,8.7,127
+Watford,20,6.3,133
+Watford,21,5.3,120
+Watford,22,5.3,132
+Watford,23,4.0,153
+Wembley Central,0,1.3,142
+Wembley Central,1,0.1,150
+Wembley Central,2,0.1,136
+Wembley Central,3,0.1,126
+Wembley Central,4,0.1,132
+Wembley Central,5,0.5,136
+Wembley Central,6,2.9,129
+Wembley Central,7,5.1,132
+Wembley Central,8,7.2,135
+Wembley Central,9,5.8,130
+Wembley Central,10,4.8,134
+Wembley Central,11,4.9,131
+Wembley Central,12,5.4,130
+Wembley Central,13,5.5,133
+Wembley Central,14,5.9,133
+Wembley Central,15,6.8,131
+Wembley Central,16,7.7,133
+Wembley Central,17,8.7,138
+Wembley Central,18,8.7,127
+Wembley Central,19,6.1,130
+Wembley Central,20,4.4,128
+Wembley Central,21,3.2,124
+Wembley Central,22,2.7,132
+Wembley Central,23,2.7,150
+Wembley Park,0,5.3,144
+Wembley Park,1,1.9,149
+Wembley Park,2,1.1,139
+Wembley Park,3,1.2,115
+Wembley Park,4,2.1,117
+Wembley Park,5,3.4,129
+Wembley Park,6,8.1,134
+Wembley Park,7,9.2,132
+Wembley Park,8,9.8,133
+Wembley Park,9,13.2,132
+Wembley Park,10,11.6,131
+Wembley Park,11,10.9,131
+Wembley Park,12,8.5,131
+Wembley Park,13,9.4,134
+Wembley Park,14,10.2,132
+Wembley Park,15,9.9,132
+Wembley Park,16,10.3,132
+Wembley Park,17,11.7,136
+Wembley Park,18,12.4,128
+Wembley Park,19,10.1,131
+Wembley Park,20,9.0,129
+Wembley Park,21,8.3,123
+Wembley Park,22,5.9,129
+Wembley Park,23,5.3,154
+West Brompton,0,3.2,143
+West Brompton,1,0.7,150
+West Brompton,2,0.2,139
+West Brompton,3,0.2,123
+West Brompton,4,0.0,133
+West Brompton,5,0.3,133
+West Brompton,6,3.2,133
+West Brompton,7,13.8,130
+West Brompton,8,24.2,134
+West Brompton,9,21.6,132
+West Brompton,10,16.4,132
+West Brompton,11,17.1,132
+West Brompton,12,18.4,128
+West Brompton,13,19.6,134
+West Brompton,14,21.1,131
+West Brompton,15,25.9,133
+West Brompton,16,32.5,135
+West Brompton,17,35.1,135
+West Brompton,18,33.5,130
+West Brompton,19,27.2,126
+West Brompton,20,20.2,132
+West Brompton,21,14.6,120
+West Brompton,22,12.4,132
+West Brompton,23,10.1,153
+West Finchley,0,1.1,143
+West Finchley,1,0.4,147
+West Finchley,2,0.3,139
+West Finchley,3,0.2,125
+West Finchley,4,0.2,132
+West Finchley,5,0.6,131
+West Finchley,6,2.9,130
+West Finchley,7,8.6,136
+West Finchley,8,15.5,132
+West Finchley,9,11.4,130
+West Finchley,10,8.2,132
+West Finchley,11,7.0,130
+West Finchley,12,7.5,131
+West Finchley,13,6.8,134
+West Finchley,14,6.3,134
+West Finchley,15,6.1,131
+West Finchley,16,7.0,136
+West Finchley,17,8.0,134
+West Finchley,18,8.9,129
+West Finchley,19,6.4,127
+West Finchley,20,4.1,129
+West Finchley,21,3.0,125
+West Finchley,22,2.6,131
+West Finchley,23,2.2,152
+West Ham,0,7.7,146
+West Ham,1,2.4,149
+West Ham,2,0.8,141
+West Ham,3,0.7,125
+West Ham,4,0.5,133
+West Ham,5,3.7,133
+West Ham,6,14.7,130
+West Ham,7,23.5,133
+West Ham,8,28.7,133
+West Ham,9,24.0,132
+West Ham,10,18.6,133
+West Ham,11,18.7,131
+West Ham,12,19.4,128
+West Ham,13,21.9,135
+West Ham,14,22.8,132
+West Ham,15,23.0,131
+West Ham,16,26.0,134
+West Ham,17,30.5,134
+West Ham,18,30.9,131
+West Ham,19,23.2,129
+West Ham,20,18.1,127
+West Ham,21,15.3,123
+West Ham,22,13.4,136
+West Ham,23,13.5,145
+West Hampstead,0,5.1,144
+West Hampstead,1,1.7,150
+West Hampstead,2,1.1,141
+West Hampstead,3,0.9,121
+West Hampstead,4,0.6,133
+West Hampstead,5,1.0,130
+West Hampstead,6,4.4,132
+West Hampstead,7,12.7,135
+West Hampstead,8,23.9,133
+West Hampstead,9,20.2,131
+West Hampstead,10,12.9,132
+West Hampstead,11,12.4,128
+West Hampstead,12,13.3,133
+West Hampstead,13,13.7,134
+West Hampstead,14,13.5,130
+West Hampstead,15,13.7,135
+West Hampstead,16,16.7,132
+West Hampstead,17,20.8,134
+West Hampstead,18,24.0,131
+West Hampstead,19,18.0,127
+West Hampstead,20,12.1,128
+West Hampstead,21,9.4,126
+West Hampstead,22,8.6,131
+West Hampstead,23,8.3,150
+West Harrow,0,1.5,146
+West Harrow,1,0.7,138
+West Harrow,2,0.2,118
+West Harrow,3,0.1,117
+West Harrow,4,0.1,114
+West Harrow,5,1.0,122
+West Harrow,6,4.8,130
+West Harrow,7,8.1,136
+West Harrow,8,12.4,131
+West Harrow,9,8.6,130
+West Harrow,10,6.5,132
+West Harrow,11,6.3,134
+West Harrow,12,6.7,128
+West Harrow,13,6.4,132
+West Harrow,14,6.2,134
+West Harrow,15,6.3,133
+West Harrow,16,7.3,132
+West Harrow,17,9.8,138
+West Harrow,18,10.8,127
+West Harrow,19,7.5,130
+West Harrow,20,4.4,126
+West Harrow,21,3.4,124
+West Harrow,22,3.1,131
+West Harrow,23,2.8,151
+West Kensington,0,3.3,142
+West Kensington,1,0.5,150
+West Kensington,2,0.1,136
+West Kensington,3,0.1,126
+West Kensington,4,0.1,119
+West Kensington,5,0.5,132
+West Kensington,6,2.9,132
+West Kensington,7,9.5,131
+West Kensington,8,19.4,134
+West Kensington,9,17.0,132
+West Kensington,10,11.6,130
+West Kensington,11,10.7,133
+West Kensington,12,11.3,130
+West Kensington,13,11.9,133
+West Kensington,14,11.4,132
+West Kensington,15,11.9,131
+West Kensington,16,14.2,134
+West Kensington,17,18.5,136
+West Kensington,18,20.3,132
+West Kensington,19,14.7,126
+West Kensington,20,10.4,129
+West Kensington,21,8.1,123
+West Kensington,22,8.1,132
+West Kensington,23,6.6,153
+West Ruislip,0,1.1,145
+West Ruislip,1,0.6,149
+West Ruislip,2,0.2,142
+West Ruislip,3,0.1,126
+West Ruislip,4,0.0,134
+West Ruislip,5,0.8,121
+West Ruislip,6,3.6,132
+West Ruislip,7,7.9,134
+West Ruislip,8,8.4,132
+West Ruislip,9,5.9,128
+West Ruislip,10,5.5,134
+West Ruislip,11,5.2,132
+West Ruislip,12,5.8,130
+West Ruislip,13,6.9,134
+West Ruislip,14,5.1,130
+West Ruislip,15,4.1,134
+West Ruislip,16,6.3,134
+West Ruislip,17,6.7,135
+West Ruislip,18,7.3,128
+West Ruislip,19,4.5,131
+West Ruislip,20,2.8,125
+West Ruislip,21,2.5,126
+West Ruislip,22,2.1,131
+West Ruislip,23,2.3,149
+Westbourne Park,0,3.8,143
+Westbourne Park,1,0.6,152
+Westbourne Park,2,0.1,137
+Westbourne Park,3,0.0,126
+Westbourne Park,4,0.1,126
+Westbourne Park,5,0.9,135
+Westbourne Park,6,3.5,133
+Westbourne Park,7,9.6,132
+Westbourne Park,8,20.6,132
+Westbourne Park,9,19.6,133
+Westbourne Park,10,13.8,132
+Westbourne Park,11,13.5,132
+Westbourne Park,12,14.7,129
+Westbourne Park,13,15.9,133
+Westbourne Park,14,15.6,133
+Westbourne Park,15,16.8,132
+Westbourne Park,16,18.9,136
+Westbourne Park,17,21.3,129
+Westbourne Park,18,24.1,131
+Westbourne Park,19,18.5,131
+Westbourne Park,20,13.2,128
+Westbourne Park,21,9.9,124
+Westbourne Park,22,9.7,131
+Westbourne Park,23,7.8,149
+Westminster,0,10.0,143
+Westminster,1,3.2,151
+Westminster,2,2.1,137
+Westminster,3,1.6,125
+Westminster,4,1.2,130
+Westminster,5,1.9,136
+Westminster,6,9.8,127
+Westminster,7,21.2,136
+Westminster,8,29.0,135
+Westminster,9,32.3,130
+Westminster,10,27.1,132
+Westminster,11,28.0,132
+Westminster,12,30.0,130
+Westminster,13,31.1,132
+Westminster,14,31.5,132
+Westminster,15,34.6,134
+Westminster,16,38.8,133
+Westminster,17,40.8,133
+Westminster,18,42.8,129
+Westminster,19,33.3,132
+Westminster,20,26.9,130
+Westminster,21,22.6,121
+Westminster,22,20.8,130
+Westminster,23,16.4,154
+White City,0,6.5,142
+White City,1,4.3,151
+White City,2,3.4,140
+White City,3,3.0,124
+White City,4,2.5,133
+White City,5,2.5,134
+White City,6,5.7,129
+White City,7,6.8,136
+White City,8,6.7,133
+White City,9,6.6,133
+White City,10,5.6,129
+White City,11,5.9,130
+White City,12,6.4,131
+White City,13,7.2,133
+White City,14,7.8,132
+White City,15,8.6,133
+White City,16,10.1,135
+White City,17,12.2,133
+White City,18,11.8,129
+White City,19,9.7,131
+White City,20,8.8,127
+White City,21,8.8,121
+White City,22,9.1,132
+White City,23,7.4,153
+Whitechapel,0,6.8,144
+Whitechapel,1,1.4,153
+Whitechapel,2,0.5,134
+Whitechapel,3,0.4,129
+Whitechapel,4,0.2,128
+Whitechapel,5,1.1,137
+Whitechapel,6,6.4,128
+Whitechapel,7,15.7,135
+Whitechapel,8,26.9,136
+Whitechapel,9,27.3,130
+Whitechapel,10,17.9,130
+Whitechapel,11,17.1,133
+Whitechapel,12,18.5,129
+Whitechapel,13,20.3,133
+Whitechapel,14,21.5,134
+Whitechapel,15,22.2,130
+Whitechapel,16,26.3,135
+Whitechapel,17,33.2,133
+Whitechapel,18,36.0,131
+Whitechapel,19,27.2,131
+Whitechapel,20,20.4,127
+Whitechapel,21,15.7,121
+Whitechapel,22,14.8,134
+Whitechapel,23,12.9,149
+Willesden Green,0,4.4,144
+Willesden Green,1,2.2,148
+Willesden Green,2,1.3,140
+Willesden Green,3,1.0,120
+Willesden Green,4,0.8,135
+Willesden Green,5,1.7,130
+Willesden Green,6,6.5,133
+Willesden Green,7,12.8,134
+Willesden Green,8,21.7,131
+Willesden Green,9,18.0,133
+Willesden Green,10,12.6,133
+Willesden Green,11,12.5,130
+Willesden Green,12,12.2,129
+Willesden Green,13,13.0,136
+Willesden Green,14,12.7,131
+Willesden Green,15,12.6,133
+Willesden Green,16,14.6,131
+Willesden Green,17,17.6,136
+Willesden Green,18,19.1,128
+Willesden Green,19,15.1,132
+Willesden Green,20,10.4,127
+Willesden Green,21,7.7,124
+Willesden Green,22,7.3,131
+Willesden Green,23,7.4,152
+Wimbledon,0,2.8,147
+Wimbledon,1,0.4,149
+Wimbledon,2,0.1,91
+Wimbledon,3,0.0,39
+Wimbledon,4,0.0,47
+Wimbledon,5,1.3,107
+Wimbledon,6,7.3,133
+Wimbledon,7,20.5,132
+Wimbledon,8,32.3,136
+Wimbledon,9,23.8,129
+Wimbledon,10,20.1,131
+Wimbledon,11,22.2,131
+Wimbledon,12,22.1,132
+Wimbledon,13,20.5,133
+Wimbledon,14,17.8,131
+Wimbledon,15,19.5,133
+Wimbledon,16,23.2,136
+Wimbledon,17,28.1,134
+Wimbledon,18,27.4,129
+Wimbledon,19,17.6,128
+Wimbledon,20,11.8,128
+Wimbledon,21,8.4,125
+Wimbledon,22,8.7,131
+Wimbledon,23,6.7,147
+Wimbledon Park,0,1.4,143
+Wimbledon Park,1,0.3,147
+Wimbledon Park,2,0.3,123
+Wimbledon Park,3,0.4,104
+Wimbledon Park,4,0.2,101
+Wimbledon Park,5,0.6,120
+Wimbledon Park,6,2.9,123
+Wimbledon Park,7,10.4,136
+Wimbledon Park,8,17.7,133
+Wimbledon Park,9,12.1,133
+Wimbledon Park,10,9.5,130
+Wimbledon Park,11,10.0,132
+Wimbledon Park,12,9.3,130
+Wimbledon Park,13,9.3,133
+Wimbledon Park,14,8.1,130
+Wimbledon Park,15,9.8,135
+Wimbledon Park,16,10.8,134
+Wimbledon Park,17,13.5,136
+Wimbledon Park,18,13.5,129
+Wimbledon Park,19,8.9,128
+Wimbledon Park,20,6.4,128
+Wimbledon Park,21,4.1,122
+Wimbledon Park,22,3.6,130
+Wimbledon Park,23,3.1,153
+Wood Green,0,3.1,145
+Wood Green,1,2.2,148
+Wood Green,2,1.3,140
+Wood Green,3,0.8,127
+Wood Green,4,0.4,133
+Wood Green,5,1.3,131
+Wood Green,6,6.0,133
+Wood Green,7,11.2,133
+Wood Green,8,15.1,131
+Wood Green,9,11.5,131
+Wood Green,10,7.6,132
+Wood Green,11,8.1,133
+Wood Green,12,10.2,129
+Wood Green,13,11.0,134
+Wood Green,14,11.9,131
+Wood Green,15,11.7,133
+Wood Green,16,14.4,135
+Wood Green,17,16.6,134
+Wood Green,18,17.9,128
+Wood Green,19,11.5,129
+Wood Green,20,7.9,129
+Wood Green,21,6.6,125
+Wood Green,22,5.6,130
+Wood Green,23,5.0,150
+Wood Lane,0,3.1,143
+Wood Lane,1,1.1,152
+Wood Lane,2,0.5,140
+Wood Lane,3,0.1,128
+Wood Lane,4,0.2,122
+Wood Lane,5,0.8,135
+Wood Lane,6,2.8,133
+Wood Lane,7,7.9,132
+Wood Lane,8,16.4,133
+Wood Lane,9,17.4,132
+Wood Lane,10,12.9,132
+Wood Lane,11,13.6,129
+Wood Lane,12,16.0,133
+Wood Lane,13,18.4,131
+Wood Lane,14,19.2,133
+Wood Lane,15,21.0,132
+Wood Lane,16,25.4,135
+Wood Lane,17,33.1,131
+Wood Lane,18,32.0,132
+Wood Lane,19,21.5,130
+Wood Lane,20,14.8,128
+Wood Lane,21,11.6,124
+Wood Lane,22,10.9,131
+Wood Lane,23,7.4,149
+Woodford,0,3.5,143
+Woodford,1,1.9,149
+Woodford,2,1.0,139
+Woodford,3,0.8,123
+Woodford,4,0.7,136
+Woodford,5,2.9,132
+Woodford,6,9.7,131
+Woodford,7,19.3,133
+Woodford,8,28.0,133
+Woodford,9,18.9,132
+Woodford,10,15.3,130
+Woodford,11,16.2,132
+Woodford,12,16.4,132
+Woodford,13,16.6,132
+Woodford,14,15.3,132
+Woodford,15,16.0,133
+Woodford,16,18.2,134
+Woodford,17,23.2,135
+Woodford,18,22.5,131
+Woodford,19,15.1,126
+Woodford,20,10.8,126
+Woodford,21,7.7,124
+Woodford,22,6.6,134
+Woodford,23,6.2,152
+Woodside Park,0,3.5,143
+Woodside Park,1,2.0,150
+Woodside Park,2,1.3,127
+Woodside Park,3,0.8,121
+Woodside Park,4,0.5,121
+Woodside Park,5,1.8,130
+Woodside Park,6,7.7,132
+Woodside Park,7,19.7,133
+Woodside Park,8,36.6,133
+Woodside Park,9,25.3,128
+Woodside Park,10,20.9,134
+Woodside Park,11,18.3,132
+Woodside Park,12,17.9,130
+Woodside Park,13,17.3,132
+Woodside Park,14,16.0,133
+Woodside Park,15,16.4,131
+Woodside Park,16,18.1,132
+Woodside Park,17,20.8,136
+Woodside Park,18,23.8,131
+Woodside Park,19,17.2,129
+Woodside Park,20,11.0,127
+Woodside Park,21,8.5,126
+Woodside Park,22,7.4,131
+Woodside Park,23,6.8,150
